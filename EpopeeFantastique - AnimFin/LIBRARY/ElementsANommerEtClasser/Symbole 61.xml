@@ -1,0 +1,63 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="ElementsANommerEtClasser/Symbole 61" itemID="57ea9765-000000ae" lastModified="1474991973">
+  <timeline>
+    <DOMTimeline name="Symbole 61">
+      <layers>
+        <DOMLayer name="Calque 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText selected="true" fontRenderingMode="standard" width="1276.05" height="100" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="2" ty="2"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Comba</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="100" size="100" bitmapSize="2000" face="Gill Sans MT Condensed*" fillColor="#FF0000"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>t</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" letterSpacing="3" lineHeight="100" size="100" bitmapSize="2000" face="Gill Sans MT Condensed*" fillColor="#FF0000"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>!</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="100" size="100" bitmapSize="2000" face="Gill Sans MT Condensed*" fillColor="#FF0000"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMSymbolInstance libraryItemName="ElementsANommerEtClasser/Symbole 117" selected="true">
+                  <matrix>
+                    <Matrix a="-0.990921020507813" b="-0.134201049804688" c="0.134201049804688" d="-0.990921020507813" tx="632.25" ty="271.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="39.25" y="73.05"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="0.14" tintColor="#CC6600"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ElementsANommerEtClasser/Symbole 117" selected="true" centerPoint3DX="671.8" centerPoint3DY="193.95">
+                  <matrix>
+                    <Matrix a="-0.258712768554688" b="0.965911865234375" c="-0.965927124023438" d="-0.258712768554688" tx="751.7" ty="174.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="39.5" y="72.95"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="0.14" tintColor="#3399FF"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,104 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Interfaces/copie Boutons/btRetourMenuInfo" itemID="581bc998-0000025f" symbolType="button" lastModified="1411605958" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="btRetourMenuInfo">
+      <layers>
+        <DOMLayer name="txt copy" color="#4FFF4F" autoNamed="false" visible="false" layerType="guide">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText fontRenderingMode="standard" width="100" height="114.95" lineType="multiline">
+                  <matrix>
+                    <Matrix a="0.5" d="0.5" tx="1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="50" y="57.5"/>
+                  </transformationPoint>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>i</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineSpacing="1" lineHeight="93" size="93" bitmapSize="1860" face="PoliceGillSansMtExtCondensedBold*" fillColor="#CCCCCC"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="txt" color="#4FFF4F" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="3" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#232323" alpha="0.498039215686275"/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="!244 378|381 230!381 230[391 287 391 301!391 301[1218 214 379 858!379 858|292 858!292 858[1064 233 408 360!408 360[412 376 434 416!434 416|244 378"/>
+                        <Edge cubics="!379 858(;379,858 292,858 292,858q379 858 292 858);"/>
+                        <Edge cubics="!434 416(;434,416 244,378 244,378q434 416 244 378);"/>
+                        <Edge cubics="!244 378(;244,378 381,230 381,230q244 378 381 230);"/>
+                        <Edge cubics="!381 230(;388,268 391,292 391,301q381 230Q391 287q391 301);"/>
+                        <Edge cubics="!408 360(;411,371 419,389 434,416q408 360Q412 376q434 416);"/>
+                        <Edge cubics="!292 858(;807,441 845,275 408,360q292 858Q1064 233q408 360);"/>
+                        <Edge cubics="!391 301(;942,243 938,429 379,858q391 301Q1218 214q379 858);"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="rond" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Interfaces/Interfaces/fondBt" centerPoint3DX="26" centerPoint3DY="26">
+                  <matrix>
+                    <Matrix a="0.5" d="0.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="52" y="52"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Interfaces/Interfaces/fondBt" centerPoint3DX="26" centerPoint3DY="26">
+                  <matrix>
+                    <Matrix a="0.5" d="0.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="52" y="52"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="50" blurY="50" color="#FFFFFF" quality="2" strength="2.5"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Interfaces/Interfaces/fondBt" centerPoint3DX="26" centerPoint3DY="26">
+                  <matrix>
+                    <Matrix a="0.5" d="0.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="52" y="52"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

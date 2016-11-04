@@ -1,0 +1,32 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Animations/Intro/txtIntro" itemID="528c179e-000006d1" lastModified="1411949426">
+  <timeline>
+    <DOMTimeline name="txtIntro">
+      <layers>
+        <DOMLayer name="Calque 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText selected="true" fontRenderingMode="standard" width="1062.65" height="558" isSelectable="false">
+                  <matrix>
+                    <Matrix a="1.19999694824219" d="1.19999694824219" tx="2.4" ty="2.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="531.35" y="177.5"/>
+                  </transformationPoint>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Jadis, votre village vivait paisiblement.&#xD;C'était avant l'arrivée de Torgul, le maître des affreux Korrigans géants. &#xD;Aujourd'hui, toute la région est dominée par ces monstres.&#xD;Les habitants ont tout perdu et meurent de faim.&#xD;Votre but est de détruire ce tortionnaire et ses acolytes.&#xD;Bonne chance, vous en aurez besoin !</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="54" size="54" bitmapSize="1080" face="PoliceGillSansMtExtCondensedBold*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

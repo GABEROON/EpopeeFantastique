@@ -1,0 +1,29 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Animations/Defaite/texteEchec" itemID="528f8ea0-000008b4" lastModified="1385139872">
+  <timeline>
+    <DOMTimeline name="texteEchec">
+      <layers>
+        <DOMLayer name="Calque 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText selected="true" fontRenderingMode="standard" width="1062.85" height="163" isSelectable="false">
+                  <matrix>
+                    <Matrix a="1.19999694824219" d="1.19999694824219" tx="2.4" ty="2.4"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Triste jour dans la vallée.&#xD;Cette fois, ce sont les ténèbres qui ont gagné...</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="53" size="53" bitmapSize="1060" face="PoliceGillSansMtExtCondensedBold*" fillColor="#CCCCCC"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

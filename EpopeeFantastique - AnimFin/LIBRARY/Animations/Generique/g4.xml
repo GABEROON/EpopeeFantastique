@@ -1,0 +1,29 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Animations/Generique/g4" itemID="528bcf39-0000040d" lastModified="1411230128">
+  <timeline>
+    <DOMTimeline name="g4">
+      <layers>
+        <DOMLayer name="Calque 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText fontRenderingMode="standard" width="1062.65" height="90" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix a="1.19999694824219" d="1.19999694824219" tx="2.4" ty="2.4"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Ce jeu a été créé pour le cours Contrôle qualité d'un produit multimédia. </characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="44" size="44" bitmapSize="880" face="PoliceGillSansMtExtCondensedBold*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,59 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Animations/Intro/PersosEtMonstres/Composantes/horas/haut_bas/teteHoras groupe/teteHoras" itemID="581bee5b-00000543" lastModified="1478020788">
+  <timeline>
+    <DOMTimeline name="teteHoras">
+      <layers>
+        <DOMLayer name="Calque 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#F7D4BC"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="0.35">
+                        <fill>
+                          <SolidColor/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!896 448[896 633 764 764!764 764[633 896 448 896!448 896[262 896 131 764!131 764[0 633 0 448!0 448[0 262 131 131!131 131[262 0 448 0!448 0[633 0 764 131!764 131[896 262 896 448"/>
+                    <Edge cubics="!0 448(;0,324 44,219 131,131q0 448Q0 262q131 131);"/>
+                    <Edge cubics="!131 131(;219,44 324,0 448,0q131 131Q262 0q448 0);"/>
+                    <Edge cubics="!764 131(;852,219 896,324 896,448q764 131Q896 262q896 448);"/>
+                    <Edge cubics="!448 0(;571,0 677,44 764,131q448 0Q633 0q764 131);"/>
+                    <Edge cubics="!448 896(;324,896 219,852 131,764q448 896Q262 896q131 764);"/>
+                    <Edge cubics="!764 764(;677,852 571,896 448,896q764 764Q633 896q448 896);"/>
+                    <Edge cubics="!896 448(;896,571 852,677 764,764q896 448Q896 633q764 764);"/>
+                    <Edge cubics="!131 764(;44,677 0,571 0,448q131 764Q0 633q0 448)0,448;"/>
+                  </edges>
+                </DOMShape>
+                <DOMSymbolInstance libraryItemName="Animations/Intro/PersosEtMonstres/Composantes/horas/haut_bas/teteHoras groupe/bandeauHoras">
+                  <matrix>
+                    <Matrix tx="22.55" ty="10.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="17.65" y="2.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Animations/Intro/PersosEtMonstres/Composantes/horas/haut_bas/teteHoras groupe/cheveuxHoras">
+                  <matrix>
+                    <Matrix a="1.2235107421875" d="1.16790771484375" tx="8.85" ty="-8.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="6.2" y="6.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

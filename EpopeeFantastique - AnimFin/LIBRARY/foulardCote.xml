@@ -1,0 +1,30 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="foulardCote" itemID="581cc515-000009b8" lastModified="1478044780">
+  <timeline>
+    <DOMTimeline name="foulardCote">
+      <layers>
+        <DOMLayer name="Calque 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#128012"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!40 70[#13A.38 #86.3C 548 48!548 48[850 105 672 226!672 226[477 332 193 242!193 242[-77 142 40 70"/>
+                    <Edge cubics="!31 58(31,58;-41,114 13,175 193,242q31 58Q-77 142q193 242)193,242;"/>
+                    <Edge cubics="!193 242(;382,302 542,297 672,226q193 242Q477 332q672 226);"/>
+                    <Edge cubics="!31 58(;199,-3 377,-4 566,56q31 58Q283 -34q566 56);"/>
+                    <Edge cubics="!566 56(;755,89 791,145 672,226q566 56Q850 105q672 226);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,388 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Animations/Intro/AnimDebut" itemID="50b4e0ea-000002b4" lastModified="1478286043" lastUniqueIdentifier="4">
+  <timeline>
+    <DOMTimeline name="AnimDebut" currentFrame="393">
+      <layers>
+        <DOMLayer name="frames" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="106" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Animations/Intro/animDebutFrame1">
+                  <matrix>
+                    <Matrix a="1.00025939941406" d="0.9940185546875" tx="4.15" ty="4.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="612" y="405.35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="106" duration="100" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#1E1E00"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!0 90|25538 90!25538 90|25538 14327!25538 14327|0 14327!0 14327|0 90"/>
+                    <Edge cubics="!25538 90(25538,90;25538,90 25538,14327 25538,14327q25538 90 25538 14327)25538,14327;"/>
+                    <Edge cubics="!0 14327(;0,14327 0,90 0,90q0 14327 0 90)0,90;"/>
+                    <Edge cubics="!0 90(0,90;0,90 25538,90 25538,90q0 90 25538 90);"/>
+                    <Edge cubics="!25538 14327(;25538,14327 0,14327 0,14327q25538 14327 0 14327)0,14327;"/>
+                  </edges>
+                </DOMShape>
+                <DOMStaticText fontRenderingMode="standard" width="883.65" height="353.75" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="189.5" ty="177.25"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters> Autrefois, le village de Gaisgale vivait en paix. Les habitants </characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="69.15" size="59" bitmapSize="1180" face="OriyaMN" fillColor="#F2C291"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>é</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="59" size="59" bitmapSize="1180" face="OriyaMN" fillColor="#F2C291"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>taient heureux et pacifiques. Les champs </characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="69.15" size="59" bitmapSize="1180" face="OriyaMN" fillColor="#F2C291"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>é</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="59" size="59" bitmapSize="1180" face="OriyaMN" fillColor="#F2C291"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>taient fertiles et les nuits festives.</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="69.15" size="59" bitmapSize="1180" face="OriyaMN" fillColor="#F2C291"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="206" duration="114" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#F2C291"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!21183 1636[21192 1649 21177 1662!21177 1662[21164 1672 21145 1675!21145 1675[20811 1722 20415 1840!20415 1840[20146 1920 19703 2080!19703 2080[19122 2291 18798 2429!18798 2429[18306 2640 17936 2870!17936 2870[17924 2858 17935 2839!17935
+ 2839[17944 2824 17963 2811!17963 2811[18372 2569 18905 2346!18905 2346[19278 2190 19890 1976!19890 1976[20294 1833 20528 1767!20528 1767[20884 1667 21183 1636"/>
+                    <Edge cubics="!21183 1636(;21196,1655 21166,1672 21145,1675q21183 1636Q21192 1649q21177 1662Q21164 1672q21145 1675);"/>
+                    <Edge cubics="!21145 1675(;20650,1745 20173,1910 19703,2080q21145 1675Q20811 1722q20415 1840Q20146 1920q19703 2080)19703,2080;"/>
+                    <Edge cubics="!19703 2080(;19096,2300 18486,2528 17936,2870q19703 2080Q19122 2291q18798 2429Q18306 2640q17936 2870);"/>
+                    <Edge cubics="!17936 2870(17936,2870;17918,2852 17942,2825 17963,2811q17936 2870Q17924 2858q17935 2839Q17944 2824q17963 2811);"/>
+                    <Edge cubics="!17963 2811(;18567,2453 19228,2208 19890,1976q17963 2811Q18372 2569q18905 2346Q19278 2190q19890 1976);"/>
+                    <Edge cubics="!19890 1976(;20312,1827 20738,1682 21183,1636q19890 1976Q20294 1833q20528 1767Q20884 1667q21183 1636);"/>
+                  </edges>
+                </DOMShape>
+                <DOMSymbolInstance libraryItemName="Animations/Intro/animDebutFrame2">
+                  <matrix>
+                    <Matrix tx="-0.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="655.9" y="228.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="320" duration="81" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#1E1E00"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="
+!0 90|25538 90!25538 90|25538 14327!25538 14327|0 14327!0 14327|0 90"/>
+                    <Edge cubics="!25538 90(25538,90;25538,90 25538,14327 25538,14327q25538 90 25538 14327)25538,14327;"/>
+                    <Edge cubics="!0 14327(;0,14327 0,90 0,90q0 14327 0 90)0,90;"/>
+                    <Edge cubics="!0 90(0,90;0,90 25538,90 25538,90q0 90 25538 90);"/>
+                    <Edge cubics="!25538 14327(;25538,14327 0,14327 0,14327q25538 14327 0 14327)0,14327;"/>
+                  </edges>
+                </DOMShape>
+                <DOMStaticText fontRenderingMode="standard" width="883.65" height="567.2" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="187.75" ty="81"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Un jour, pendant les festivit</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="69.15" size="59" bitmapSize="1180" face="OriyaMN" fillColor="#F2C291"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>é</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="59" size="59" bitmapSize="1180" face="OriyaMN" fillColor="#F2C291"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>s de la nuit noire, la terre se mit </characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="69.15" size="59" bitmapSize="1180" face="OriyaMN" fillColor="#F2C291"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>à</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="59" size="59" bitmapSize="1180" face="OriyaMN" fillColor="#F2C291"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters> vibrer et le ciel s’assombrit. C’est alors que des cr</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="69.15" size="59" bitmapSize="1180" face="OriyaMN" fillColor="#F2C291"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>é</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="59" size="59" bitmapSize="1180" face="OriyaMN" fillColor="#F2C291"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>atures repoussantes sortirent de la noirceur de la nuit pour terroriser les habitants et mettre feu aux r</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="69.15" size="59" bitmapSize="1180" face="OriyaMN" fillColor="#F2C291"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>é</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="59" size="59" bitmapSize="1180" face="OriyaMN" fillColor="#F2C291"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>coltes.</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="69.15" size="59" bitmapSize="1180" face="OriyaMN" fillColor="#F2C291"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="401" duration="111" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Animations/Intro/animDebutFrame3">
+                  <matrix>
+                    <Matrix tx="-0.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="655.9" y="360"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="512" duration="76" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#1E1E00"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="
+!0 90|25538 90!25538 90|25538 14327!25538 14327|0 14327!0 14327|0 90"/>
+                    <Edge cubics="!25538 90(25538,90;25538,90 25538,14327 25538,14327q25538 90 25538 14327)25538,14327;"/>
+                    <Edge cubics="!0 14327(;0,14327 0,90 0,90q0 14327 0 90)0,90;"/>
+                    <Edge cubics="!0 90(0,90;0,90 25538,90 25538,90q0 90 25538 90);"/>
+                    <Edge cubics="!25538 14327(;25538,14327 0,14327 0,14327q25538 14327 0 14327)0,14327;"/>
+                  </edges>
+                </DOMShape>
+                <DOMStaticText fontRenderingMode="standard" width="883.65" height="567.2" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="202.8" ty="85.6"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Un jour, pendant les festivit</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="69.15" size="59" face="OriyaMN" fillColor="#F2C291"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>é</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="59" size="59" face="OriyaMN" fillColor="#F2C291"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>s de la nuit noire, la terre se mit </characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="69.15" size="59" face="OriyaMN" fillColor="#F2C291"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>à</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="59" size="59" face="OriyaMN" fillColor="#F2C291"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters> vibrer et le ciel s’assombrit. C’est alors que des cr</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="69.15" size="59" face="OriyaMN" fillColor="#F2C291"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>é</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="59" size="59" face="OriyaMN" fillColor="#F2C291"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>atures repoussantes sortirent de la noirceur de la nuit pour terroriser les habitants et mettre feu aux r</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="69.15" size="59" face="OriyaMN" fillColor="#F2C291"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>é</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="59" size="59" face="OriyaMN" fillColor="#F2C291"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>coltes.</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="69.15" size="59" face="OriyaMN" fillColor="#F2C291"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="son" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" duration="409" keyMode="9728" soundName="Sons/Musiques/Devastation and Revenge_intro_13s_mixage final.mp3" soundSync="stream">
+              <SoundEnvelope>
+                <SoundEnvelopePoint level0="32768" level1="32768"/>
+              </SoundEnvelope>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="AS" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="385" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="385" duration="130" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="515" duration="3" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="518" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[
+log("C'est le début du jeu.", 3);
+
+
+// après l'animation on avance le stage d'un frame:
+MovieClip(parent).gotoAndStop('jeu');]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="images" color="#4FFF4F" autoNamed="false" visible="false" layerType="mask">
+          <frames>
+            <DOMFrame index="0" duration="386" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="386" duration="23" tweenType="shape" keyMode="17922">
+              <MorphShape>
+                <morphSegments/>
+                <morphHintsList/>
+              </MorphShape>
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFF00"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#FFCC00"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="
+!12794 7255[12767 7228 12767 7190!12767 7190[12767 7152 12794 7125!12794 7125[12821 7098 12859 7098!12859 7098[12897 7098 12924 7125!12924 7125[12951 7152 12951 7190!12951 7190[12951 7228 12924 7255!12924 7255[12897 7282 12859 7282!12859
+ 7282[12821 7282 12794 7255"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="409" duration="110" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="519" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="anim" color="#9933CC" parentLayerIndex="3" locked="true" autoNamed="false" visible="false">
+          <frames>
+            <DOMFrame index="0" duration="386" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="386" duration="130" keyMode="9728">
+              <elements>
+                <DOMStaticText selected="true" left="0.6" width="655.5" height="22.15" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="329" ty="262.75"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>SVP Remplacer cette animation par une cinématique pour contextualiser le récit...</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="22.15" size="20" bitmapSize="400" face="TimesNewRomanPSMT" fillColor="#009933"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMSymbolInstance libraryItemName="croquis/cinematiqueIntro">
+                  <transformationPoint>
+                    <Point x="640" y="243.45"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

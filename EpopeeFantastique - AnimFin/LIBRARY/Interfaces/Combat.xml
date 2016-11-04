@@ -1,0 +1,293 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Interfaces/Combat" itemID="50b4e0f3-000002b6" linkageExportForAS="true" linkageClassName="Combat" lastModified="1443877279" lastUniqueIdentifier="247">
+  <timeline>
+    <DOMTimeline name="Combat">
+      <layers>
+        <DOMLayer name="persos" color="#4FFF4F" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="places" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Interfaces/teleport" name="placePerso0" centerPoint3DX="902.5" centerPoint3DY="175.65">
+                  <matrix>
+                    <Matrix d="0.960006713867188" tx="890" ty="151.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Interfaces/teleport" name="placePerso1" centerPoint3DX="902.5" centerPoint3DY="280">
+                  <matrix>
+                    <Matrix d="0.960006713867188" tx="890" ty="256"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Interfaces/teleport" name="placePerso2" centerPoint3DX="902.5" centerPoint3DY="384.35">
+                  <matrix>
+                    <Matrix d="0.960006713867188" tx="890" ty="360.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Interfaces/teleport" name="placePerso3" centerPoint3DX="902.5" centerPoint3DY="488.75">
+                  <matrix>
+                    <Matrix d="0.960006713867188" tx="890" ty="464.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Interfaces/teleport" name="placeMonstre0" centerPoint3DX="620.75" centerPoint3DY="441.2">
+                  <matrix>
+                    <Matrix a="1.25" d="1.25" tx="605.15" ty="409.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="12.5" y="25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Interfaces/teleport" name="placeMonstre1" selected="true" centerPoint3DX="497.15" centerPoint3DY="246.5">
+                  <matrix>
+                    <Matrix a="1.25" d="1.25" tx="481.55" ty="215.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="12.5" y="25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Interfaces/teleport" name="placeMonstre2" centerPoint3DX="314.15" centerPoint3DY="386.75">
+                  <matrix>
+                    <Matrix a="1.25" d="1.25" tx="298.5" ty="355.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="12.5" y="25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Interfaces/teleport" name="placeMonstre3" centerPoint3DX="155.25" centerPoint3DY="261.25">
+                  <matrix>
+                    <Matrix a="1.25" d="1.25" tx="139.6" ty="230"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="12.5" y="25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="interface" color="#FF4FFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Interfaces/BarreActions" name="barreActions_mc" centerPoint3DX="976.55" centerPoint3DY="589.65">
+                  <matrix>
+                    <Matrix tx="839.45" ty="493.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="137.1" y="96"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Interfaces/pointeur_lumiere" name="pointeur" centerPoint3DX="902" centerPoint3DY="172.65">
+                  <matrix>
+                    <Matrix tx="888" ty="151.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="14" y="21"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMDynamicText name="messagesRonde_txt" fontRenderingMode="standard" top="-18.55" width="754.9" height="229.4" includeOutlines="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="40.05" ty="506.55"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Monstre&#xD;1&#xD;2&#xD;3&#xD;4&#xD;5&#xD;6&#xD;7</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="-3" lineHeight="26" size="26" bitmapSize="520" face="Gill Sans MT Condensed*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="objets" color="#808080" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsConifere" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="35.7" ty="134.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="18.2" y="50.7"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="0.32" tintColor="#3A134E"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsConifere" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="150.1" ty="113.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="18.2" y="50.7"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="0.32" tintColor="#562338"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsConifere" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="103.7" ty="127.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="18.2" y="50.7"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="0.26" tintColor="#4B1D40"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsConifere" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="72.1" ty="161.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="18.2" y="50.7"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="0.2" tintColor="#4B1D40"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsConifere" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="1103" ty="119.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="18.2" y="50.7"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="0.3" tintColor="#5D2633"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsConifere" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="1172.3" ty="145.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="18.2" y="50.7"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="0.26" tintColor="#3F164A"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="paysage" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <RadialGradient>
+                        <matrix>
+                          <Matrix a="0" b="0.334091186523438" c="-0.85260009765625" d="0" tx="668.95" ty="23"/>
+                        </matrix>
+                        <GradientEntry color="#984708" ratio="0"/>
+                        <GradientEntry color="#320F54" ratio="1"/>
+                      </RadialGradient>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <RadialGradient>
+                        <matrix>
+                          <Matrix a="0.0960693359375" b="0.516937255859375" c="-0.98040771484375" d="0.18218994140625" tx="642.15" ty="284.05"/>
+                        </matrix>
+                        <GradientEntry color="#937F23" ratio="0"/>
+                        <GradientEntry color="#1A3A1A" ratio="1"/>
+                      </RadialGradient>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#232323"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                    <StrokeStyle index="2">
+                      <SolidStroke scaleMode="normal" weight="2">
+                        <fill>
+                          <SolidColor color="#003300"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle0="1" fillStyle1="2" strokeStyle="2" edges="!0 2060[1006 2328 1958 2210!1958 2210[2520 2145 3059 1975!3059 1975[3915 1708 4799 1580!4799 1580[5661 1457 6533 1433!6533 1433[#1A5A.1D #592.DC 6960 1421.5!6960 1421.5[#1F52.A6 #5B5.75 8853 1571!8853 1571[9802 1695 10755 1769!10755 1769
+[11578 1833 12402 1730!12402 1730[13352 1612 14306 1517!14306 1517[#3A18.1E #5B5.8F 15439 1421.5!15439 1421.5[16147 1366 16857 1400!16857 1400[17008 1405 17159 1411!17159 1411[#4629.F7 #5A6.9F 18520 1506!18520 1506[19474 1601 20437 1645
+!20437 1645[21358 1673 22276 1731!22276 1731[23203 1772 24110 1994!24110 1994[24874 2183 25600 2560"/>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="
+!0 2060|0 0!0 0|25600 0!25600 0|25600 2560"/>
+                    <Edge fillStyle1="2" strokeStyle="1" edges="
+!25600 2560|25600 14420!25600 14420|0 14420!0 14420|0 2060"/>
+                    <Edge cubics="!20437 1645(;21051,1664 21664,1692 22276,1731q20437 1645Q21358 1673q22276 1731);"/>
+                    <Edge cubics="!22276 1731(;22894,1758 23505,1846 24110,1994q22276 1731Q23203 1772q24110 1994);"/>
+                    <Edge cubics="!16857 1400(;16958,1403 17058,1407 17159,1411q16857 1400Q17008 1405q17159 1411);"/>
+                    <Edge cubics="!17159 1411(;17694,1435 18148,1467 18520,1506q17159 1411Q17962 1447q18520 1506);"/>
+                    <Edge cubics="!14306 1517(;14683,1480 15061,1449 15439,1422q14306 1517Q14872 1462q15439 1422);"/>
+                    <Edge cubics="!15439 1422(;15911,1385 16384,1377 16857,1400q15439 1422Q16147 1366q16857 1400);"/>
+                    <Edge cubics="!18520 1506(;19156,1569 19795,1616 20437,1645q18520 1506Q19474 1601q20437 1645);"/>
+                    <Edge cubics="!10755 1769(;11304,1812 11853,1799 12402,1730q10755 1769Q11578 1833q12402 1730);"/>
+                    <Edge cubics="!6533 1433(;6676,1429 6819,1425 6960,1422q6533 1433 6960 1422);"/>
+                    <Edge cubics="!8853 1571(8853,1571;9486,1654 10120,1720 10755,1769q8853 1571Q9802 1695q10755 1769);"/>
+                    <Edge cubics="!1958 2210(1958,2210;2333,2167 2700,2088 3059,1975q1958 2210Q2520 2145q3059 1975)3059,1975;"/>
+                    <Edge cubics="!3059 1975(;3630,1797 4210,1665 4799,1580q3059 1975Q3915 1708q4799 1580);"/>
+                    <Edge cubics="!4799 1580(;5374,1498 5952,1449 6533,1433q4799 1580Q5661 1457q6533 1433);"/>
+                    <Edge cubics="!12402 1730(;13035,1651 13670,1580 14306,1517q12402 1730Q13352 1612q14306 1517);"/>
+                    <Edge cubics="!24110 1994(;24619,2120 25116,2309 25600,2560q24110 1994Q24874 2183q25600 2560);"/>
+                    <Edge cubics="!25600 0(25600,0;25600,0 25600,2560 25600,2560q25600 0 25600 2560);"/>
+                    <Edge cubics="!25600 2560(;25600,2560 25600,14420 25600,14420q25600 2560 25600 14420);"/>
+                    <Edge cubics="!6960 1422(;7666,1448 8297,1498 8853,1571q6960 1422Q8019 1461q8853 1571);"/>
+                    <Edge cubics="!0 2060(;671,2239 1323,2289 1958,2210q0 2060Q1006 2328q1958 2210);"/>
+                    <Edge cubics="!0 2060(;0,2060 0,0 0,0q0 2060 0 0);"/>
+                    <Edge cubics="!0 14420(;0,14420 0,2060 0,2060q0 14420 0 2060);"/>
+                    <Edge cubics="!0 0(0,0;0,0 25600,0 25600,0q0 0 25600 0);"/>
+                    <Edge cubics="!25600 14420(;25600,14420 0,14420 0,14420q25600 14420 0 14420);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="rect" color="#4FFFFF" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMRectangleObject objectWidth="1280" objectHeight="721" x="0" y="0" lockFlag="true">
+                  <stroke>
+                    <SolidStroke scaleMode="normal">
+                      <fill>
+                        <SolidColor color="#232323"/>
+                      </fill>
+                    </SolidStroke>
+                  </stroke>
+                </DOMRectangleObject>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

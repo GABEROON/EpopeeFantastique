@@ -1,0 +1,40 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Interfaces/copie deco/triskel" itemID="581cc4c1-0000093f" lastModified="1412208269">
+  <timeline>
+    <DOMTimeline name="triskel">
+      <layers>
+        <DOMLayer name="Calque 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Interfaces/copie deco/spirale_simple" centerPoint3DX="17.75" centerPoint3DY="14.1">
+                  <matrix>
+                    <Matrix a="-0.284622192382813" b="0.958633422851563" c="-0.9586181640625" d="-0.284622192382813" tx="2.05" ty="8.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-5.1" y="1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Interfaces/copie deco/spirale_simple" centerPoint3DX="-14.25" centerPoint3DY="11.9">
+                  <matrix>
+                    <Matrix a="-0.687484741210938" b="-0.7242431640625" c="0.72418212890625" d="-0.68743896484375" tx="-1.7" ty="0.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-5.05" y="1.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Interfaces/copie deco/spirale_simple" centerPoint3DX="3.45" centerPoint3DY="-15.15">
+                  <matrix>
+                    <Matrix a="0.9710693359375" b="-0.232696533203125" c="0.232681274414063" d="0.970977783203125" tx="7.25" ty="1.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-5.1" y="1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

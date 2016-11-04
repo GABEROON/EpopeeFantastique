@@ -1,0 +1,47 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="PersosEtMonstres/Composantes/horas/haut_bas/torseHoras" itemID="5814e697-000000e8" lastModified="1477862115">
+  <timeline>
+    <DOMTimeline name="torseHoras">
+      <layers>
+        <DOMLayer name="Calque 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#7ED02D"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="0.45">
+                        <fill>
+                          <SolidColor/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!4110 -497[4542 1361 4365 2056!4365 2056[#76E.78 #9AF.48 40 1998!40 1998[-121 1361 181 -421!181 -421|4110 -497"/>
+                    <Edge cubics="!4365 2056(;2723,2338 1281,2319 40,1998q4365 2056Q1902 2479q40 1998);"/>
+                    <Edge cubics="!40 1998(;-67,1573 -32,829 146,-234q40 1998Q-121 1361q146 -234)146,-234;"/>
+                    <Edge cubics="!146 -234(;146,-234 4119,-397 4119,-397q146 -234 4119 -397);"/>
+                    <Edge cubics="!4119 -397(4119,-397;4401,775 4483,1593 4365,2056q4119 -397Q4542 1361q4365 2056);"/>
+                  </edges>
+                </DOMShape>
+                <DOMSymbolInstance libraryItemName="PersosEtMonstres/Composantes/horas/haut_bas/ceintureHoras">
+                  <matrix>
+                    <Matrix ty="102.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="111.25" y="4.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

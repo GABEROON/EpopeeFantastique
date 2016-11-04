@@ -1,0 +1,291 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="ObstaclesEtObjets/ObsMaison" itemID="560fce1c-000001b5" linkageExportForAS="true" linkageBaseClass="Obstacle" linkageClassName="ObsMaison" lastModified="1475204314" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="ObsMaison">
+      <layers>
+        <DOMLayer name="zoneCollision" color="#9933CC" locked="true" outline="true" current="true" isSelected="true" useOutlineView="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="ElementsANommerEtClasser/rectangleDeCollision_clip" centerPoint3DX="59.25" centerPoint3DY="-8.7">
+                  <matrix>
+                    <Matrix a="1.66249084472656" d="1.66249084472656" tx="0.55" ty="-31.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="38.7" y="23.6"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.1484375"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="toiture" color="#9933CC" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMRectangleObject objectWidth="5.7" objectHeight="43" x="87.9" y="56.6">
+                  <matrix>
+                    <Matrix a="1.04620361328125" b="1.29196166992188" c="-2.28507995605469" d="1.85041809082031" tx="107.75" ty="-337"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="90.75" y="78.15"/>
+                  </transformationPoint>
+                  <fill>
+                    <LinearGradient spreadMethod="repeat">
+                      <matrix>
+                        <Matrix a="0.00347900390625" d="0.0262451171875" tx="90.75" ty="78.1"/>
+                      </matrix>
+                      <GradientEntry color="#956E00" ratio="0"/>
+                      <GradientEntry color="#513100" ratio="1"/>
+                    </LinearGradient>
+                  </fill>
+                  <stroke>
+                    <SolidStroke scaleMode="normal" weight="2">
+                      <fill>
+                        <SolidColor color="#150C00"/>
+                      </fill>
+                    </SolidStroke>
+                  </stroke>
+                </DOMRectangleObject>
+                <DOMRectangleObject objectWidth="5.7" objectHeight="43" x="87.9" y="56.6">
+                  <matrix>
+                    <Matrix a="0.998825073242188" b="-1.32548522949219" c="2.43492126464844" d="1.8348388671875" tx="-188.7" ty="-97.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="90.65" y="78.25"/>
+                  </transformationPoint>
+                  <fill>
+                    <LinearGradient spreadMethod="repeat">
+                      <matrix>
+                        <Matrix a="-0.00347900390625" d="-0.0262451171875" tx="90.75" ty="78.1"/>
+                      </matrix>
+                      <GradientEntry color="#956E00" ratio="0"/>
+                      <GradientEntry color="#513100" ratio="1"/>
+                    </LinearGradient>
+                  </fill>
+                  <stroke>
+                    <SolidStroke scaleMode="normal" weight="2">
+                      <fill>
+                        <SolidColor color="#150C00"/>
+                      </fill>
+                    </SolidStroke>
+                  </stroke>
+                </DOMRectangleObject>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="ombres2" color="#009999" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor alpha="0.247058823529412"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!297 -1152|297 -764!297 -764[314 -700 314 -532!314 -532[314 -357 302 -270!302 -270[289 -184 289 -88!289 -88|306 142!306 142[306 202 306 203!306 203[299 253 265 253!265 253[216 253 206 87!206 87|206 -79!206 -79[206 -222 220 -309!220 -309
+[231 -395 231 -534!231 -534|215 -942!215 -942[211 -1042 220 -1118!220 -1118[236 -1268 297 -1152!1552 -969|1552 -487!1552 -487[1561 -407 1561 -249!1561 -249[1561 -155 1545 96!1545 96[1545 116 1561 242!1561 242[1562 255 1562 265!1562 265
+|1475 265!1475 265[1465 240 1461 200!1461 200|1461 96!1461 96[1461 -24 1477 -70!1477 -70|1477 -432!1477 -432[1470 -524 1470 -713!1470 -713[1466 -829 1475 -919!1475 -919[1491 -1098 1552 -969"/>
+                    <Edge cubics="!297 -1152(;297,-1152 297,-764 297,-764q297 -1152 297 -764);"/>
+                    <Edge cubics="!297 -764(;316,-694 314,-603 314,-532q297 -764Q314 -700q314 -532);"/>
+                    <Edge cubics="!314 -532(314,-532;314,-207 289,-307 289,-88q314 -532Q314 -357q302 -270Q289 -184q289 -88);"/>
+                    <Edge cubics="!289 -88(;289,-65 306,122 306,142q289 -88 306 142);"/>
+                    <Edge cubics="!306 142(;306,155 319,253 265,253q306 142Q306 202q306 203Q299 253q265 253);"/>
+                    <Edge cubics="!265 253(;186,253 206,-79 206,-79q265 253Q216 253q206 87Q206 -79q206 -79);"/>
+                    <Edge cubics="!206 -79(206,-79;206,-365 231,-255 231,-534q206 -79Q206 -222q220 -309Q231 -395q231 -534)231,-534;"/>
+                    <Edge cubics="!231 -534(;231,-557 215,-922 215,-942q231 -534 215 -942);"/>
+                    <Edge cubics="!215 -942(;215,-945 200,-1338 297,-1152q215 -942Q211 -1042q220 -1118Q236 -1268q297 -1152);"/>
+                    <Edge cubics="!1552 -969(;1552,-969 1552,-487 1552,-487q1552 -969 1552 -487);"/>
+                    <Edge cubics="!1552 -487(;1561,-407 1561,-269 1561,-249q1552 -487Q1561 -407q1561 -249);"/>
+                    <Edge cubics="!1561 -249(;1561,-155 1545,33 1545,96q1561 -249Q1561 -155q1545 96);"/>
+                    <Edge cubics="!1545 96(;1545,116 1561,222 1561,242q1545 96Q1545 116q1561 242);"/>
+                    <Edge cubics="!1461 96(;1461,47 1457,-14 1477,-70q1461 96Q1461 -24q1477 -70);"/>
+                    <Edge cubics="!1477 -70(;1477,-70 1477,-432 1477,-432q1477 -70 1477 -432);"/>
+                    <Edge cubics="!1477 -432(;1470,-524 1470,-693 1470,-713q1477 -432Q1470 -524q1470 -713);"/>
+                    <Edge cubics="!1470 -713(;1470,-715 1455,-1175 1552,-969q1470 -713Q1466 -829q1475 -919Q1491 -1098q1552 -969);"/>
+                    <Edge cubics="!1461 200(1461,200;1461,200 1461,96 1461,96q1461 200 1461 96);"/>
+                    <Edge cubics="!1562 265(;1562,265 1475,265 1475,265q1562 265 1475 265);"/>
+                    <Edge cubics="!1475 265(;1467,248 1462,227 1461,200q1475 265Q1465 240q1461 200);"/>
+                    <Edge cubics="!1561 242(;1562,250 1562,258 1562,265q1561 242Q1562 255q1562 265);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="ombres1" color="#FF4FFF" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor alpha="0.498039215686275"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="
+!2281 -930[2256 -919 2104 -1048!2104 -1048[1951 -1179 1862 -1237!1862 -1237[1772 -1294 1536 -1444!1536 -1444[1299 -1594 1144 -1710!1144 -1710[1057 -1645 987 -1595!987 -1595[896 -1517 751 -1398!751 -1398|489 -1184!489 -1184|215 -997!215
+ -997[196 -952 -83 -924!-83 -924[140 -1073 140 -1075!140 -1075[140 -1122 286 -1243!286 -1243[495 -1459 704 -1644!704 -1644[1154 -2044 1210 -1924!1210 -1924[1359 -1989 1359 -1873!1359 -1873[1341 -1859 1326 -1848!1326 -1848[1447 -1758 1689
+ -1559!1689 -1559[2001 -1344 2147 -1234!2147 -1234[2240 -1198 2336 -1148!2336 -1148[2505 -1063 2505 -1025!2505 -1025[2505 -1000 2489 -982!2489 -982[2467 -955 2426 -955!2426 -955[2367 -955 2337 -949!2337 -949[2306 -942 2281 -930"/>
+                    <Edge cubics="!489 -1184(;437,-1150 216,-997 215,-997q489 -1184 215 -997);"/>
+                    <Edge cubics="!704 -1644(;1004,-1912 1172,-2004 1210,-1924q704 -1644Q1154 -2044q1210 -1924);"/>
+                    <Edge cubics="!1359 -1873(;1346,-1864 1336,-1857 1326,-1848q1359 -1873Q1341 -1859q1326 -1848);"/>
+                    <Edge cubics="!1326 -1848(;1409,-1788 1527,-1692 1689,-1559q1326 -1848Q1447 -1758q1689 -1559);"/>
+                    <Edge cubics="!1210 -1924(;1309,-1968 1359,-1952 1359,-1873q1210 -1924Q1359 -1989q1359 -1873);"/>
+                    <Edge cubics="!140 -1075(;140,-1107 187,-1162 286,-1243q140 -1075Q140 -1122q286 -1243);"/>
+                    <Edge cubics="!987 -1595(;926,-1544 847,-1478 751,-1398q987 -1595Q896 -1517q751 -1398);"/>
+                    <Edge cubics="!286 -1243(;426,-1388 565,-1520 704,-1644q286 -1243Q495 -1459q704 -1644);"/>
+                    <Edge cubics="!2505 -1025(;2505,-1002 2489,-955 2426,-955q2505 -1025Q2505 -1000q2489 -982Q2467 -955q2426 -955);"/>
+                    <Edge cubics="!2336 -1148(2336,-1148;2449,-1092 2505,-1050 2505,-1025q2336 -1148Q2505 -1063q2505 -1025)2505,-1025;"/>
+                    <Edge cubics="!2147 -1234(;2210,-1209 2271,-1182 2336,-1148q2147 -1234Q2240 -1198q2336 -1148);"/>
+                    <Edge cubics="!1144 -1710(;1086,-1667 1034,-1629 987,-1595q1144 -1710Q1057 -1645q987 -1595);"/>
+                    <Edge cubics="!2281 -930(;2265,-922 2205,-962 2104,-1048q2281 -930Q2256 -919q2104 -1048);"/>
+                    <Edge cubics="!2426 -955(;2387,-955 2357,-954 2337,-949q2426 -955Q2367 -955q2337 -949);"/>
+                    <Edge cubics="!2337 -949(;2316,-944 2297,-939 2281,-930q2337 -949Q2306 -942q2281 -930);"/>
+                    <Edge cubics="!1536 -1444(;1379,-1544 1247,-1632 1144,-1710q1536 -1444Q1299 -1594q1144 -1710);"/>
+                    <Edge cubics="!215 -997(;202,-967 104,-942 -83,-924q215 -997Q196 -952q-83 -924);"/>
+                    <Edge cubics="!-83 -924(;65,-1023 140,-1073 140,-1075q-83 -924Q140 -1073q140 -1075);"/>
+                    <Edge cubics="!1862 -1237(1862,-1237;1802,-1274 1694,-1344 1536,-1444q1862 -1237Q1772 -1294q1536 -1444)1536,-1444;"/>
+                    <Edge cubics="!751 -1398(;751,-1398 489,-1184 489,-1184q751 -1398 489 -1184);"/>
+                    <Edge cubics="!2104 -1048(;2001,-1137 1922,-1198 1862,-1237q2104 -1048Q1951 -1179q1862 -1237);"/>
+                    <Edge cubics="!1689 -1559(;1897,-1415 2050,-1308 2147,-1234q1689 -1559Q2001 -1344q2147 -1234);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Poutres" color="#9933CC" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMRectangleObject objectWidth="5.7" objectHeight="43" x="87.9" y="56.6">
+                  <matrix>
+                    <Matrix a="1.66249084472656" d="1.66249084472656" tx="-39.55" ty="-153.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="90.75" y="78.1"/>
+                  </transformationPoint>
+                  <fill>
+                    <LinearGradient spreadMethod="repeat">
+                      <matrix>
+                        <Matrix a="0.00347900390625" d="0.0262451171875" tx="90.75" ty="78.1"/>
+                      </matrix>
+                      <GradientEntry color="#956E00" ratio="0"/>
+                      <GradientEntry color="#513100" ratio="1"/>
+                    </LinearGradient>
+                  </fill>
+                  <stroke>
+                    <SolidStroke scaleMode="normal" weight="2">
+                      <fill>
+                        <SolidColor color="#150C00"/>
+                      </fill>
+                    </SolidStroke>
+                  </stroke>
+                </DOMRectangleObject>
+                <DOMRectangleObject objectWidth="5.7" objectHeight="43" x="87.9" y="56.6">
+                  <matrix>
+                    <Matrix a="1.66249084472656" d="1.66249084472656" tx="-144.45" ty="-153.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="90.7" y="78.1"/>
+                  </transformationPoint>
+                  <fill>
+                    <LinearGradient spreadMethod="repeat">
+                      <matrix>
+                        <Matrix a="0.00347900390625" d="0.0262451171875" tx="90.75" ty="78.1"/>
+                      </matrix>
+                      <GradientEntry color="#956E00" ratio="0"/>
+                      <GradientEntry color="#513100" ratio="1"/>
+                    </LinearGradient>
+                  </fill>
+                  <stroke>
+                    <SolidStroke scaleMode="normal" weight="2">
+                      <fill>
+                        <SolidColor color="#150C00"/>
+                      </fill>
+                    </SolidStroke>
+                  </stroke>
+                </DOMRectangleObject>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Porte" color="#FF800A" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMRectangleObject objectWidth="5.7" objectHeight="43" x="87.9" y="56.6">
+                  <matrix>
+                    <Matrix a="5.54878234863281" d="1.42227172851563" tx="-445.55" ty="-129.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="90.75" y="78.1"/>
+                  </transformationPoint>
+                  <fill>
+                    <LinearGradient spreadMethod="repeat">
+                      <matrix>
+                        <Matrix a="0.00347900390625" d="0.0262451171875" tx="90.75" ty="78.1"/>
+                      </matrix>
+                      <GradientEntry color="#413000" ratio="0"/>
+                      <GradientEntry color="#170E00" ratio="1"/>
+                    </LinearGradient>
+                  </fill>
+                  <stroke>
+                    <SolidStroke scaleMode="normal" weight="2">
+                      <fill>
+                        <SolidColor color="#150C00"/>
+                      </fill>
+                    </SolidStroke>
+                  </stroke>
+                </DOMRectangleObject>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Maison" color="#9933CC" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient spreadMethod="repeat">
+                        <matrix>
+                          <Matrix a="0" b="0.0066070556640625" c="-0.043121337890625" d="0" tx="58.95" ty="-22.9"/>
+                        </matrix>
+                        <GradientEntry color="#956E00" ratio="0"/>
+                        <GradientEntry color="#513100" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="2">
+                        <fill>
+                          <SolidColor color="#150C00"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" edges="
+!226 -1165|1137 -1879!1137 -1879|2131 -1165"/>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="
+!2131 -1165|2131 248!2131 248|226 248!226 248|226 -1165"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

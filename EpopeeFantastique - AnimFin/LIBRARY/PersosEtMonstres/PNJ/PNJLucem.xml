@@ -1,0 +1,43 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="PersosEtMonstres/PNJ/PNJLucem" itemID="5422fe54-00000292" linkageExportForAS="true" linkageBaseClass="PNJ" linkageClassName="PNJLucem" lastModified="1475204236">
+  <timeline>
+    <DOMTimeline name="PNJLucem">
+      <layers>
+        <DOMLayer name="zoneContact" color="#9933CC" outline="true" current="true" isSelected="true" useOutlineView="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="ElementsANommerEtClasser/cercleDeCollision_clip" selected="true">
+                  <matrix>
+                    <Matrix a="0.691360473632813" d="0.690643310546875" tx="14.85" ty="66.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="76.8" y="47.15"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.1484375"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="corps" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="PersosEtMonstres/PersoLucem" symbolType="graphic" centerPoint3DX="8.35" centerPoint3DY="-15.35" loop="single frame">
+                  <matrix>
+                    <Matrix a="2.00003051757813" d="2.00003051757813" tx="20.95" ty="49.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="8.7" y="37.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

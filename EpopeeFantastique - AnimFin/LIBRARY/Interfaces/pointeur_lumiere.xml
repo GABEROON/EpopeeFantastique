@@ -1,0 +1,35 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Interfaces/pointeur_lumiere" itemID="542cbd03-000001e4" lastModified="1443570384">
+  <timeline>
+    <DOMTimeline name="pointeur_lumiere">
+      <layers>
+        <DOMLayer name="Calque 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-18" ty="-70"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <RadialGradient>
+                        <matrix>
+                          <Matrix a="0.056396484375" d="0.07977294921875" tx="18" ty="34"/>
+                        </matrix>
+                        <GradientEntry color="#FFFFFF" ratio="0"/>
+                        <GradientEntry color="#FFFFFF" alpha="0" ratio="1"/>
+                      </RadialGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!1007 -227S2[1276 149 1276 680!1276 680[1276 1211 1007 1586!1007 1586[739 1962 360 1962!360 1962[-19 1962 -288 1586!-288 1586[-556 1211 -556 680!-556 680[-556 149 -288 -227!-288 -227[-19 -602 360 -602!360 -602[739 -602 1007 -227"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>
