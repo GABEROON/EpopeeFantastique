@@ -24,7 +24,7 @@
                 </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName="PersosEtMonstres/Composantes/horas/haut_bas/teteHoras groupe/oeilGaucheHoras">
                   <matrix>
-                    <Matrix a="0.557373046875" b="0.586990356445312" c="-0.586990356445312" d="0.557373046875" tx="-4.3" ty="-4.6"/>
+                    <Matrix a="0.557373046875" b="0.58697509765625" c="-0.58697509765625" d="0.557373046875" tx="-4.3" ty="-4.6"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="6.25" y="7.8"/>

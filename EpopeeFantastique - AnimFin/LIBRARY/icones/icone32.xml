@@ -8,7 +8,7 @@
               <elements>
                 <DOMSymbolInstance libraryItemName="PersosEtMonstres/Composantes/horas/haut_bas/teteHoras groupe/perleHoras">
                   <matrix>
-                    <Matrix a="11.0344848632812" d="10.0313720703125" tx="-16.05" ty="-16.6"/>
+                    <Matrix a="11.0344696044922" d="10.0313720703125" tx="-16.05" ty="-16.6"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="1.45" y="1.65"/>

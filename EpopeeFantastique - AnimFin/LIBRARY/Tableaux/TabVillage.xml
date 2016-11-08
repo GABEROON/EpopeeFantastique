@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tableaux/TabVillage" itemID="57f1204c-000000b8" linkageExportForAS="true" linkageBaseClass="Tableau" linkageClassName="TabVillage" lastModified="1478020248" lastUniqueIdentifier="53">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tableaux/TabVillage" itemID="57f1204c-000000b8" linkageExportForAS="true" linkageBaseClass="Tableau" linkageClassName="TabVillage" lastModified="1478563473" lastUniqueIdentifier="53">
   <timeline>
     <DOMTimeline name="TabVillage">
       <layers>
@@ -42,13 +42,13 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="persos" color="#FF800A" autoNamed="false">
+        <DOMLayer name="persos" color="#FF800A" current="true" isSelected="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="PersosEtMonstres/PNJ/PNJPaysan" name="pnjVillageois6_mc" centerPoint3DX="745.75" centerPoint3DY="374.1">
+                <DOMSymbolInstance libraryItemName="PersosEtMonstres/PNJ/PNJPaysan" name="pnjVillageois6_mc" selected="true" centerPoint3DX="368.8" centerPoint3DY="373.05">
                   <matrix>
-                    <Matrix a="0.5" d="0.5" tx="734.3" ty="345.4"/>
+                    <Matrix a="0.5" d="0.5" tx="357.35" ty="344.35"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="22.9" y="57.4"/>
@@ -157,7 +157,7 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="portes" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+        <DOMLayer name="portes" color="#9933CC" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>

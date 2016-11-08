@@ -32,7 +32,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMStaticText fontRenderingMode="standard" width="86" height="26" includeOutlines="true" isSelectable="false">
+                <DOMStaticText fontRenderingMode="standard" width="86" height="41.95" includeOutlines="true" isSelectable="false">
                   <matrix>
                     <Matrix tx="2" ty="-4"/>
                   </matrix>
@@ -40,7 +40,7 @@
                     <DOMTextRun>
                       <characters>Horas</characters>
                       <textAttrs>
-                        <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="26" size="26" bitmapSize="520" face="VinerHandITC*"/>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="41.95" size="26" bitmapSize="520" face="VinerHandITC*"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>
@@ -49,7 +49,7 @@
             </DOMFrame>
             <DOMFrame index="1" keyMode="9728">
               <elements>
-                <DOMStaticText fontRenderingMode="standard" width="86" height="26" includeOutlines="true" isSelectable="false">
+                <DOMStaticText fontRenderingMode="standard" width="86" height="41.95" includeOutlines="true" isSelectable="false">
                   <matrix>
                     <Matrix tx="2" ty="-4"/>
                   </matrix>
@@ -57,7 +57,7 @@
                     <DOMTextRun>
                       <characters>Nova</characters>
                       <textAttrs>
-                        <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="26" size="26" bitmapSize="520" face="VinerHandITC*"/>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="41.95" size="26" bitmapSize="520" face="VinerHandITC*"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>
@@ -66,7 +66,7 @@
             </DOMFrame>
             <DOMFrame index="2" keyMode="9728">
               <elements>
-                <DOMStaticText fontRenderingMode="standard" width="86" height="26" includeOutlines="true" isSelectable="false">
+                <DOMStaticText fontRenderingMode="standard" width="86" height="41.95" includeOutlines="true" isSelectable="false">
                   <matrix>
                     <Matrix tx="2" ty="-4"/>
                   </matrix>
@@ -74,7 +74,7 @@
                     <DOMTextRun>
                       <characters>Lucem</characters>
                       <textAttrs>
-                        <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="26" size="26" bitmapSize="520" face="VinerHandITC*"/>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="41.95" size="26" bitmapSize="520" face="VinerHandITC*"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>
@@ -83,7 +83,7 @@
             </DOMFrame>
             <DOMFrame index="3" keyMode="9728">
               <elements>
-                <DOMStaticText fontRenderingMode="standard" width="86" height="26" includeOutlines="true" isSelectable="false">
+                <DOMStaticText fontRenderingMode="standard" width="86" height="41.95" includeOutlines="true" isSelectable="false">
                   <matrix>
                     <Matrix tx="2" ty="-4"/>
                   </matrix>
@@ -91,7 +91,7 @@
                     <DOMTextRun>
                       <characters>Fortis</characters>
                       <textAttrs>
-                        <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="26" size="26" bitmapSize="520" face="VinerHandITC*"/>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="41.95" size="26" bitmapSize="520" face="VinerHandITC*"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>
@@ -104,7 +104,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMStaticText fontRenderingMode="standard" width="92.2" height="50" includeOutlines="true" isSelectable="false">
+                <DOMStaticText fontRenderingMode="standard" width="92.2" height="28.7" includeOutlines="true" isSelectable="false">
                   <matrix>
                     <Matrix tx="99"/>
                   </matrix>
@@ -112,12 +112,12 @@
                     <DOMTextRun>
                       <characters>Aventurier</characters>
                       <textAttrs>
-                        <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="24" size="24" bitmapSize="480" face="PoliceGillSansMtExtCondensedBold*"/>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="28.7" size="24" bitmapSize="480" face="PoliceGillSansMtExtCondensedBold*"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>
                 </DOMStaticText>
-                <DOMStaticText fontRenderingMode="standard" width="280" height="38" includeOutlines="true" isSelectable="false">
+                <DOMStaticText fontRenderingMode="standard" width="280" height="67.55" includeOutlines="true" isSelectable="false">
                   <matrix>
                     <Matrix tx="2" ty="346"/>
                   </matrix>
@@ -125,7 +125,7 @@
                     <DOMTextRun>
                       <characters>À la fois fort et rusé, Horas sait mener l'aventure. Il est le seul espoir des pauvres gens.</characters>
                       <textAttrs>
-                        <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="-5" lineHeight="16" size="16" face="VinerHandITC*"/>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="-5" lineHeight="25.85" size="16" face="VinerHandITC*"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>
@@ -134,7 +134,7 @@
             </DOMFrame>
             <DOMFrame index="1" keyMode="9728">
               <elements>
-                <DOMStaticText fontRenderingMode="standard" width="280" height="27" includeOutlines="true" isSelectable="false">
+                <DOMStaticText fontRenderingMode="standard" width="280" height="46.7" includeOutlines="true" isSelectable="false">
                   <matrix>
                     <Matrix tx="2" ty="366"/>
                   </matrix>
@@ -142,12 +142,12 @@
                     <DOMTextRun>
                       <characters>Précise et très vive, Nova manie l'arc à merveille. C'est la fille du roi.</characters>
                       <textAttrs>
-                        <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="-5" lineHeight="16" size="16" bitmapSize="320" face="VinerHandITC*"/>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="-5" lineHeight="25.85" size="16" bitmapSize="320" face="VinerHandITC*"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>
                 </DOMStaticText>
-                <DOMStaticText fontRenderingMode="standard" width="92.2" height="24" includeOutlines="true" isSelectable="false">
+                <DOMStaticText fontRenderingMode="standard" width="92.2" height="28.7" includeOutlines="true" isSelectable="false">
                   <matrix>
                     <Matrix tx="99"/>
                   </matrix>
@@ -155,7 +155,7 @@
                     <DOMTextRun>
                       <characters>Elfe</characters>
                       <textAttrs>
-                        <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="24" size="24" bitmapSize="480" face="PoliceGillSansMtExtCondensedBold*"/>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="28.7" size="24" bitmapSize="480" face="PoliceGillSansMtExtCondensedBold*"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>
@@ -164,7 +164,7 @@
             </DOMFrame>
             <DOMFrame index="2" keyMode="9728">
               <elements>
-                <DOMStaticText fontRenderingMode="standard" width="280" height="38" includeOutlines="true" isSelectable="false">
+                <DOMStaticText fontRenderingMode="standard" width="280" height="67.55" includeOutlines="true" isSelectable="false">
                   <matrix>
                     <Matrix tx="2" ty="345"/>
                   </matrix>
@@ -172,12 +172,12 @@
                     <DOMTextRun>
                       <characters>Débrouillarde et cultivée, Lucem peut guérir ses alliés. Elle utilise les ressources de la nature.</characters>
                       <textAttrs>
-                        <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="-5" lineHeight="16" size="16" bitmapSize="320" face="VinerHandITC*"/>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="-5" lineHeight="25.85" size="16" bitmapSize="320" face="VinerHandITC*"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>
                 </DOMStaticText>
-                <DOMStaticText fontRenderingMode="standard" width="92.2" height="50" includeOutlines="true" isSelectable="false">
+                <DOMStaticText fontRenderingMode="standard" width="92.2" height="28.7" includeOutlines="true" isSelectable="false">
                   <matrix>
                     <Matrix tx="99"/>
                   </matrix>
@@ -185,7 +185,7 @@
                     <DOMTextRun>
                       <characters>Chamane</characters>
                       <textAttrs>
-                        <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="24" size="24" bitmapSize="480" face="PoliceGillSansMtExtCondensedBold*"/>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="28.7" size="24" bitmapSize="480" face="PoliceGillSansMtExtCondensedBold*"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>
@@ -194,7 +194,7 @@
             </DOMFrame>
             <DOMFrame index="3" keyMode="9728">
               <elements>
-                <DOMStaticText selected="true" fontRenderingMode="standard" width="280" height="38" includeOutlines="true" isSelectable="false">
+                <DOMStaticText selected="true" fontRenderingMode="standard" width="280" height="67.55" includeOutlines="true" isSelectable="false">
                   <matrix>
                     <Matrix tx="2" ty="345.5"/>
                   </matrix>
@@ -202,12 +202,12 @@
                     <DOMTextRun>
                       <characters>Sage et puissant, Fortis possède des habiletées magiques exceptionnelles.&#xD;Il est craint de tous.</characters>
                       <textAttrs>
-                        <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="-5" lineHeight="16" size="16" bitmapSize="320" face="VinerHandITC*"/>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="-5" lineHeight="25.85" size="16" bitmapSize="320" face="VinerHandITC*"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>
                 </DOMStaticText>
-                <DOMStaticText fontRenderingMode="standard" width="92.2" height="24" includeOutlines="true" isSelectable="false">
+                <DOMStaticText fontRenderingMode="standard" width="92.2" height="28.7" includeOutlines="true" isSelectable="false">
                   <matrix>
                     <Matrix tx="99" ty="-1"/>
                   </matrix>
@@ -215,7 +215,7 @@
                     <DOMTextRun>
                       <characters>Sorcier</characters>
                       <textAttrs>
-                        <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="24" size="24" face="PoliceGillSansMtExtCondensedBold*"/>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="28.7" size="24" face="PoliceGillSansMtExtCondensedBold*"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>

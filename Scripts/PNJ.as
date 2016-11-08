@@ -173,8 +173,9 @@
 					case "pnjVendeur_mc":
 						tSequence=[
 					
-					[_REPLIQUE, "Certains les appele camelote. Je les appele trésors !"],
-					[_MAGASIN, "Village"]
+					[_REPLIQUE, "Certains les appele camelote. Moi, je les appele trésors !"],
+					[_MAGASIN, "Village"],
+					[_REPLIQUE, "Merci d'être passé !"]
 							/*[_REPLIQUE, "J'aimerais vous vendre des armes..."],
 							[_REPLIQUE, "Oh oui! Quelle bonne idée!", "Spero"],
 							[_REPLIQUE, "Malheureusement, j'ai perdu la clé de mon magasin."]*///Ancienne séquence

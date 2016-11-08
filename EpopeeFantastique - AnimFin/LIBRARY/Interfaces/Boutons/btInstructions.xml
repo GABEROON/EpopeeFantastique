@@ -6,7 +6,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMStaticText width="176" height="85.65">
+                <DOMStaticText width="176" height="50.3">
                   <matrix>
                     <Matrix tx="2" ty="2"/>
                   </matrix>
@@ -14,7 +14,7 @@
                     <DOMTextRun>
                       <characters>Instructions</characters>
                       <textAttrs>
-                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" lineSpacing="1.65" lineHeight="42" size="42" bitmapSize="840" face="GillSansMT-ExtraCondensedBold" fillColor="#FFFFFF"/>
+                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" lineSpacing="1.65" lineHeight="50.3" size="42" bitmapSize="840" face="GillSansMT-ExtraCondensedBold" fillColor="#FFFFFF"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>

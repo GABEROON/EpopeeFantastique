@@ -21,6 +21,7 @@
 		private var _marquePourVente: Array = [];
 		private var _marquePourAchat: Array = [];
 		private var _balance: int; //balance de la transaction actuelle
+		private var _elementHighlight:DisplayObject;
 
 		public function Magasin() {
 			addEventListener(Event.ADDED_TO_STAGE, ouverture);
@@ -35,6 +36,8 @@
 			chFeedback.text = "Cliquez sur les objets\npour vendre ou acheter";
 
 			actualiserInfo();
+			changerHighlight
+
 			btRetour.addEventListener(MouseEvent.CLICK, quitter);
 			btConfirmer.addEventListener(MouseEvent.CLICK, confirmer);
 			addEventListener(MouseEvent.MOUSE_MOVE, voirInfoObjet);
@@ -48,7 +51,12 @@
 			removeEventListener(MouseEvent.MOUSE_MOVE, voirInfoObjet);
 			removeEventListener(MouseEvent.CLICK, cliquer);
 			btConfirmer.removeEventListener(MouseEvent.CLICK, confirmer);
+			
 
+		}
+		
+		public function frappeClavierMagasin(e:KeyboardEvent){
+			
 		}
 
 		public function achat(objet: String): Boolean {
@@ -62,10 +70,11 @@
 				return true
 			} else return false //Retourne faux si la vente est impossible
 		}
-
-		/*public function rapporter(objet:String):Boolean{
-			return true // Retourne vraie si le rachat est possible
-		}*/
+		
+		private function changerHighlight(e:MouseEvent = null):void{
+			select_mc.x=_elementHighlight.x;
+			select_mc.y=_elementHighlight.y;
+		}
 
 		private function cliquer(e: MouseEvent): void {
 			if (e.target is MovieClip && e.target.parent is MovieClip) {
@@ -206,6 +215,13 @@
 			} //while has item
 			chOrMarchand.text = _change + "";
 			chBalance.text = "" + _balance;
+			
+			//Boucle pour trouver le premier object à Highlight s'il n'y en a pas déjà un
+			if(_elementHighlight==null){
+				if(inventaireJoueur.numChildren>0)_elementHighlight = inventaireJoueur.getChildAt(0);
+				else if(_inventaire.numChildren>0)_elementHighlight = _inventaire.getChildAt(0);
+				else _elementHighlight = btConfirmer;
+			}//if no highlight
 
 		} //fonction Actualiser info
 
