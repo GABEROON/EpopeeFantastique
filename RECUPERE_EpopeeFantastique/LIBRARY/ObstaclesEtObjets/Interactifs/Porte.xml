@@ -1,0 +1,35 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="ObstaclesEtObjets/Interactifs/Porte" itemID="5422df3c-00000280" linkageExportForAS="true" linkageClassName="Porte" lastModified="1474820421">
+  <timeline>
+    <DOMTimeline name="Porte" currentFrame="1">
+      <layers>
+        <DOMLayer name="forme" color="#4FFF4F" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF" alpha="0.247058823529412"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <DashedStroke dash1="3" dash2="3" scaleMode="normal" sharpCorners="true">
+                        <fill>
+                          <SolidColor color="#0000FF"/>
+                        </fill>
+                      </DashedStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!1639 0|1639 779!0 779|0 0!0 0|1639 0!1639 779|0 779"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

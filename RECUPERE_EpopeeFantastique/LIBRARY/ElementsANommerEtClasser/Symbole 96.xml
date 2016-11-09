@@ -1,0 +1,36 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="ElementsANommerEtClasser/Symbole 96" itemID="542832d4-0000028f" lastModified="1411920596">
+  <timeline>
+    <DOMTimeline name="Symbole 96">
+      <layers>
+        <DOMLayer name="Calque 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-168.05" ty="-67.05"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <RadialGradient spreadMethod="repeat">
+                        <matrix>
+                          <Matrix a="0.2855224609375" d="0.2855224609375" tx="399" ty="298"/>
+                        </matrix>
+                        <GradientEntry alpha="0.16078431372549" ratio="0"/>
+                        <GradientEntry alpha="0.72156862745098" ratio="1"/>
+                      </RadialGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!12599 5960[12599 7873 11246 9226!11246 9226[9893 10579 7980 10579!7980 10579[6067 10579 4714 9226!4714 9226[3361 7873 3361 5960!3361 5960[3361 4047 4714 2694!4714 2694[6067 1341 7980 1341!7980 1341[9893 1341 11246 2694!11246 2694[12599
+ 4047 12599 5960"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

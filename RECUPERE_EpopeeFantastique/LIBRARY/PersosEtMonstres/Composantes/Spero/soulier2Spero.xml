@@ -1,0 +1,63 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="PersosEtMonstres/Composantes/Spero/soulier2Spero" itemID="57ead8ae-00000755" lastModified="1475008686">
+  <timeline>
+    <DOMTimeline name="soulier2Spero">
+      <layers>
+        <DOMLayer name="Calque 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <matrix>
+                    <Matrix a="0.99078369140625" b="0.135009765625" c="-0.135009765625" d="0.99078369140625" tx="-14.45" ty="9.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="20.4" y="-0.75"/>
+                  </transformationPoint>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#993300"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="0.5">
+                        <fill>
+                          <SolidColor/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle0="1" strokeStyle="1" edges="!333 -44[#155.54 #B.E8 347 48!347 48[354 105 389 149!389 149[391 152 394 155!394 155[#1A5.B2 #A9.BB 458.5 178!458.5 178[#1EF.1A #BA.17 503.5 182!503.5 182[#200.09 #B2.05 515.5 173!515.5 173[#206.E2 #A7.F 523 152!523 152[523 146 525 139
+!525 139|515 29!515 29[505 -4 496 -24!496 -24|485 -43!485 -43|473 -75!473 -75[466 -90 457 -113!457 -113[428 -175 415 -245!415 -245[393 -235 365 -229!365 -229[331 -222 299 -223!299 -223[298 -223 297 -152!297 -152[296 -105 281 -84!281 -84
+[291 -77 304 -68!304 -68[326 -53 336 -46!336 -46[335 -46 333 -44"/>
+                    <Edge cubics="!299 -223(;345,-221 390,-233 415,-245q299 -223Q331 -222q365 -229Q393 -235q415 -245);"/>
+                    <Edge cubics="!281 -84(;292,-98 296,-121 297,-152q281 -84Q296 -105q297 -152);"/>
+                    <Edge cubics="!336 -46(336,-46;329,-50 319,-58 304,-68q336 -46Q326 -53q304 -68);"/>
+                    <Edge cubics="!297 -152(;297,-199 298,-223 299,-223q297 -152Q298 -223q299 -223);"/>
+                    <Edge cubics="!415 -245(;423,-199 437,-155 457,-113q415 -245Q428 -175q457 -113);"/>
+                    <Edge cubics="!304 -68(304,-68;296,-74 288,-80 281,-84q304 -68Q291 -77q281 -84)281,-84;"/>
+                    <Edge cubics="!333 -44(333,-44;334,-45 335,-46 336,-46q333 -44Q335 -46q336 -46);"/>
+                    <Edge cubics="!457 -113(;463,-97 468,-85 473,-75q457 -113 473 -75);"/>
+                    <Edge cubics="!485 -43(485,-43;485,-43 473,-75 473,-75q485 -43 473 -75)473,-75;"/>
+                    <Edge cubics="!496 -24(;496,-24 485,-43 485,-43q496 -24 485 -43);"/>
+                    <Edge cubics="!515 29(515,29;508,7 503,-11 496,-24q515 29Q505 -4q496 -24)496,-24;"/>
+                    <Edge cubics="!523 152(;523,149 524,143 525,139q523 152Q523 146q525 139);"/>
+                    <Edge cubics="!525 139(;525,139 515,29 515,29q525 139 515 29)515,29;"/>
+                    <Edge cubics="!347 48(;352,86 366,120 389,149q347 48Q354 105q389 149);"/>
+                    <Edge cubics="!389 149(389,149;390,151 392,153 394,155q389 149Q391 152q394 155);"/>
+                    <Edge cubics="!333 -44(;338,-7 343,24 347,48q333 -44Q341 12q347 48);"/>
+                    <Edge cubics="!459 178(;483,183 498,185 504,182q459 178Q495 186q504 182);"/>
+                    <Edge cubics="!516 173(;518,170 520,163 523,152q516 173Q519 168q523 152)523,152;"/>
+                    <Edge cubics="!504 182(;509,179 513,176 516,173q504 182Q512 178q516 173);"/>
+                    <Edge cubics="!394 155(394,155;413,165 434,173 459,178q394 155Q422 170q459 178)459,178;"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,1333 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="croquis/cinematiqueIntro" itemID="580d19ef-000000bf" lastModified="1477258582" lastUniqueIdentifier="11">
+  <timeline>
+    <DOMTimeline name="cinematiqueIntro" guides='&lt;guidelines&gt;&lt;guideline direction="h"&gt;-78&lt;/guideline&gt;&lt;/guidelines&gt;'>
+      <layers>
+        <DOMLayer name="boule de feu" color="#808080" autoNamed="false" animationType="motion object">
+          <frames>
+            <DOMFrame index="0" duration="14" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="14" duration="50" tweenType="motion object" motionTweenRotate="none" motionTweenScale="false" isMotionObject="true" visibleAnimationKeyframes="2097151" keyMode="8195">
+              <motionObjectXML><AnimationCore TimeScale="24000" Version="1" duration="50000"><TimeMap strength="0" type="Quadratic"/><metadata><names><name langID="fr_CA" value=""/></names><Settings orientToPath="0" xformPtXOffsetPct="0.0347556" xformPtYOffsetPct="0.708669" xformPtZOffsetPixels="0"/></metadata><PropertyContainer id="headContainer"><PropertyContainer id="Basic_Motion"><Property enabled="1" id="Motion_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/></Property><Property enabled="1" id="Motion_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/></Property><Property enabled="1" id="Rotation_Z" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,-21.0176" next="0,-21.0176" previous="0,-21.0176" roving="0" timevalue="0"/><Keyframe anchor="0,41.4163" next="0,41.4163" previous="0,41.4163" roving="0" timevalue="18000"/><Keyframe anchor="0,162.884" next="0,162.884" previous="0,162.884" roving="0" timevalue="28000"/><Keyframe anchor="0,-152.048" next="0,-152.048" previous="0,-152.048" roving="0" timevalue="44000"/></Property></PropertyContainer><PropertyContainer id="Transformation"><Property enabled="1" id="Skew_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/></Property><Property enabled="1" id="Skew_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/></Property><Property enabled="1" id="Scale_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,129.893" next="0,129.893" previous="0,129.893" roving="0" timevalue="0"/></Property><Property enabled="1" id="Scale_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,54.3594" next="0,54.3594" previous="0,54.3594" roving="0" timevalue="0"/></Property></PropertyContainer><PropertyContainer id="Colors"/><PropertyContainer id="Filters"/></PropertyContainer></AnimationCore></motionObjectXML>
+              <elements>
+                <DOMSymbolInstance libraryItemName="croquis/bouleFeuCroquis" centerPoint3DX="867.75" centerPoint3DY="168.95">
+                  <matrix>
+                    <Matrix a="1.21109008789063" b="-0.465545654296875" c="0.19482421875" d="0.506820678710938" tx="658.25" ty="319.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="18.4" y="17.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="feuSurMaison" color="#009999" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="15" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="15" duration="9" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="croquis/feuCroquis">
+                  <matrix>
+                    <Matrix a="0.575286865234375" d="0.69854736328125" tx="1096.1" ty="83.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="36.75" y="43.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="24" duration="10" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="croquis/feuCroquis" centerPoint3DX="1117.25" centerPoint3DY="113.65">
+                  <matrix>
+                    <Matrix a="0.575286865234375" d="0.69854736328125" tx="1096.1" ty="83.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="36.75" y="43.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="croquis/feuCroquis">
+                  <matrix>
+                    <Matrix tx="856.35" ty="79.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="36.8" y="43.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="croquis/feuCroquis">
+                  <matrix>
+                    <Matrix a="0.852569580078125" d="0.852569580078125" tx="965.8" ty="302.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="36.75" y="43.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="34" duration="8" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="croquis/feuCroquis" centerPoint3DX="1117.25" centerPoint3DY="113.65">
+                  <matrix>
+                    <Matrix a="0.575286865234375" d="0.69854736328125" tx="1096.1" ty="83.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="36.75" y="43.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="croquis/feuCroquis" centerPoint3DX="893.15" centerPoint3DY="123.55">
+                  <matrix>
+                    <Matrix tx="856.35" ty="79.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="36.8" y="43.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="croquis/feuCroquis" centerPoint3DX="997.15" centerPoint3DY="339.45">
+                  <matrix>
+                    <Matrix a="0.852569580078125" d="0.852569580078125" tx="965.8" ty="302.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="36.75" y="43.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="croquis/feuCroquis">
+                  <matrix>
+                    <Matrix tx="1112.85" ty="461.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="36.8" y="43.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="croquis/feuCroquis">
+                  <matrix>
+                    <Matrix tx="804.7" ty="461.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="36.8" y="43.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="42" duration="7" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="croquis/feuCroquis" centerPoint3DX="1117.25" centerPoint3DY="113.65">
+                  <matrix>
+                    <Matrix a="0.575286865234375" d="0.69854736328125" tx="1096.1" ty="83.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="36.75" y="43.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="croquis/feuCroquis" centerPoint3DX="893.15" centerPoint3DY="123.55">
+                  <matrix>
+                    <Matrix tx="856.35" ty="79.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="36.8" y="43.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="croquis/feuCroquis" centerPoint3DX="997.15" centerPoint3DY="339.45">
+                  <matrix>
+                    <Matrix a="0.852569580078125" d="0.852569580078125" tx="965.8" ty="302.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="36.75" y="43.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="croquis/feuCroquis" centerPoint3DX="1149.65" centerPoint3DY="505.25">
+                  <matrix>
+                    <Matrix tx="1112.85" ty="461.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="36.8" y="43.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="croquis/feuCroquis" centerPoint3DX="841.5" centerPoint3DY="505.25">
+                  <matrix>
+                    <Matrix tx="804.7" ty="461.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="36.8" y="43.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="croquis/feuCroquis">
+                  <matrix>
+                    <Matrix tx="441.85" ty="448.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="36.8" y="43.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="croquis/feuCroquis">
+                  <matrix>
+                    <Matrix a="0.6776123046875" d="0.6776123046875" tx="137.75" ty="489.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="36.8" y="43.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="49" duration="11" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="croquis/feuCroquis" centerPoint3DX="1117.25" centerPoint3DY="113.65">
+                  <matrix>
+                    <Matrix a="0.575286865234375" d="0.69854736328125" tx="1096.1" ty="83.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="36.75" y="43.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="croquis/feuCroquis" centerPoint3DX="893.15" centerPoint3DY="123.55">
+                  <matrix>
+                    <Matrix tx="856.35" ty="79.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="36.8" y="43.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="croquis/feuCroquis" centerPoint3DX="997.15" centerPoint3DY="339.45">
+                  <matrix>
+                    <Matrix a="0.852569580078125" d="0.852569580078125" tx="965.8" ty="302.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="36.75" y="43.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="croquis/feuCroquis" centerPoint3DX="1149.65" centerPoint3DY="505.25">
+                  <matrix>
+                    <Matrix tx="1112.85" ty="461.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="36.8" y="43.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="croquis/feuCroquis" centerPoint3DX="841.5" centerPoint3DY="505.25">
+                  <matrix>
+                    <Matrix tx="804.7" ty="461.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="36.8" y="43.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="croquis/feuCroquis" centerPoint3DX="478.65" centerPoint3DY="492.7">
+                  <matrix>
+                    <Matrix tx="441.85" ty="448.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="36.8" y="43.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="croquis/feuCroquis" centerPoint3DX="162.7" centerPoint3DY="519.25">
+                  <matrix>
+                    <Matrix a="0.6776123046875" d="0.6776123046875" tx="137.75" ty="489.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="36.8" y="43.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="croquis/feuCroquis">
+                  <matrix>
+                    <Matrix a="0.662155151367188" d="0.662155151367188" tx="286.4" ty="322.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="36.75" y="43.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="60" duration="43" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="croquis/feuCroquis" centerPoint3DX="1117.25" centerPoint3DY="113.65">
+                  <matrix>
+                    <Matrix a="0.575286865234375" d="0.69854736328125" tx="1096.1" ty="83.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="36.75" y="43.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="croquis/feuCroquis" centerPoint3DX="893.15" centerPoint3DY="123.55">
+                  <matrix>
+                    <Matrix tx="856.35" ty="79.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="36.8" y="43.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="croquis/feuCroquis" centerPoint3DX="997.15" centerPoint3DY="339.45">
+                  <matrix>
+                    <Matrix a="0.852569580078125" d="0.852569580078125" tx="965.8" ty="302.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="36.75" y="43.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="croquis/feuCroquis" centerPoint3DX="1149.65" centerPoint3DY="505.25">
+                  <matrix>
+                    <Matrix tx="1112.85" ty="461.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="36.8" y="43.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="croquis/feuCroquis" centerPoint3DX="841.5" centerPoint3DY="505.25">
+                  <matrix>
+                    <Matrix tx="804.7" ty="461.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="36.8" y="43.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="croquis/feuCroquis" centerPoint3DX="478.65" centerPoint3DY="492.7">
+                  <matrix>
+                    <Matrix tx="441.85" ty="448.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="36.8" y="43.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="croquis/feuCroquis" centerPoint3DX="162.7" centerPoint3DY="519.25">
+                  <matrix>
+                    <Matrix a="0.6776123046875" d="0.6776123046875" tx="137.75" ty="489.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="36.8" y="43.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="croquis/feuCroquis" centerPoint3DX="310.75" centerPoint3DY="351.8">
+                  <matrix>
+                    <Matrix a="0.662155151367188" d="0.662155151367188" tx="286.4" ty="322.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="36.75" y="43.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="croquis/feuCroquis">
+                  <matrix>
+                    <Matrix a="0.73809814453125" d="0.73809814453125" tx="414.45" ty="85.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="36.8" y="43.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="croquis/feuCroquis">
+                  <matrix>
+                    <Matrix a="0.73809814453125" d="0.73809814453125" tx="166.05" ty="85.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="36.8" y="43.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="torgul" color="#FF4FFF" autoNamed="false" animationType="motion object">
+          <frames>
+            <DOMFrame index="0" duration="103" tweenType="motion object" motionTweenRotate="none" motionTweenScale="false" isMotionObject="true" visibleAnimationKeyframes="2097151" keyMode="8195">
+              <motionObjectXML><AnimationCore TimeScale="24000" Version="1" duration="103000"><TimeMap strength="0" type="Quadratic"/><metadata><names><name langID="fr_CA" value=""/></names><Settings orientToPath="0" xformPtXOffsetPct="0.390179" xformPtYOffsetPct="0.504206" xformPtZOffsetPixels="0"/></metadata><PropertyContainer id="headContainer"><PropertyContainer id="Basic_Motion"><Property enabled="1" id="Motion_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,34.4" next="0,34.4" previous="0,34.4" roving="0" timevalue="14000"/><Keyframe anchor="0,34.4" next="0,34.4" previous="0,34.4" roving="0" timevalue="64000"/><Keyframe anchor="0,83.8" next="0,83.8" previous="0,83.8" roving="0" timevalue="79000"/><Keyframe anchor="0,201.8" next="0,201.8" previous="0,201.8" roving="0" timevalue="93000"/></Property><Property enabled="1" id="Motion_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,515.25" next="0,515.25" previous="0,515.25" roving="0" timevalue="14000"/><Keyframe anchor="0,515.25" next="0,515.25" previous="0,515.25" roving="0" timevalue="64000"/><Keyframe anchor="0,749.95" next="0,749.95" previous="0,749.95" roving="0" timevalue="79000"/><Keyframe anchor="0,-8.3" next="0,-8.3" previous="0,-8.3" roving="0" timevalue="93000"/></Property><Property enabled="1" id="Rotation_Z" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="64000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="93000"/></Property></PropertyContainer><PropertyContainer id="Transformation"><Property enabled="1" id="Skew_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="64000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="93000"/></Property><Property enabled="1" id="Skew_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="64000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="93000"/></Property><Property enabled="1" id="Scale_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="0"/><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="64000"/><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="93000"/></Property><Property enabled="1" id="Scale_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="0"/><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="64000"/><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="93000"/></Property></PropertyContainer><PropertyContainer id="Colors"/><PropertyContainer id="Filters"/></PropertyContainer></AnimationCore></motionObjectXML>
+              <elements>
+                <DOMSymbolInstance libraryItemName="PersosEtMonstres/PNJ/PNJGardeDuPont">
+                  <matrix>
+                    <Matrix tx="577.3" ty="-197"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="17.3" y="66.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="npcCroquis" color="#FF800A" autoNamed="false" animationType="motion object">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="croquis/npcCroquis">
+                  <matrix>
+                    <Matrix a="0.579879760742188" d="0.579879760742188" tx="762.05" ty="294.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="65" y="122.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="croquis/npcCroquis">
+                  <matrix>
+                    <Matrix a="0.579879760742188" d="0.579879760742188" tx="437.65" ty="306"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="65" y="122.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="croquis/npcCroquis">
+                  <matrix>
+                    <Matrix a="0.579879760742188" d="0.579879760742188" tx="315.7" ty="530.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="65" y="122.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="croquis/npcCroquis">
+                  <matrix>
+                    <Matrix a="0.579879760742188" d="0.579879760742188" tx="118.7" ty="299.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="65" y="122.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="croquis/npcCroquis">
+                  <matrix>
+                    <Matrix a="0.579879760742188" d="0.579879760742188" tx="714.3" ty="87.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="65" y="122.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="croquis/npcCroquis">
+                  <matrix>
+                    <Matrix a="0.579879760742188" d="0.579879760742188" tx="989.45" ty="51.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="65" y="122.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="croquis/npcCroquis">
+                  <matrix>
+                    <Matrix a="0.579879760742188" d="0.579879760742188" tx="1119.2" ty="316.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="65" y="122.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="croquis/npcCroquis">
+                  <matrix>
+                    <Matrix a="0.579879760742188" d="0.579879760742188" tx="979.7" ty="521.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="65" y="122.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="croquis/npcCroquis" centerPoint3DX="799.75" centerPoint3DY="363">
+                  <matrix>
+                    <Matrix a="0.579879760742188" d="0.579879760742188" tx="762.05" ty="291.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="65" y="122.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="croquis/npcCroquis" centerPoint3DX="475.35" centerPoint3DY="381.2">
+                  <matrix>
+                    <Matrix a="0.579879760742188" d="0.579879760742188" tx="437.65" ty="309.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="65" y="122.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="croquis/npcCroquis" centerPoint3DX="353.4" centerPoint3DY="598.5">
+                  <matrix>
+                    <Matrix a="0.579879760742188" d="0.579879760742188" tx="315.7" ty="527.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="65" y="122.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="croquis/npcCroquis" centerPoint3DX="156.4" centerPoint3DY="367.8">
+                  <matrix>
+                    <Matrix a="0.579879760742188" d="0.579879760742188" tx="118.7" ty="296.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="65" y="122.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="croquis/npcCroquis" centerPoint3DX="752" centerPoint3DY="155.1">
+                  <matrix>
+                    <Matrix a="0.579879760742188" d="0.579879760742188" tx="714.3" ty="83.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="65" y="122.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="croquis/npcCroquis" centerPoint3DX="1027.15" centerPoint3DY="119.1">
+                  <matrix>
+                    <Matrix a="0.579879760742188" d="0.579879760742188" tx="989.45" ty="47.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="65" y="122.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="croquis/npcCroquis" centerPoint3DX="1156.9" centerPoint3DY="384.4">
+                  <matrix>
+                    <Matrix a="0.579879760742188" d="0.579879760742188" tx="1119.2" ty="313.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="65" y="122.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="croquis/npcCroquis" centerPoint3DX="1017.4" centerPoint3DY="589.1">
+                  <matrix>
+                    <Matrix a="0.579879760742188" d="0.579879760742188" tx="979.7" ty="517.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="65" y="122.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="croquis/npcCroquis" centerPoint3DX="724.3" centerPoint3DY="625.05">
+                  <matrix>
+                    <Matrix a="0.579879760742188" d="0.579879760742188" tx="686.6" ty="553.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="65" y="122.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="croquis/npcCroquis" centerPoint3DX="799.75" centerPoint3DY="367.8">
+                  <matrix>
+                    <Matrix a="0.579879760742188" d="0.579879760742188" tx="762.05" ty="296.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="65" y="122.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="croquis/npcCroquis" centerPoint3DX="475.35" centerPoint3DY="386">
+                  <matrix>
+                    <Matrix a="0.579879760742188" d="0.579879760742188" tx="437.65" ty="314.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="65" y="122.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="croquis/npcCroquis" centerPoint3DX="353.4" centerPoint3DY="603.3">
+                  <matrix>
+                    <Matrix a="0.579879760742188" d="0.579879760742188" tx="315.7" ty="532.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="65" y="122.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="croquis/npcCroquis" centerPoint3DX="156.4" centerPoint3DY="372.6">
+                  <matrix>
+                    <Matrix a="0.579879760742188" d="0.579879760742188" tx="118.7" ty="301.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="65" y="122.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="croquis/npcCroquis" centerPoint3DX="752" centerPoint3DY="159.9">
+                  <matrix>
+                    <Matrix a="0.579879760742188" d="0.579879760742188" tx="714.3" ty="88.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="65" y="122.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="croquis/npcCroquis" centerPoint3DX="1027.15" centerPoint3DY="123.9">
+                  <matrix>
+                    <Matrix a="0.579879760742188" d="0.579879760742188" tx="989.45" ty="52.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="65" y="122.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="croquis/npcCroquis" centerPoint3DX="1156.9" centerPoint3DY="389.2">
+                  <matrix>
+                    <Matrix a="0.579879760742188" d="0.579879760742188" tx="1119.2" ty="317.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="65" y="122.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="croquis/npcCroquis" centerPoint3DX="1017.4" centerPoint3DY="593.9">
+                  <matrix>
+                    <Matrix a="0.579879760742188" d="0.579879760742188" tx="979.7" ty="522.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="65" y="122.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="croquis/npcCroquis" centerPoint3DX="724.3" centerPoint3DY="629.85">
+                  <matrix>
+                    <Matrix a="0.579879760742188" d="0.579879760742188" tx="686.6" ty="558.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="65" y="122.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="croquis/npcCroquis">
+                  <matrix>
+                    <Matrix a="0.579879760742188" d="0.579879760742188" tx="762.05" ty="294.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="65" y="122.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="croquis/npcCroquis">
+                  <matrix>
+                    <Matrix a="0.579879760742188" d="0.579879760742188" tx="437.65" ty="313.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="65" y="122.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="croquis/npcCroquis">
+                  <matrix>
+                    <Matrix a="0.579879760742188" d="0.579879760742188" tx="315.7" ty="530.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="65" y="122.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="croquis/npcCroquis">
+                  <matrix>
+                    <Matrix a="0.579879760742188" d="0.579879760742188" tx="118.7" ty="299.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="65" y="122.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="croquis/npcCroquis">
+                  <matrix>
+                    <Matrix a="0.579879760742188" d="0.579879760742188" tx="714.3" ty="87.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="65" y="122.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="croquis/npcCroquis">
+                  <matrix>
+                    <Matrix a="0.579879760742188" d="0.579879760742188" tx="989.45" ty="51.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="65" y="122.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="croquis/npcCroquis">
+                  <matrix>
+                    <Matrix a="0.579879760742188" d="0.579879760742188" tx="1119.2" ty="316.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="65" y="122.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="croquis/npcCroquis">
+                  <matrix>
+                    <Matrix a="0.579879760742188" d="0.579879760742188" tx="979.7" ty="521.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="65" y="122.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="croquis/npcCroquis">
+                  <matrix>
+                    <Matrix a="0.579879760742188" d="0.579879760742188" tx="686.6" ty="557"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="65" y="122.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="croquis/npcCroquis" centerPoint3DX="799.75" centerPoint3DY="363">
+                  <matrix>
+                    <Matrix a="0.579879760742188" d="0.579879760742188" tx="762.05" ty="291.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="65" y="122.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="croquis/npcCroquis" centerPoint3DX="475.35" centerPoint3DY="381.2">
+                  <matrix>
+                    <Matrix a="0.579879760742188" d="0.579879760742188" tx="437.65" ty="309.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="65" y="122.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="croquis/npcCroquis" centerPoint3DX="353.4" centerPoint3DY="598.5">
+                  <matrix>
+                    <Matrix a="0.579879760742188" d="0.579879760742188" tx="315.7" ty="527.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="65" y="122.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="croquis/npcCroquis" centerPoint3DX="156.4" centerPoint3DY="367.8">
+                  <matrix>
+                    <Matrix a="0.579879760742188" d="0.579879760742188" tx="118.7" ty="296.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="65" y="122.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="croquis/npcCroquis" centerPoint3DX="752" centerPoint3DY="155.1">
+                  <matrix>
+                    <Matrix a="0.579879760742188" d="0.579879760742188" tx="714.3" ty="83.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="65" y="122.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="croquis/npcCroquis" centerPoint3DX="1027.15" centerPoint3DY="119.1">
+                  <matrix>
+                    <Matrix a="0.579879760742188" d="0.579879760742188" tx="989.45" ty="47.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="65" y="122.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="croquis/npcCroquis" centerPoint3DX="1156.9" centerPoint3DY="384.4">
+                  <matrix>
+                    <Matrix a="0.579879760742188" d="0.579879760742188" tx="1119.2" ty="313.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="65" y="122.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="croquis/npcCroquis" centerPoint3DX="1017.4" centerPoint3DY="589.1">
+                  <matrix>
+                    <Matrix a="0.579879760742188" d="0.579879760742188" tx="979.7" ty="517.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="65" y="122.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="croquis/npcCroquis" centerPoint3DX="724.3" centerPoint3DY="625.05">
+                  <matrix>
+                    <Matrix a="0.579879760742188" d="0.579879760742188" tx="686.6" ty="553.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="65" y="122.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="croquis/npcCroquis" centerPoint3DX="799.75" centerPoint3DY="367.8">
+                  <matrix>
+                    <Matrix a="0.579879760742188" d="0.579879760742188" tx="762.05" ty="296.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="65" y="122.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="croquis/npcCroquis" centerPoint3DX="475.35" centerPoint3DY="386">
+                  <matrix>
+                    <Matrix a="0.579879760742188" d="0.579879760742188" tx="437.65" ty="314.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="65" y="122.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="croquis/npcCroquis" centerPoint3DX="353.4" centerPoint3DY="603.3">
+                  <matrix>
+                    <Matrix a="0.579879760742188" d="0.579879760742188" tx="315.7" ty="532.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="65" y="122.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="croquis/npcCroquis" centerPoint3DX="156.4" centerPoint3DY="372.6">
+                  <matrix>
+                    <Matrix a="0.579879760742188" d="0.579879760742188" tx="118.7" ty="301.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="65" y="122.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="croquis/npcCroquis" centerPoint3DX="752" centerPoint3DY="159.9">
+                  <matrix>
+                    <Matrix a="0.579879760742188" d="0.579879760742188" tx="714.3" ty="88.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="65" y="122.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="croquis/npcCroquis" centerPoint3DX="1027.15" centerPoint3DY="123.9">
+                  <matrix>
+                    <Matrix a="0.579879760742188" d="0.579879760742188" tx="989.45" ty="52.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="65" y="122.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="croquis/npcCroquis" centerPoint3DX="1156.9" centerPoint3DY="389.2">
+                  <matrix>
+                    <Matrix a="0.579879760742188" d="0.579879760742188" tx="1119.2" ty="317.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="65" y="122.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="croquis/npcCroquis" centerPoint3DX="1017.4" centerPoint3DY="593.9">
+                  <matrix>
+                    <Matrix a="0.579879760742188" d="0.579879760742188" tx="979.7" ty="522.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="65" y="122.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="croquis/npcCroquis" centerPoint3DX="724.3" centerPoint3DY="629.85">
+                  <matrix>
+                    <Matrix a="0.579879760742188" d="0.579879760742188" tx="686.6" ty="558.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="65" y="122.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="croquis/npcCroquis">
+                  <matrix>
+                    <Matrix a="0.579879760742188" d="0.579879760742188" tx="762.05" ty="294.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="65" y="122.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="croquis/npcCroquis">
+                  <matrix>
+                    <Matrix a="0.579879760742188" d="0.579879760742188" tx="437.65" ty="306"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="65" y="122.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="croquis/npcCroquis">
+                  <matrix>
+                    <Matrix a="0.579879760742188" d="0.579879760742188" tx="315.7" ty="530.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="65" y="122.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="croquis/npcCroquis">
+                  <matrix>
+                    <Matrix a="0.579879760742188" d="0.579879760742188" tx="118.7" ty="299.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="65" y="122.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="croquis/npcCroquis">
+                  <matrix>
+                    <Matrix a="0.579879760742188" d="0.579879760742188" tx="714.3" ty="87.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="65" y="122.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="croquis/npcCroquis">
+                  <matrix>
+                    <Matrix a="0.579879760742188" d="0.579879760742188" tx="989.45" ty="51.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="65" y="122.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="croquis/npcCroquis">
+                  <matrix>
+                    <Matrix a="0.579879760742188" d="0.579879760742188" tx="1119.2" ty="316.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="65" y="122.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="croquis/npcCroquis">
+                  <matrix>
+                    <Matrix a="0.579879760742188" d="0.579879760742188" tx="979.7" ty="521.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="65" y="122.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="croquis/npcCroquis">
+                  <matrix>
+                    <Matrix a="0.579879760742188" d="0.579879760742188" tx="686.6" ty="557"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="65" y="122.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="croquis/npcCroquis" centerPoint3DX="799.75" centerPoint3DY="363">
+                  <matrix>
+                    <Matrix a="0.579879760742188" d="0.579879760742188" tx="762.05" ty="291.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="65" y="122.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="croquis/npcCroquis" centerPoint3DX="475.35" centerPoint3DY="381.2">
+                  <matrix>
+                    <Matrix a="0.579879760742188" d="0.579879760742188" tx="437.65" ty="309.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="65" y="122.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="croquis/npcCroquis" centerPoint3DX="353.4" centerPoint3DY="598.5">
+                  <matrix>
+                    <Matrix a="0.579879760742188" d="0.579879760742188" tx="315.7" ty="527.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="65" y="122.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="croquis/npcCroquis" centerPoint3DX="156.4" centerPoint3DY="367.8">
+                  <matrix>
+                    <Matrix a="0.579879760742188" d="0.579879760742188" tx="118.7" ty="296.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="65" y="122.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="croquis/npcCroquis" centerPoint3DX="752" centerPoint3DY="155.1">
+                  <matrix>
+                    <Matrix a="0.579879760742188" d="0.579879760742188" tx="714.3" ty="83.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="65" y="122.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="croquis/npcCroquis" centerPoint3DX="1027.15" centerPoint3DY="119.1">
+                  <matrix>
+                    <Matrix a="0.579879760742188" d="0.579879760742188" tx="989.45" ty="47.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="65" y="122.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="croquis/npcCroquis" centerPoint3DX="1156.9" centerPoint3DY="384.4">
+                  <matrix>
+                    <Matrix a="0.579879760742188" d="0.579879760742188" tx="1119.2" ty="313.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="65" y="122.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="croquis/npcCroquis" centerPoint3DX="1017.4" centerPoint3DY="589.1">
+                  <matrix>
+                    <Matrix a="0.579879760742188" d="0.579879760742188" tx="979.7" ty="517.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="65" y="122.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="croquis/npcCroquis" centerPoint3DX="724.3" centerPoint3DY="625.05">
+                  <matrix>
+                    <Matrix a="0.579879760742188" d="0.579879760742188" tx="686.6" ty="553.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="65" y="122.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="croquis/npcCroquis" centerPoint3DX="799.75" centerPoint3DY="367.8">
+                  <matrix>
+                    <Matrix a="0.579879760742188" d="0.579879760742188" tx="762.05" ty="296.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="65" y="122.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="croquis/npcCroquis" centerPoint3DX="475.35" centerPoint3DY="386">
+                  <matrix>
+                    <Matrix a="0.579879760742188" d="0.579879760742188" tx="437.65" ty="314.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="65" y="122.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="croquis/npcCroquis" centerPoint3DX="353.4" centerPoint3DY="603.3">
+                  <matrix>
+                    <Matrix a="0.579879760742188" d="0.579879760742188" tx="315.7" ty="532.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="65" y="122.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="croquis/npcCroquis" centerPoint3DX="156.4" centerPoint3DY="372.6">
+                  <matrix>
+                    <Matrix a="0.579879760742188" d="0.579879760742188" tx="118.7" ty="301.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="65" y="122.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="croquis/npcCroquis" centerPoint3DX="752" centerPoint3DY="159.9">
+                  <matrix>
+                    <Matrix a="0.579879760742188" d="0.579879760742188" tx="714.3" ty="88.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="65" y="122.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="croquis/npcCroquis" centerPoint3DX="1027.15" centerPoint3DY="123.9">
+                  <matrix>
+                    <Matrix a="0.579879760742188" d="0.579879760742188" tx="989.45" ty="52.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="65" y="122.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="croquis/npcCroquis" centerPoint3DX="1156.9" centerPoint3DY="389.2">
+                  <matrix>
+                    <Matrix a="0.579879760742188" d="0.579879760742188" tx="1119.2" ty="317.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="65" y="122.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="croquis/npcCroquis" centerPoint3DX="1017.4" centerPoint3DY="593.9">
+                  <matrix>
+                    <Matrix a="0.579879760742188" d="0.579879760742188" tx="979.7" ty="522.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="65" y="122.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="croquis/npcCroquis" centerPoint3DX="724.3" centerPoint3DY="629.85">
+                  <matrix>
+                    <Matrix a="0.579879760742188" d="0.579879760742188" tx="686.6" ty="558.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="65" y="122.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="croquis/npcCroquis">
+                  <matrix>
+                    <Matrix a="0.579879760742188" d="0.579879760742188" tx="762.05" ty="294.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="65" y="122.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="croquis/npcCroquis">
+                  <matrix>
+                    <Matrix a="0.579879760742188" d="0.579879760742188" tx="437.65" ty="313.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="65" y="122.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="croquis/npcCroquis">
+                  <matrix>
+                    <Matrix a="0.579879760742188" d="0.579879760742188" tx="315.7" ty="530.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="65" y="122.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="croquis/npcCroquis">
+                  <matrix>
+                    <Matrix a="0.579879760742188" d="0.579879760742188" tx="118.7" ty="299.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="65" y="122.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="croquis/npcCroquis">
+                  <matrix>
+                    <Matrix a="0.579879760742188" d="0.579879760742188" tx="714.3" ty="87.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="65" y="122.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="croquis/npcCroquis">
+                  <matrix>
+                    <Matrix a="0.579879760742188" d="0.579879760742188" tx="989.45" ty="51.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="65" y="122.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="croquis/npcCroquis">
+                  <matrix>
+                    <Matrix a="0.579879760742188" d="0.579879760742188" tx="1119.2" ty="316.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="65" y="122.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="croquis/npcCroquis">
+                  <matrix>
+                    <Matrix a="0.579879760742188" d="0.579879760742188" tx="979.7" ty="521.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="65" y="122.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="croquis/npcCroquis">
+                  <matrix>
+                    <Matrix a="0.579879760742188" d="0.579879760742188" tx="686.6" ty="557"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="65" y="122.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="croquis/npcCroquis" centerPoint3DX="799.75" centerPoint3DY="363">
+                  <matrix>
+                    <Matrix a="0.579879760742188" d="0.579879760742188" tx="762.05" ty="291.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="65" y="122.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="croquis/npcCroquis" centerPoint3DX="475.35" centerPoint3DY="381.2">
+                  <matrix>
+                    <Matrix a="0.579879760742188" d="0.579879760742188" tx="437.65" ty="309.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="65" y="122.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="croquis/npcCroquis" centerPoint3DX="353.4" centerPoint3DY="598.5">
+                  <matrix>
+                    <Matrix a="0.579879760742188" d="0.579879760742188" tx="315.7" ty="527.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="65" y="122.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="croquis/npcCroquis" centerPoint3DX="156.4" centerPoint3DY="367.8">
+                  <matrix>
+                    <Matrix a="0.579879760742188" d="0.579879760742188" tx="118.7" ty="296.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="65" y="122.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="croquis/npcCroquis" centerPoint3DX="752" centerPoint3DY="155.1">
+                  <matrix>
+                    <Matrix a="0.579879760742188" d="0.579879760742188" tx="714.3" ty="83.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="65" y="122.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="croquis/npcCroquis" centerPoint3DX="1027.15" centerPoint3DY="119.1">
+                  <matrix>
+                    <Matrix a="0.579879760742188" d="0.579879760742188" tx="989.45" ty="47.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="65" y="122.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="croquis/npcCroquis" centerPoint3DX="1156.9" centerPoint3DY="384.4">
+                  <matrix>
+                    <Matrix a="0.579879760742188" d="0.579879760742188" tx="1119.2" ty="313.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="65" y="122.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="croquis/npcCroquis" centerPoint3DX="1017.4" centerPoint3DY="589.1">
+                  <matrix>
+                    <Matrix a="0.579879760742188" d="0.579879760742188" tx="979.7" ty="517.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="65" y="122.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="croquis/npcCroquis" centerPoint3DX="724.3" centerPoint3DY="625.05">
+                  <matrix>
+                    <Matrix a="0.579879760742188" d="0.579879760742188" tx="686.6" ty="553.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="65" y="122.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="11" duration="92" tweenType="motion object" motionTweenRotate="none" motionTweenScale="false" isMotionObject="true" visibleAnimationKeyframes="2097151" keyMode="8195">
+              <motionObjectXML><AnimationCore TimeScale="24000" Version="1" duration="92000"><TimeMap strength="0" type="Quadratic"/><metadata><names><name langID="fr_CA" value=""/></names><Settings orientToPath="0" xformPtXOffsetPct="0.499977" xformPtYOffsetPct="0.499961" xformPtZOffsetPixels="0"/></metadata><PropertyContainer id="headContainer"><PropertyContainer id="Basic_Motion"><Property enabled="1" id="Motion_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,23.4" next="0,23.4" previous="0,23.4" roving="0" timevalue="10000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="13000"/></Property><Property enabled="1" id="Motion_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,675.246" next="0,675.246" previous="0,675.246" roving="0" timevalue="10000"/><Keyframe anchor="0,667.35" next="0,667.35" previous="0,667.35" roving="0" timevalue="13000"/></Property><Property enabled="1" id="Rotation_Z" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/></Property></PropertyContainer><PropertyContainer id="Transformation"><Property enabled="1" id="Skew_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/></Property><Property enabled="1" id="Skew_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/></Property><Property enabled="1" id="Scale_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="0"/></Property><Property enabled="1" id="Scale_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="0"/></Property></PropertyContainer><PropertyContainer id="Colors"/><PropertyContainer id="Filters"/></PropertyContainer></AnimationCore></motionObjectXML>
+              <elements>
+                <DOMSymbolInstance libraryItemName="croquis/Symbole 1">
+                  <matrix>
+                    <Matrix tx="118.7" ty="52.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="537.95" y="324.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="maisons" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="103" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="croquis/maisonCroquis">
+                  <matrix>
+                    <Matrix tx="142.1" ty="83.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="62.1" y="103.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="croquis/maisonCroquis">
+                  <matrix>
+                    <Matrix tx="374.75" ty="83.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="62.1" y="103.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="croquis/maisonCroquis">
+                  <matrix>
+                    <Matrix tx="250.55" ty="277.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="62.1" y="103.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="croquis/maisonCroquis">
+                  <matrix>
+                    <Matrix tx="417.75" ty="457.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="62.1" y="103.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="croquis/maisonCroquis">
+                  <matrix>
+                    <Matrix tx="101.05" ty="457.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="62.1" y="103.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="croquis/maisonCroquis">
+                  <matrix>
+                    <Matrix tx="822.5" ty="83.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="62.1" y="103.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="croquis/maisonCroquis">
+                  <matrix>
+                    <Matrix tx="1055.15" ty="83.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="62.1" y="103.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="croquis/maisonCroquis">
+                  <matrix>
+                    <Matrix tx="930.95" ty="277.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="62.1" y="103.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="croquis/maisonCroquis">
+                  <matrix>
+                    <Matrix tx="1098.15" ty="457.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="62.1" y="103.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="croquis/maisonCroquis">
+                  <matrix>
+                    <Matrix tx="781.45" ty="457.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="62.1" y="103.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Calque 8" color="#FF4F4F" animationType="motion object">
+          <frames>
+            <DOMFrame index="0" duration="103" tweenType="motion object" motionTweenRotate="none" motionTweenScale="false" isMotionObject="true" visibleAnimationKeyframes="2097151" keyMode="8195">
+              <motionObjectXML><AnimationCore TimeScale="24000" Version="1" duration="103000"><TimeMap strength="0" type="Quadratic"/><metadata><names><name langID="fr_CA" value=""/></names><Settings orientToPath="0" xformPtXOffsetPct="0.499648" xformPtYOffsetPct="0.5" xformPtZOffsetPixels="0"/></metadata><PropertyContainer id="headContainer"><PropertyContainer id="Basic_Motion"><Property enabled="1" id="Motion_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,-9.66894" next="0,-9.66894" previous="0,-9.66894" roving="0" timevalue="40000"/><Keyframe anchor="0,-106.085" next="0,-106.085" previous="0,-106.085" roving="0" timevalue="79000"/><Keyframe anchor="0,7.95" next="0,7.95" previous="0,7.95" roving="0" timevalue="93000"/></Property><Property enabled="1" id="Motion_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,-5.18244" next="0,-5.18244" previous="0,-5.18244" roving="0" timevalue="40000"/><Keyframe anchor="0,-6.18656" next="0,-6.18656" previous="0,-6.18656" roving="0" timevalue="79000"/><Keyframe anchor="0,-786.9" next="0,-786.9" previous="0,-786.9" roving="0" timevalue="93000"/></Property><Property enabled="1" id="Rotation_Z" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="40000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="79000"/></Property></PropertyContainer><PropertyContainer id="Transformation"><Property enabled="1" id="Skew_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="40000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="79000"/></Property><Property enabled="1" id="Skew_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="40000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="79000"/></Property><Property enabled="1" id="Scale_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,66.8777" next="0,66.8777" previous="0,66.8777" roving="0" timevalue="0"/><Keyframe anchor="0,66.8777" next="0,66.8777" previous="0,66.8777" roving="0" timevalue="40000"/><Keyframe anchor="0,66.8777" next="0,66.8777" previous="0,66.8777" roving="0" timevalue="79000"/></Property><Property enabled="1" id="Scale_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="0"/><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="40000"/><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="79000"/></Property></PropertyContainer><PropertyContainer id="Colors"/><PropertyContainer id="Filters"/></PropertyContainer></AnimationCore></motionObjectXML>
+              <elements>
+                <DOMSymbolInstance libraryItemName="croquis/soeurCroquis">
+                  <matrix>
+                    <Matrix a="0.66876220703125" tx="678.45" ty="546.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="71.05" y="79.35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="heroEtFamille" color="#669900" current="true" isSelected="true" autoNamed="false" animationType="motion object">
+          <frames>
+            <DOMFrame index="0" duration="103" tweenType="motion object" motionTweenRotate="none" motionTweenScale="false" isMotionObject="true" visibleAnimationKeyframes="2097151" keyMode="8195">
+              <motionObjectXML><AnimationCore TimeScale="24000" Version="1" duration="103000"><TimeMap strength="0" type="Quadratic"/><metadata><names><name langID="fr_CA" value=""/></names><Settings orientToPath="0" xformPtXOffsetPct="0.49987" xformPtYOffsetPct="0.49918" xformPtZOffsetPixels="0"/></metadata><PropertyContainer id="headContainer"><PropertyContainer id="Basic_Motion"><Property enabled="1" id="Motion_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="7000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="22000"/><Keyframe anchor="0,79.3" next="0,79.3" previous="0,79.3" roving="0" timevalue="92000"/></Property><Property enabled="1" id="Motion_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="7000"/><Keyframe anchor="0,318.65" next="0,318.65" previous="0,318.65" roving="0" timevalue="22000"/><Keyframe anchor="0,-9.8" next="0,-9.8" previous="0,-9.8" roving="0" timevalue="92000"/></Property><Property enabled="1" id="Rotation_Z" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="7000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="22000"/></Property></PropertyContainer><PropertyContainer id="Transformation"><Property enabled="1" id="Skew_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="7000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="22000"/></Property><Property enabled="1" id="Skew_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="7000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="22000"/></Property><Property enabled="1" id="Scale_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,50.3403" next="0,50.3403" previous="0,50.3403" roving="0" timevalue="0"/><Keyframe anchor="0,50.3403" next="0,50.3403" previous="0,50.3403" roving="0" timevalue="7000"/><Keyframe anchor="0,50.3403" next="0,50.3403" previous="0,50.3403" roving="0" timevalue="22000"/></Property><Property enabled="1" id="Scale_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,50.3403" next="0,50.3403" previous="0,50.3403" roving="0" timevalue="0"/><Keyframe anchor="0,50.3403" next="0,50.3403" previous="0,50.3403" roving="0" timevalue="7000"/><Keyframe anchor="0,50.3403" next="0,50.3403" previous="0,50.3403" roving="0" timevalue="22000"/></Property></PropertyContainer><PropertyContainer id="Colors"/><PropertyContainer id="Filters"/></PropertyContainer></AnimationCore></motionObjectXML>
+              <elements>
+                <DOMSymbolInstance libraryItemName="croquis/heroCroquis" selected="true">
+                  <matrix>
+                    <Matrix a="0.503402709960938" d="0.503402709960938" tx="567.9" ty="546.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="96.35" y="152.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="fond" color="#4F80FF" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="103" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!0 0S2|25600 0!25600 0|25600 14400!25600 14400|0 14400!0 14400|0 0"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

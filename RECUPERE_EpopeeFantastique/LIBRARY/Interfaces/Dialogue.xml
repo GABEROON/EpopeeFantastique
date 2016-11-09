@@ -1,0 +1,96 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Interfaces/Dialogue" itemID="50b4e1d4-000002cf" linkageExportForAS="true" linkageClassName="Dialogue" lastModified="1478198439">
+  <timeline>
+    <DOMTimeline name="Dialogue">
+      <layers>
+        <DOMLayer name="Texte" color="#4FFF4F" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="message_txt" fontRenderingMode="standard" width="1227.9" height="180.25" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="20" ty="9.7"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters></characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="57.5" size="48" bitmapSize="960" face="PoliceGillSansMtExtCondensedBold*"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMDynamicText name="message_txt3" fontRenderingMode="standard" width="1227.9" height="57.5" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="20" ty="133"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters></characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="57.5" size="48" bitmapSize="960" face="PoliceGillSansMtExtCondensedBold*"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMSymbolInstance libraryItemName="Animations/Intro/composantes/Interfaces/Boutons/btSuite" name="btSuite" symbolType="button">
+                  <matrix>
+                    <Matrix tx="1196.95" ty="137"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMDynamicText name="message_txt2" fontRenderingMode="standard" width="1227.9" height="58" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="20" ty="71.5"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters></characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="57.5" size="48" bitmapSize="960" face="PoliceGillSansMtExtCondensedBold*"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMDynamicText name="message_txt1" selected="true" fontRenderingMode="standard" width="1227.9" height="58" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="20" ty="9.5"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters></characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="57.5" size="48" bitmapSize="960" face="PoliceGillSansMtExtCondensedBold*"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Palette" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMRectangleObject objectWidth="1272" objectHeight="202" x="0" y="-1" topLeftRadius="25" topRightRadius="25">
+                  <fill>
+                    <SolidColor color="#FFFFCC"/>
+                  </fill>
+                  <stroke>
+                    <SolidStroke scaleMode="normal" weight="2">
+                      <fill>
+                        <SolidColor color="#150C00"/>
+                      </fill>
+                    </SolidStroke>
+                  </stroke>
+                </DOMRectangleObject>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

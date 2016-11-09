@@ -1,0 +1,56 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Interfaces/PersosEtMonstres/Composantes/horas/haut_bas/ceintureHoras" itemID="581cc4c1-00000936" lastModified="1477773490">
+  <timeline>
+    <DOMTimeline name="ceintureHoras">
+      <layers>
+        <DOMLayer name="Calque 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#985728"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="0.1">
+                        <fill>
+                          <SolidColor/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!19 -3|40 -82!40 -82[#4F7.7E #F2.74 2617 193!2617 193[#A39.46 #C1.02 2617.5 193!2617.5 193|2802.5 184.5!2802.5 184.5[#AF3.49 #B8.75 2804 184.5!2804 184.5[#DFE.37 #8D.C5 4393 -15!4393 -15|4393 47!4393 47[#DF7.0E #E5.05 2803 279!2803 279
+|2605.5 289.5!2605.5 289.5[#A2C.B3 #121.88 2604 289.5!2604 289.5[#996.A9 #127.AD 2307 297!2307 297[2289 297 2271 298!2271 298[1104 305 19 -3"/>
+                    <Edge fillStyle0="1" strokeStyle="1" edges="
+!19 -3|16 8!16 8|16 10!16 10|19 -3"/>
+                    <Edge cubics="!2803 185(;3324,156 3853,90 4393,-15q2803 185Q3581 142q4393 -15);"/>
+                    <Edge cubics="!2271 298(;2283,297 2295,297 2307,297q2271 298Q2289 297q2307 297);"/>
+                    <Edge cubics="!4393 47(4393,47;4393,47 4393,-15 4393,-15q4393 47 4393 -15)4393,-15;"/>
+                    <Edge cubics="!2803 279(2803,279;3321,246 3850,168 4393,47q2803 279Q3575 229q4393 47);"/>
+                    <Edge cubics="!16 8(;16,8 16,10 16,10q16 8 16 10);"/>
+                    <Edge cubics="!2803 185(2803,185;2810,199 2814,215 2814,232q2803 185Q2814 206q2814 232)2814,232;"/>
+                    <Edge cubics="!2610 232(;2610,218 2613,205 2618,193q2610 232Q2610 211q2618 193);"/>
+                    <Edge cubics="!2814 232(2814,232;2814,249 2810,265 2803,279q2814 232Q2814 258q2803 279);"/>
+                    <Edge cubics="!2617 270(;2617,270 2606,290 2606,290q2617 270 2606 290);"/>
+                    <Edge cubics="!2617 270(;2612,258 2610,245 2610,232q2617 270Q2610 252q2610 232);"/>
+                    <Edge cubics="!40 -82(;40,-82 19,-3 19,-3q40 -82 19 -3);"/>
+                    <Edge cubics="!19 -3(;742,202 1493,303 2271,298q19 -3Q1104 305q2271 298);"/>
+                    <Edge cubics="!16 10(;16,10 19,-3 19,-3q16 10 19 -3);"/>
+                    <Edge cubics="!19 -3(;19,-3 16,8 16,8q19 -3 16 8);"/>
+                    <Edge cubics="!40 -82(;861,135 1721,226 2618,193q40 -82Q1272 243q2618 193);"/>
+                    <Edge cubics="!2604 290(;2605,290 2605,290 2606,290q2604 290Q2605 290q2606 290);"/>
+                    <Edge cubics="!2606 290(;2606,290 2803,279 2803,279q2606 290 2803 279);"/>
+                    <Edge cubics="!2307 297(;2406,296 2505,294 2604,290q2307 297Q2455 296q2604 290);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

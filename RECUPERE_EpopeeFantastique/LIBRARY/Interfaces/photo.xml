@@ -1,0 +1,328 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Interfaces/photo" itemID="50a434c1-000003b0" lastModified="1478204440" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="photo" currentFrame="3" guides='&lt;guidelines&gt;&lt;guideline direction="h"&gt;404&lt;/guideline&gt;&lt;/guidelines&gt;'>
+      <layers>
+        <DOMLayer name="Etiquettes" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" name="Horas" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" name="Nova" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="2" name="Lucem" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="3" name="Fortis" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="A" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="4" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="nom" color="#FF4FFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText fontRenderingMode="standard" width="86" height="26" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="2" ty="-4"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Horas</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="26" size="26" bitmapSize="520" face="VinerHandITC*"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMStaticText fontRenderingMode="standard" width="86" height="26" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="2" ty="-4"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Nova</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="26" size="26" bitmapSize="520" face="VinerHandITC*"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMStaticText fontRenderingMode="standard" width="86" height="26" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="2" ty="-4"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Lucem</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="26" size="26" bitmapSize="520" face="VinerHandITC*"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMStaticText fontRenderingMode="standard" width="86" height="26" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="2" ty="-4"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Fortis</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="26" size="26" bitmapSize="520" face="VinerHandITC*"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="description" color="#FF800A" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText fontRenderingMode="standard" width="92.2" height="50" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="99"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Aventurier</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="24" size="24" bitmapSize="480" face="PoliceGillSansMtExtCondensedBold*"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText fontRenderingMode="standard" width="280" height="38" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="2" ty="346"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>À la fois fort et rusé, Horas sait mener l'aventure. Il est le seul espoir des pauvres gens.</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="-5" lineHeight="16" size="16" face="VinerHandITC*"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMStaticText fontRenderingMode="standard" width="280" height="27" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="2" ty="366"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Précise et très vive, Nova manie l'arc à merveille. C'est la fille du roi.</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="-5" lineHeight="16" size="16" bitmapSize="320" face="VinerHandITC*"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText fontRenderingMode="standard" width="92.2" height="24" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="99"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Elfe</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="24" size="24" bitmapSize="480" face="PoliceGillSansMtExtCondensedBold*"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMStaticText fontRenderingMode="standard" width="280" height="38" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="2" ty="345"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Débrouillarde et cultivée, Lucem peut guérir ses alliés. Elle utilise les ressources de la nature.</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="-5" lineHeight="16" size="16" bitmapSize="320" face="VinerHandITC*"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText fontRenderingMode="standard" width="92.2" height="50" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="99"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Chamane</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="24" size="24" bitmapSize="480" face="PoliceGillSansMtExtCondensedBold*"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMStaticText selected="true" fontRenderingMode="standard" width="280" height="38" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="2" ty="345.5"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Sage et puissant, Fortis possède des habiletées magiques exceptionnelles.&#xD;Il est craint de tous.</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="-5" lineHeight="16" size="16" bitmapSize="320" face="VinerHandITC*"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText fontRenderingMode="standard" width="92.2" height="24" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="99" ty="-1"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Sorcier</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="24" size="24" face="PoliceGillSansMtExtCondensedBold*"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="masque" color="#9933CC" autoNamed="false" layerType="mask">
+          <frames>
+            <DOMFrame index="0" duration="4" keyMode="9728">
+              <elements>
+                <DOMRectangleObject objectWidth="90" objectHeight="110" x="-4.1" y="51.25" lockFlag="true" topLeftRadius="35" topRightRadius="35" bottomLeftRadius="35" bottomRightRadius="35">
+                  <matrix>
+                    <Matrix tx="4.1" ty="-0.75"/>
+                  </matrix>
+                  <fill>
+                    <SolidColor alpha="0.498039215686275"/>
+                  </fill>
+                  <stroke>
+                    <SolidStroke scaleMode="normal">
+                      <fill>
+                        <SolidColor/>
+                      </fill>
+                    </SolidStroke>
+                  </stroke>
+                </DOMRectangleObject>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="portraits" color="#FF800A" parentLayerIndex="4" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="PersosEtMonstres/PersoHoras" symbolType="graphic" centerPoint3DX="50.05" centerPoint3DY="170.4" loop="single frame">
+                  <matrix>
+                    <Matrix a="1.39207458496094" d="1.53094482421875" tx="48.1" ty="231.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.05" y="-40"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="PersosEtMonstres/PersoNova" symbolType="graphic" centerPoint3DX="32.7" centerPoint3DY="169.4" loop="single frame">
+                  <matrix>
+                    <Matrix a="-1.99996948242188" d="1.99996948242188" tx="36.7" ty="249.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2" y="-40"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="PersosEtMonstres/PersoLucem" symbolType="graphic" centerPoint3DX="32.7" centerPoint3DY="169.4" loop="single frame">
+                  <matrix>
+                    <Matrix a="-1.99996948242188" d="1.99996948242188" tx="36.7" ty="249.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2" y="-40"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="PersosEtMonstres/PersoFortis" symbolType="graphic" centerPoint3DX="56.7" centerPoint3DY="176.4" loop="single frame">
+                  <matrix>
+                    <Matrix a="-1.99996948242188" d="1.99996948242188" tx="60.7" ty="256.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2" y="-40"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="couleur" color="#FF4FFF" parentLayerIndex="4" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="4" keyMode="9728">
+              <elements>
+                <DOMRectangleObject objectWidth="134" objectHeight="224.55" x="-20.8" y="52.45" lockFlag="true">
+                  <matrix>
+                    <Matrix ty="-19.5"/>
+                  </matrix>
+                  <fill>
+                    <SolidColor color="#66CCFF" alpha="0.247058823529412"/>
+                  </fill>
+                  <stroke>
+                    <SolidStroke scaleMode="normal">
+                      <fill>
+                        <SolidColor/>
+                      </fill>
+                    </SolidStroke>
+                  </stroke>
+                </DOMRectangleObject>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>
