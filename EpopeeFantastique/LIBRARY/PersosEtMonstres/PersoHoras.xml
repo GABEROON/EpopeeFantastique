@@ -1,6 +1,6 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="PersosEtMonstres/PersoHoras" itemID="58138537-000000c0" linkageExportForAS="true" linkageBaseClass="Perso" linkageClassName="PersoHoras" lastModified="1478716945" lastUniqueIdentifier="94">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="PersosEtMonstres/PersoHoras" itemID="58138537-000000c0" linkageExportForAS="true" linkageBaseClass="Perso" linkageClassName="PersoHoras" lastModified="1478717287" lastUniqueIdentifier="94">
   <timeline>
-    <DOMTimeline name="PersoHoras" currentFrame="180" guides='&lt;guidelines&gt;&lt;guideline direction="h"&gt;-266&lt;/guideline&gt;&lt;guideline direction="h"&gt;-130&lt;/guideline&gt;&lt;/guidelines&gt;'>
+    <DOMTimeline name="PersoHoras" currentFrame="165" guides='&lt;guidelines&gt;&lt;guideline direction="h"&gt;-266&lt;/guideline&gt;&lt;guideline direction="h"&gt;-130&lt;/guideline&gt;&lt;/guidelines&gt;'>
       <layers>
         <DOMLayer name="AS" color="#9933CC" autoNamed="false">
           <frames>
@@ -3139,6 +3139,8 @@
                     </FillStyle>
                   </fills>
                   <edges>
+                    <Edge fillStyle1="1" edges="
+!1929 -2139[1968 -2121 1931 -2103!1931 -2103[1913 -2095 1910 -2115!1910 -2115[1908 -2136 1929 -2139"/>
                     <Edge fillStyle1="3" edges="
 !472 -1597[479 -1596 486 -1594!486 -1594[492 -1591 499 -1592!499 -1592[504 -1593 509 -1593!509 -1593[497 -1588 486 -1591!486 -1591[470 -1596 454 -1592!454 -1592[444 -1589 437 -1595!437 -1595[449 -1592 464 -1595!464 -1595[468 -1596 472
  -1597!399 -1512[399 -1514 400 -1516!400 -1516[401 -1518 402 -1520!402 -1520[404 -1522 405 -1524!405 -1524[406 -1527 406 -1529!406 -1529[406 -1531 406 -1532!406 -1532[409 -1534 412 -1536!412 -1536[417 -1540 422 -1542!422 -1542[427 -1544
@@ -26603,15 +26605,15 @@
                   </fills>
                   <edges>
                     <Edge fillStyle0="1" edges="
-!365 67S1[374 21 374 18!374 18[388 -63 380 -157!380 -157[380 -160 379 -162!379 -162[383 -169 375 -172!375 -172[369 -176 360 -174!360 -174[336 -173 286 -165!286 -165|235 -157!235 -157[205 -154 144 -154!144 -154|-79 -153!-79 -153[-111 -153
+!365 67[374 21 374 18!374 18[388 -63 380 -157!380 -157[380 -160 379 -162!379 -162[383 -169 375 -172!375 -172[369 -176 360 -174!360 -174[336 -173 286 -165!286 -165|235 -157!235 -157[205 -154 144 -154!144 -154|-79 -153!-79 -153[-111 -153
  -127 -155!-127 -155[-140 -156 -199 -167!-199 -167[-239 -174 -267 -172!-267 -172[-271 -177 -277 -171!-277 -171[-278 -171 -278 -170!-278 -170[-285 -167 -285 -161!-285 -161[-285 -157 -283 -155!-283 -155[-284 -144 -284 -128!-284 -128[-284
  -103 -281 -92!-281 -92|-276 -78!-276 -78[-274 -71 -262 -47!-262 -47[-253 -28 -250 -15!-250 -15[-246 -2 -242 26!-242 26|-238 53!-238 53[-234 84 -234 96!-234 96[-239 94 -249 95!-249 95[-276 97 -284 102!-284 102[-295 109 -300 123!-300 123
 [-303 132 -303 150!-303 150[-303 169 -300 178!-300 178[-295 195 -281 199!-281 199[-269 203 -249 193!-249 193[-229 184 -219 175!-219 175[-211 175 -203 175!-203 175[15 175 123 184!123 184[241 193 253 194!253 194[327 196 381 182!381 182
 [412 174 424 161!424 161[432 152 434 139!434 139[435 126 428 117!428 117[420 108 404 106!404 106[398 106 376 107!376 107[366 108 354 108!354 108|365 67"/>
                     <Edge fillStyle0="1" fillStyle1="2" edges="
-!364 -150S3[373 -61 357 22!357 22|351 57!351 57[345 89 339 103!339 103[338 105 337 107!337 107[325 106 311 104!311 104[287 100 238 91!238 91[212 88 126 95!126 95[49 102 -174 102!-174 102[-198 101 -219 102!-219 102[-219 53 -228 6!-228
- 6[-235 -23 -238 -29!-238 -29[-259 -72 -265 -95!-265 -95[-268 -109 -268 -137!-268 -137|-267 -152!-267 -152[-266 -152 -265 -152!-265 -152[-243 -154 -211 -147!-211 -147[-158 -137 -156 -137!-156 -137[-131 -133 -80 -133!-80 -133|136 -133
-!136 -133[210 -133 246 -137!246 -137|364 -155!364 -155[364 -153 364 -150"/>
+!364 -150[373 -61 357 22!357 22|351 57!351 57[345 89 339 103!339 103[338 105 337 107!337 107[325 106 311 104!311 104[287 100 238 91!238 91[212 88 126 95!126 95[49 102 -174 102!-174 102[-198 101 -219 102!-219 102[-219 53 -228 6!-228 6
+[-235 -23 -238 -29!-238 -29[-259 -72 -265 -95!-265 -95[-268 -109 -268 -137!-268 -137|-267 -152!-267 -152[-266 -152 -265 -152!-265 -152[-243 -154 -211 -147!-211 -147[-158 -137 -156 -137!-156 -137[-131 -133 -80 -133!-80 -133|136 -133!136
+ -133[210 -133 246 -137!246 -137|364 -155!364 -155[364 -153 364 -150"/>
                     <Edge cubics="!365 67(365,67;368,51 372,35 374,18q365 67Q374 21q374 18);"/>
                     <Edge cubics="!374 18(;384,-39 385,-99 380,-157q374 18Q388 -63q380 -157);"/>
                     <Edge cubics="!364 -150(;370,-93 368,-34 357,22q364 -150Q373 -61q357 22);"/>
@@ -26674,7 +26676,7 @@
                     <Edge cubics="!246 -137(;246,-137 364,-155 364,-155q246 -137 364 -155);"/>
                   </edges>
                 </DOMShape>
-                <DOMSymbolInstance libraryItemName="PersosEtMonstres/Composantes/horas/side/corpsCoteHoras" selected="true" centerPoint3DX="2.8" centerPoint3DY="-23.35">
+                <DOMSymbolInstance libraryItemName="PersosEtMonstres/Composantes/horas/side/corpsCoteHoras" centerPoint3DX="2.8" centerPoint3DY="-23.35">
                   <matrix>
                     <Matrix a="-0.999984741210938" tx="19.1" ty="-40.5"/>
                   </matrix>
@@ -26682,7 +26684,7 @@
                     <Point x="16.25" y="17.15"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="PersosEtMonstres/Composantes/horas/haut_bas/ceintureCoteHoras" selected="true" centerPoint3DX="2.8" centerPoint3DY="-7.5">
+                <DOMSymbolInstance libraryItemName="PersosEtMonstres/Composantes/horas/haut_bas/ceintureCoteHoras" centerPoint3DX="2.8" centerPoint3DY="-7.5">
                   <matrix>
                     <Matrix a="-0.999984741210938" tx="19.1" ty="-8.75"/>
                   </matrix>
@@ -26690,7 +26692,7 @@
                     <Point x="16.25" y="1.1"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Interfaces/deco/triskel" selected="true" centerPoint3DX="15.25" centerPoint3DY="-22.3">
+                <DOMSymbolInstance libraryItemName="Interfaces/deco/triskel" centerPoint3DX="15.25" centerPoint3DY="-22.3">
                   <matrix>
                     <Matrix a="-0.0596160888671875" b="0.007293701171875" c="0.0278778076171875" d="0.227890014648438" tx="15.35" ty="-22.35"/>
                   </matrix>
@@ -26698,7 +26700,7 @@
                     <Point x="2.3" y="-0.5"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="PersosEtMonstres/Composantes/horas/side/brasCoteHoras" selected="true" centerPoint3DX="-11.4" centerPoint3DY="-20.1">
+                <DOMSymbolInstance libraryItemName="PersosEtMonstres/Composantes/horas/side/brasCoteHoras" centerPoint3DX="-11.4" centerPoint3DY="-20.1">
                   <matrix>
                     <Matrix a="-0.391448974609375" b="-0.595840454101562" c="-0.595855712890625" d="0.391448974609375" tx="9.25" ty="-24.4"/>
                   </matrix>
@@ -26706,7 +26708,7 @@
                     <Point x="11.7" y="4.4"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="PersosEtMonstres/Composantes/horas/side/foulardCote" selected="true" centerPoint3DX="0.1" centerPoint3DY="-34.95">
+                <DOMSymbolInstance libraryItemName="PersosEtMonstres/Composantes/horas/side/foulardCote" centerPoint3DX="0.1" centerPoint3DY="-34.95">
                   <matrix>
                     <Matrix a="-0.839614868164062" d="1.019775390625" tx="15.7" ty="-43.4"/>
                   </matrix>
@@ -32070,7 +32072,7 @@
                   </strokes>
                   <edges>
                     <Edge strokeStyle="1" edges="
-!14 -1537S4[47 -1524 71 -1507!71 -1507[99 -1487 104 -1452!104 -1452[104 -1444 99 -1432!99 -1432[91 -1424 84 -1424!84 -1424[58 -1414 31 -1414!31 -1414[21 -1414 16 -1417!16 -1417[9 -1424 14 -1432"/>
+!14 -1537[47 -1524 71 -1507!71 -1507[99 -1487 104 -1452!104 -1452[104 -1444 99 -1432!99 -1432[91 -1424 84 -1424!84 -1424[58 -1414 31 -1414!31 -1414[21 -1414 16 -1417!16 -1417[9 -1424 14 -1432"/>
                     <Edge cubics="!14 -1537(;34,-1529 54,-1519 71,-1507q14 -1537Q47 -1524q71 -1507)71,-1507;"/>
                     <Edge cubics="!71 -1507(;89,-1494 101,-1474 104,-1452q71 -1507Q99 -1487q104 -1452);"/>
                     <Edge cubics="!104 -1452(104,-1452;104,-1444 101,-1437 99,-1432q104 -1452Q104 -1444q99 -1432)99,-1432;"/>
@@ -32080,7 +32082,7 @@
                     <Edge cubics="!16 -1417(;11,-1422 11,-1427 14,-1432q16 -1417Q9 -1424q14 -1432)14,-1432;"/>
                   </edges>
                 </DOMShape>
-                <DOMSymbolInstance libraryItemName="PersosEtMonstres/Composantes/horas/side/teteCoteHoras" selected="true" centerPoint3DX="4.15" centerPoint3DY="-63.15">
+                <DOMSymbolInstance libraryItemName="PersosEtMonstres/Composantes/horas/side/teteCoteHoras" centerPoint3DX="4.15" centerPoint3DY="-63.15">
                   <matrix>
                     <Matrix a="1.0830078125" b="-0.273895263671875" c="0.290252685546875" d="1.14768981933594" tx="-4.6" ty="-71.7"/>
                   </matrix>
@@ -32088,7 +32090,7 @@
                     <Point x="3.35" y="8.1"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="PersosEtMonstres/Composantes/horas/side/cheveuxCoteHoras" selected="true" centerPoint3DX="3.35" centerPoint3DY="-84.05">
+                <DOMSymbolInstance libraryItemName="PersosEtMonstres/Composantes/horas/side/cheveuxCoteHoras" centerPoint3DX="3.35" centerPoint3DY="-84.05">
                   <matrix>
                     <Matrix a="-0.999984741210938" d="0.764724731445312" tx="33.2" ty="-100.9"/>
                   </matrix>
@@ -32096,7 +32098,7 @@
                     <Point x="29.6" y="20.05"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="PersosEtMonstres/Composantes/horas/haut_bas/copie teteHoras/oeilDroiteHoras" selected="true" centerPoint3DX="21.75" centerPoint3DY="-67.4">
+                <DOMSymbolInstance libraryItemName="PersosEtMonstres/Composantes/horas/haut_bas/copie teteHoras/oeilDroiteHoras" centerPoint3DX="21.75" centerPoint3DY="-67.4">
                   <matrix>
                     <Matrix a="-0.999984741210938" tx="28" ty="-75.15"/>
                   </matrix>
@@ -32104,7 +32106,7 @@
                     <Point x="6.2" y="7.75"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="PersosEtMonstres/Composantes/horas/haut_bas/couetteHoras" selected="true" centerPoint3DX="-12.35" centerPoint3DY="-74.55">
+                <DOMSymbolInstance libraryItemName="PersosEtMonstres/Composantes/horas/haut_bas/couetteHoras" centerPoint3DX="-12.35" centerPoint3DY="-74.55">
                   <matrix>
                     <Matrix a="0.93646240234375" b="0.429367065429688" c="-0.745147705078125" d="1.62538146972656" tx="-9.9" ty="-90.8"/>
                   </matrix>
@@ -32112,7 +32114,7 @@
                     <Point x="5" y="1.55"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="PersosEtMonstres/Composantes/horas/side/paupiereHoras" selected="true" centerPoint3DX="23.35" centerPoint3DY="-72.65">
+                <DOMSymbolInstance libraryItemName="PersosEtMonstres/Composantes/horas/side/paupiereHoras" centerPoint3DX="23.35" centerPoint3DY="-72.65">
                   <matrix>
                     <Matrix tx="21.3" ty="-78.3"/>
                   </matrix>
@@ -32120,7 +32122,7 @@
                     <Point x="2.75" y="7.75"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="PersosEtMonstres/Composantes/horas/side/boucheHorsaCombat" selected="true" centerPoint3DX="18.4" centerPoint3DY="-49.4">
+                <DOMSymbolInstance libraryItemName="PersosEtMonstres/Composantes/horas/side/boucheHorsaCombat" centerPoint3DX="18.4" centerPoint3DY="-49.4">
                   <matrix>
                     <Matrix tx="15.5" ty="-50.05"/>
                   </matrix>

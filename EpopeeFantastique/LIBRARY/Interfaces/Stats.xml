@@ -14,7 +14,7 @@
                     <DOMTextRun>
                       <characters>125 / 125</characters>
                       <textAttrs>
-                        <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="12.85" bitmapSize="240" face="ChiffresCourier*" fillColor="#FFFFFF"/>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="13.6" bitmapSize="240" face="ChiffresCourier*" fillColor="#FFFFFF"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>
@@ -27,7 +27,7 @@
                     <DOMTextRun>
                       <characters>150 / 150</characters>
                       <textAttrs>
-                        <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="12.85" bitmapSize="240" face="ChiffresCourier*" fillColor="#FFFFFF"/>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="13.6" bitmapSize="240" face="ChiffresCourier*" fillColor="#FFFFFF"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>

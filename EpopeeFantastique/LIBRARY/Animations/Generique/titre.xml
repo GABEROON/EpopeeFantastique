@@ -6,7 +6,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMStaticText fontRenderingMode="standard" left="-210.1" width="1062.65" height="119.7" includeOutlines="true" isSelectable="false">
+                <DOMStaticText fontRenderingMode="standard" left="-210.1" width="1062.65" height="100" includeOutlines="true" isSelectable="false">
                   <matrix>
                     <Matrix a="1.19999694824219" d="1.19999694824219" tx="254.5" ty="2.4"/>
                   </matrix>
@@ -14,7 +14,7 @@
                     <DOMTextRun>
                       <characters>L'épopée fantastique</characters>
                       <textAttrs>
-                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="119.7" size="100" bitmapSize="2000" face="GillSansMT-ExtraCondensedBold" fillColor="#FFFFFF"/>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="100" size="100" bitmapSize="2000" face="GillSansMT-ExtraCondensedBold" fillColor="#FFFFFF"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>

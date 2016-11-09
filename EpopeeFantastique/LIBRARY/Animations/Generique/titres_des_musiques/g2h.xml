@@ -6,7 +6,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMStaticText fontRenderingMode="standard" left="9.3" width="125.4" height="69" autoExpand="true" isSelectable="false">
+                <DOMStaticText fontRenderingMode="standard" left="-50.35" width="244.7" height="58" autoExpand="true" isSelectable="false">
                   <matrix>
                     <Matrix tx="-15.85" ty="2"/>
                   </matrix>
@@ -14,13 +14,13 @@
                     <DOMTextRun>
                       <characters>"Failing Defense"&#xD;</characters>
                       <textAttrs>
-                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="38.3" size="32" bitmapSize="640" face="PoliceGillSansMtExtCondensedBold*" fillColor="#FFFFFF"/>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="32" size="32" bitmapSize="640" face="PoliceGillSansMtExtCondensedBold*" fillColor="#FFFFFF"/>
                       </textAttrs>
                     </DOMTextRun>
                     <DOMTextRun>
                       <characters>(combat final)</characters>
                       <textAttrs>
-                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="28.7" size="24" bitmapSize="480" face="PoliceGillSansMtExtCondensedBold*" fillColor="#FFFFFF"/>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="24" size="24" bitmapSize="480" face="PoliceGillSansMtExtCondensedBold*" fillColor="#FFFFFF"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>

@@ -6,7 +6,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMStaticText selected="true" fontRenderingMode="standard" width="1062.65" height="52.7" includeOutlines="true" isSelectable="false">
+                <DOMStaticText selected="true" fontRenderingMode="standard" width="1062.65" height="44" includeOutlines="true" isSelectable="false">
                   <matrix>
                     <Matrix a="1.19999694824219" d="1.19999694824219" tx="2.4" ty="152.4"/>
                   </matrix>
@@ -14,13 +14,13 @@
                     <DOMTextRun>
                       <characters> </characters>
                       <textAttrs>
-                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="52.7" size="44" bitmapSize="880" face="PoliceGillSansMtExtCondensedBold*" fillColor="#FFFFFF"/>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="44" size="44" bitmapSize="880" face="PoliceGillSansMtExtCondensedBold*" fillColor="#FFFFFF"/>
                       </textAttrs>
                     </DOMTextRun>
                     <DOMTextRun>
                       <characters>sur les bases d'un projet original de Jonathan Tremblay</characters>
                       <textAttrs>
-                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineSpacing="10" lineHeight="43.1" size="36" bitmapSize="720" face="PoliceGillSansMtExtCondensedBold*" fillColor="#FFFFFF"/>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineSpacing="10" lineHeight="36" size="36" bitmapSize="720" face="PoliceGillSansMtExtCondensedBold*" fillColor="#FFFFFF"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>

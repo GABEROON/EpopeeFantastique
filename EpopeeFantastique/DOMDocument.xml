@@ -21,9 +21,9 @@
           <DOMFolderItem name="Animations/Intro/PersosEtMonstres/Composantes/horas/haut_bas" itemID="581bee5b-0000050b"/>
           <DOMFolderItem name="Animations/Intro/PersosEtMonstres/Composantes/horas/haut_bas/teteHoras groupe" itemID="581bee5b-0000051b"/>
           <DOMFolderItem name="croquis" itemID="580d1ac7-000000db"/>
-          <DOMFolderItem name="ElementsANommerEtClasser" itemID="50b4e7a7-000002fe"/>
+          <DOMFolderItem name="ElementsANommerEtClasser" itemID="50b4e7a7-000002fe" isExpanded="true"/>
           <DOMFolderItem name="icones" itemID="581a249a-000000f0"/>
-          <DOMFolderItem name="Interfaces" itemID="50b4e838-00000312" isExpanded="true"/>
+          <DOMFolderItem name="Interfaces" itemID="50b4e838-00000312"/>
           <DOMFolderItem name="Interfaces/Boutons" itemID="50b4e7da-00000305"/>
           <DOMFolderItem name="Interfaces/copie Boutons" itemID="581bc998-00000263"/>
           <DOMFolderItem name="Interfaces/copie Boutons 2" itemID="581cc4c1-0000095e"/>
@@ -42,15 +42,15 @@
           <DOMFolderItem name="Interfaces/PersosEtMonstres/Composantes/horas/side" itemID="581cc4c1-0000071d"/>
           <DOMFolderItem name="Interfaces/Polices" itemID="581bc998-00000259"/>
           <DOMFolderItem name="Interfaces/symbolesMagasin" itemID="5817da6a-000000ed" isExpanded="true"/>
-          <DOMFolderItem name="ObstaclesEtObjets" itemID="57ed53b5-000000ba"/>
-          <DOMFolderItem name="ObstaclesEtObjets/Decoratifs" itemID="5422df84-00000288"/>
-          <DOMFolderItem name="ObstaclesEtObjets/Interactifs" itemID="5422df69-00000286"/>
-          <DOMFolderItem name="ObstaclesEtObjets/Interactifs/ObjetsUtiles" itemID="5248e00f-000003a0"/>
+          <DOMFolderItem name="ObstaclesEtObjets" itemID="57ed53b5-000000ba" isExpanded="true"/>
+          <DOMFolderItem name="ObstaclesEtObjets/Decoratifs" itemID="5422df84-00000288" isExpanded="true"/>
+          <DOMFolderItem name="ObstaclesEtObjets/Interactifs" itemID="5422df69-00000286" isExpanded="true"/>
+          <DOMFolderItem name="ObstaclesEtObjets/Interactifs/ObjetsUtiles" itemID="5248e00f-000003a0" isExpanded="true"/>
           <DOMFolderItem name="ObstaclesEtObjets/Objets Magasin" itemID="581a249c-00000322"/>
           <DOMFolderItem name="PersosEtMonstres" itemID="541de3a6-000001d4" isExpanded="true"/>
-          <DOMFolderItem name="PersosEtMonstres/Composantes" itemID="57ea9781-000000b4" isExpanded="true"/>
+          <DOMFolderItem name="PersosEtMonstres/Composantes" itemID="57ea9781-000000b4"/>
           <DOMFolderItem name="PersosEtMonstres/Composantes/Blorg" itemID="57eae14f-000007be"/>
-          <DOMFolderItem name="PersosEtMonstres/Composantes/horas" itemID="58138818-000000e4" isExpanded="true"/>
+          <DOMFolderItem name="PersosEtMonstres/Composantes/horas" itemID="58138818-000000e4"/>
           <DOMFolderItem name="PersosEtMonstres/Composantes/horas/haut_bas" itemID="5818d33b-000001b9" isExpanded="true"/>
           <DOMFolderItem name="PersosEtMonstres/Composantes/horas/haut_bas/copie teteHoras" itemID="581cc515-000009a9" isExpanded="true"/>
           <DOMFolderItem name="PersosEtMonstres/Composantes/horas/haut_bas/teteHoras groupe" itemID="581a7fb4-000000f5" isExpanded="true"/>
@@ -273,13 +273,13 @@
           <Include href="ObstaclesEtObjets/Decoratifs/ravin1.xml" loadImmediate="false" itemID="560db5c8-00000584" lastModified="1443739166"/>
           <Include href="ObstaclesEtObjets/Decoratifs/ravin2.xml" loadImmediate="false" itemID="560db5d1-0000058d" lastModified="1443739201"/>
           <Include href="ObstaclesEtObjets/Decoratifs/tourelle.xml" loadImmediate="false" itemID="528f681d-00000838" lastModified="1385131664"/>
-          <Include href="ObstaclesEtObjets/Interactifs/ObjetsUtiles/ObjBarriere.xml" itemID="57df0a74-000002e4" lastModified="1475204220"/>
+          <Include href="ObstaclesEtObjets/Interactifs/ObjetsUtiles/ObjBarriere.xml" itemID="57df0a74-000002e4" lastModified="1478717730"/>
           <Include href="ObstaclesEtObjets/Interactifs/ObjetsUtiles/ObjPatate.xml" itemID="5422d544-00000276" lastModified="1475204205"/>
           <Include href="ObstaclesEtObjets/Interactifs/ObjetsUtiles/ObjPiece.xml" itemID="5422d548-00000277" lastModified="1475204187"/>
           <Include href="ObstaclesEtObjets/Interactifs/Porte.xml" itemID="5422df3c-00000280" lastModified="1474820421"/>
           <Include href="ObstaclesEtObjets/Objets Magasin/Patate.xml" itemID="5817e530-0000014e" lastModified="1477961069"/>
           <Include href="ObstaclesEtObjets/Objets Magasin/Potion.xml" itemID="581cdc3d-00000d5f" lastModified="1478286412"/>
-          <Include href="ObstaclesEtObjets/ObsArbre.xml" itemID="560ff066-000001c1" lastModified="1475204392"/>
+          <Include href="ObstaclesEtObjets/ObsArbre.xml" itemID="560ff066-000001c1" lastModified="1478718795"/>
           <Include href="ObstaclesEtObjets/ObsBosquet.xml" itemID="57df159e-00000307" lastModified="1475204380"/>
           <Include href="ObstaclesEtObjets/ObsCloture.xml" itemID="5248c32e-0000037c" lastModified="1475204354"/>
           <Include href="ObstaclesEtObjets/ObsClotureInvisible.xml" itemID="57edca6a-0000016a" lastModified="1475204326"/>
@@ -361,7 +361,7 @@
           <Include href="PersosEtMonstres/MonstreKorrigan.xml" itemID="5428a51c-00000331" lastModified="1443738131"/>
           <Include href="PersosEtMonstres/MonstreTumulus.xml" itemID="542ca74b-0000026e" lastModified="1412217748"/>
           <Include href="PersosEtMonstres/PersoFortis.xml" itemID="542a0d1f-000002b3" lastModified="1478203580"/>
-          <Include href="PersosEtMonstres/PersoHoras.xml" itemID="58138537-000000c0" lastModified="1478716945"/>
+          <Include href="PersosEtMonstres/PersoHoras.xml" itemID="58138537-000000c0" lastModified="1478717287"/>
           <Include href="PersosEtMonstres/PersoLucem.xml" itemID="542a06ae-000001fe" lastModified="1474997106"/>
           <Include href="PersosEtMonstres/PersoNova.xml" itemID="542a039a-000001ea" lastModified="1474997382"/>
           <Include href="PersosEtMonstres/PersoSpero.xml" itemID="541deb0b-000001de" lastModified="1478280851"/>
@@ -383,7 +383,7 @@
           <Include href="Tableaux/TabRavin.xml" itemID="57f1205c-000000bb" lastModified="1477672582"/>
           <Include href="Tableaux/TabRocaille.xml" itemID="57f12058-000000ba" lastModified="1475420734"/>
           <Include href="Tableaux/TabSalleDuRoi.xml" itemID="57f12051-000000b9" lastModified="1475422533"/>
-          <Include href="Tableaux/TabVillage.xml" itemID="57f1204c-000000b8" lastModified="1478563473"/>
+          <Include href="Tableaux/TabVillage.xml" itemID="57f1204c-000000b8" lastModified="1478717673"/>
      </symbols>
      <timelines>
           <DOMTimeline name="Séquence 1">
@@ -954,6 +954,7 @@ function enleveBtRetour(e:Event):void{
                     <SolidSwatchItem color="#0F1700" hue="55" saturation="239" brightness="11"/>
                     <SolidSwatchItem color="#0F1700" hue="55" saturation="239" brightness="11"/>
                     <SolidSwatchItem color="#FFD700" hue="34" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#855735" hue="17" saturation="103" brightness="88"/>
                </swatches>
           </swatchList>
      </swatchLists>
@@ -1066,6 +1067,10 @@ function enleveBtRetour(e:Event):void{
                          <GradientEntry color="#0000FF" alpha="0.619607843137255" ratio="0"/>
                          <GradientEntry color="#FFFFFF" alpha="0" ratio="1"/>
                     </RadialGradientSwatchItem>
+                    <RadialGradientSwatchItem>
+                         <GradientEntry color="#996600" ratio="0"/>
+                         <GradientEntry color="#2C1D00" ratio="1"/>
+                    </RadialGradientSwatchItem>
                </swatches>
           </swatchList>
      </extendedSwatchLists>
@@ -1094,6 +1099,7 @@ function enleveBtRetour(e:Event):void{
      </persistentData>
      <PrinterSettings/>
      <publishHistory>
+          <PublishItem publishSize="17294146" publishTime="1478717332"/>
           <PublishItem publishSize="17232679" publishTime="1478709412"/>
           <PublishItem publishSize="17232679" publishTime="1478709406" publishDebug="true"/>
           <PublishItem publishSize="17451483" publishTime="1478653316"/>
@@ -1113,6 +1119,5 @@ function enleveBtRetour(e:Event):void{
           <PublishItem publishSize="17428958" publishTime="1478574587"/>
           <PublishItem publishSize="17428895" publishTime="1478574266"/>
           <PublishItem publishSize="17428828" publishTime="1478573361"/>
-          <PublishItem publishSize="17428821" publishTime="1478573280"/>
      </publishHistory>
 </DOMDocument>

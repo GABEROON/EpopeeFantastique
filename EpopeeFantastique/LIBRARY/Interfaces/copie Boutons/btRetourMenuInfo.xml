@@ -17,7 +17,7 @@
                     <DOMTextRun>
                       <characters>i</characters>
                       <textAttrs>
-                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineSpacing="1" lineHeight="111.35" size="93" bitmapSize="1860" face="PoliceGillSansMtExtCondensedBold*" fillColor="#CCCCCC"/>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineSpacing="1" lineHeight="93" size="93" bitmapSize="1860" face="PoliceGillSansMtExtCondensedBold*" fillColor="#CCCCCC"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>

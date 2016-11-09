@@ -1,8 +1,8 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="ObstaclesEtObjets/Interactifs/ObjetsUtiles/ObjBarriere" itemID="57df0a74-000002e4" linkageExportForAS="true" linkageBaseClass="Objet" linkageClassName="ObjBarriere" lastModified="1475204220">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="ObstaclesEtObjets/Interactifs/ObjetsUtiles/ObjBarriere" itemID="57df0a74-000002e4" linkageExportForAS="true" linkageBaseClass="Objet" linkageClassName="ObjBarriere" lastModified="1478717730">
   <timeline>
     <DOMTimeline name="ObjBarriere">
       <layers>
-        <DOMLayer name="zoneContact" color="#9933CC" outline="true" current="true" isSelected="true" useOutlineView="true" autoNamed="false">
+        <DOMLayer name="zoneContact" color="#9933CC" outline="true" useOutlineView="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
@@ -21,11 +21,11 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="elements" color="#4F80FF" autoNamed="false">
+        <DOMLayer name="elements" color="#4F80FF" current="true" isSelected="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche" symbolType="graphic" loop="single frame">
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche" selected="true" symbolType="graphic" loop="single frame">
                   <matrix>
                     <Matrix a="-1" d="0.899993896484375" tx="59.35" ty="10"/>
                   </matrix>

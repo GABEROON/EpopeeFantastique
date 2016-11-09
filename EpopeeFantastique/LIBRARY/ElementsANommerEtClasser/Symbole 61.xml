@@ -6,7 +6,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMStaticText selected="true" fontRenderingMode="standard" width="1276.05" height="120.4" isSelectable="false">
+                <DOMStaticText selected="true" fontRenderingMode="standard" width="1276.05" height="100" isSelectable="false">
                   <matrix>
                     <Matrix tx="2" ty="2"/>
                   </matrix>
@@ -14,19 +14,19 @@
                     <DOMTextRun>
                       <characters>Comba</characters>
                       <textAttrs>
-                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="120.4" size="100" bitmapSize="2000" face="Gill Sans MT Condensed*" fillColor="#FF0000"/>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="100" size="100" bitmapSize="2000" face="Gill Sans MT Condensed*" fillColor="#FF0000"/>
                       </textAttrs>
                     </DOMTextRun>
                     <DOMTextRun>
                       <characters>t</characters>
                       <textAttrs>
-                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" letterSpacing="3" lineHeight="120.4" size="100" bitmapSize="2000" face="Gill Sans MT Condensed*" fillColor="#FF0000"/>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" letterSpacing="3" lineHeight="100" size="100" bitmapSize="2000" face="Gill Sans MT Condensed*" fillColor="#FF0000"/>
                       </textAttrs>
                     </DOMTextRun>
                     <DOMTextRun>
                       <characters>!</characters>
                       <textAttrs>
-                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="120.4" size="100" bitmapSize="2000" face="Gill Sans MT Condensed*" fillColor="#FF0000"/>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="100" size="100" bitmapSize="2000" face="Gill Sans MT Condensed*" fillColor="#FF0000"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>

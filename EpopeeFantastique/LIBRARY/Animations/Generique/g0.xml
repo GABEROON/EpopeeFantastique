@@ -6,7 +6,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMStaticText selected="true" fontRenderingMode="standard" width="1062.65" height="126.5" includeOutlines="true" isSelectable="false">
+                <DOMStaticText selected="true" fontRenderingMode="standard" width="1062.65" height="106" includeOutlines="true" isSelectable="false">
                   <matrix>
                     <Matrix a="1.19999694824219" d="1.19999694824219" tx="2.4" ty="2.4"/>
                   </matrix>
@@ -14,19 +14,19 @@
                     <DOMTextRun>
                       <characters>Scénarisation, graphisme et programmation&#xD;</characters>
                       <textAttrs>
-                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="52.7" size="44" bitmapSize="880" face="PoliceGillSansMtExtCondensedBold*" fillColor="#FFFFFF"/>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="44" size="44" bitmapSize="880" face="PoliceGillSansMtExtCondensedBold*" fillColor="#FFFFFF"/>
                       </textAttrs>
                     </DOMTextRun>
                     <DOMTextRun>
                       <characters>[Écrivez vos noms ici...]</characters>
                       <textAttrs>
-                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineSpacing="-4" lineHeight="71.8" size="60" bitmapSize="1200" face="PoliceGillSansMtExtCondensedBold*" fillColor="#FFFFFF"/>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineSpacing="-4" lineHeight="60" size="60" bitmapSize="1200" face="PoliceGillSansMtExtCondensedBold*" fillColor="#FFFFFF"/>
                       </textAttrs>
                     </DOMTextRun>
                     <DOMTextRun>
                       <characters></characters>
                       <textAttrs>
-                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineSpacing="10" lineHeight="64.65" size="54" bitmapSize="1080" face="PoliceGillSansMtExtCondensedBold*" fillColor="#FFFFFF"/>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineSpacing="10" lineHeight="54" size="54" bitmapSize="1080" face="PoliceGillSansMtExtCondensedBold*" fillColor="#FFFFFF"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>

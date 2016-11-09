@@ -22,11 +22,11 @@
                     </StrokeStyle>
                   </strokes>
                   <edges>
-                    <Edge fillStyle1="1" strokeStyle="1" edges="!0 2936|0 511!0 511|1540 511!1540 511|1540 2936!1540 2936|1540 2953!1540 2953[#603.64 #B89.91 1539 2954"/>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!0 2936|0 511!0 511|1540 511!1540 511|1540 2936"/>
                     <Edge fillStyle0="1" fillStyle1="1" strokeStyle="1" edges="!1540 2936[#603.C3 #B80.FF 1539 2954"/>
-                    <Edge fillStyle1="1" strokeStyle="1" edges="!1 2954[#0.9C #B89.91 0 2953!0 2953|0 2936"/>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!1540 2936|1540 2953!1540 2953[#603.64 #B89.91 1539 2954"/>
                     <Edge fillStyle0="1" fillStyle1="1" strokeStyle="1" edges="!1 2954[#0.3D #B80.FE 0 2936"/>
-                    <Edge fillStyle1="1" strokeStyle="1" edges="!1539 2954[#5F3.63 #C20.9A 1314 3213!1314 3213[1089 3330 770 3330!770 3330[451 3330 225 3213!225 3213[#10.88 #C20.99 1 2954"/>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!1 2954[#0.9C #B89.91 0 2953!0 2953|0 2936!1539 2954[#5F3.63 #C20.9A 1314 3213!1314 3213[1089 3330 770 3330!770 3330[451 3330 225 3213!225 3213[#10.88 #C20.99 1 2954"/>
                   </edges>
                 </DOMShape>
                 <DOMOvalObject objectWidth="78" objectHeight="78" x="479.1" y="487.1" endAngle="0">
