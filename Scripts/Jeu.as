@@ -42,7 +42,7 @@
 		private var _horas:Perso, _nova:Perso, _lucem:Perso, _fortis:Perso;
 		private var _tPersos:Array;
 		private var _tAbsences:Array = [];
-		private var _tObjets:Array = [];
+		private var _tObjets:Array = [new Potion(), new Patate(),new Potion(), new Patate(),new Potion(), new Patate(),new Potion(), new Patate()];
 		private var _fortune:Number = 0;
 		
 		private var _transitionCombat:MovieClip = new TransitionCombat();

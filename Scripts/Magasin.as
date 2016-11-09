@@ -9,10 +9,13 @@
 	import flash.text.Font;
 	import flash.utils.getQualifiedClassName;
 	import flash.display.MovieClip;
+	import flash.geom.Point;
+	import flash.ui.Keyboard;
+	import flash.display.SimpleButton;
 
 	public class Magasin extends Sprite {
 
-		private var _inventaire: Array = [new Patate(),new Patate(),new Potion()]; //Array contenant la définition des objets du magasin
+		private var _inventaire: Array = [new Patate(),new Patate(),new Potion(),new Potion(),new Potion(),new Potion(),new Potion(),new Potion(),new Patate(),new Potion(),new Potion(),new Potion(),new Potion(),new Potion(),]; //Array contenant la définition des objets du magasin
 		private var _change: uint = 30; //Entier positif représentant le nombre d'or du marchand
 		private var _tauxRachat: uint = 80; //Entier positif représentant le pourcentage du prix donné lorsque le joueur vend au marchand
 		protected static var _tPrix: Array = [	Patate, 5, "Une vulgaire patate. Elle vous redonnera surement un peu de vigueur.", //Tableau contenant le prix de tous les items du jeu !!!DEFINIR LOBJET AVEC UNE CLASSE!!!
@@ -22,6 +25,7 @@
 		private var _marquePourAchat: Array = [];
 		private var _balance: int; //balance de la transaction actuelle
 		private var _elementHighlight:DisplayObject;
+		//private var _inventaireHighlight:MovieClip;
 
 		public function Magasin() {
 			addEventListener(Event.ADDED_TO_STAGE, ouverture);
@@ -36,7 +40,7 @@
 			chFeedback.text = "Cliquez sur les objets\npour vendre ou acheter";
 
 			actualiserInfo();
-			changerHighlight
+			changerHighlight();
 
 			btRetour.addEventListener(MouseEvent.CLICK, quitter);
 			btConfirmer.addEventListener(MouseEvent.CLICK, confirmer);
@@ -55,9 +59,78 @@
 
 		}
 		
-		public function frappeClavierMagasin(e:KeyboardEvent){
-			
-		}
+		public function frappeClavierMagasin(e:KeyboardEvent){ //Cette fonction (un peu ésotérique) définit quel élément doit être highlighté ensuite
+			if(_elementHighlight==btConfirmer){// si on est présentement sur le bouton
+				
+				switch(e.keyCode){
+					case Keyboard.UP:
+					case Keyboard.LEFT:
+						_elementHighlight=invJoueur.getChildAt(invJoueur.numChildren-1);
+						break;
+					case Keyboard.RIGHT:
+						_elementHighlight=invMarchand.getChildAt(invMarchand.numChildren-1);
+						break;
+					case Keyboard.ENTER:
+					case Keyboard.SPACE:
+						confirmer();
+						break;
+				}
+				
+			}else {
+				var inventaire:MovieClip = MovieClip(_elementHighlight.parent);
+				var index:int = inventaire.getChildIndex(_elementHighlight);
+				
+				switch(e.keyCode){
+					case Keyboard.LEFT:
+						
+						if((index-1)%6==0 && inventaire==invMarchand && invJoueur.numChildren>1){ //Si on sort de l'inventaire marchand
+							inventaire=invJoueur;
+							index=index+=5;//on atterit ici
+
+						}else index--;
+						if(index<=0)index=1;
+						break;
+					case Keyboard.RIGHT:
+						
+						if((index)%6==0 && inventaire==invJoueur || index==inventaire.numChildren-1){ //Si on sort de l'inventaire joueur
+							inventaire=invMarchand;
+							index-=5;//on atterit ici
+							while(7%index!=0){ //Si on atterit à un endroit inattendu..
+								index++; 
+								if(index>numChildren-1)break;
+							}//while index != multiple de 7
+
+						}else index++;
+						if(index>inventaire.numChildren-1)index=inventaire.numChildren-1
+						break;
+						
+					case Keyboard.UP:
+						if(index-6>=1)index-=6;
+						break;
+					case Keyboard.DOWN:
+						if(inventaire.numChildren-1>=index+6)index+=6;
+						else{
+							_elementHighlight = btConfirmer;
+							changerHighlight();
+							return void;
+						}
+						break;
+					case Keyboard.SPACE:
+					case Keyboard.ENTER:
+						cliquer();
+						break;
+				}//switch
+				
+				//Sécurité contre l'erreur 2006
+				while(index>inventaire.numChildren-1){
+					index--;
+					if(index<=1)break;
+				}
+				//on change l'element
+				_elementHighlight=inventaire.getChildAt(index);
+			}//if else
+			changerHighlight();
+		}//function frappeClavierMagasin
 
 		public function achat(objet: String): Boolean {
 			var index: uint = _tPrix.indexOf(objet);
@@ -72,14 +145,33 @@
 		}
 		
 		private function changerHighlight(e:MouseEvent = null):void{
-			select_mc.x=_elementHighlight.x;
-			select_mc.y=_elementHighlight.y;
+			select_mc.x=_elementHighlight.x+_elementHighlight.parent.x-6;
+			select_mc.y=_elementHighlight.y+_elementHighlight.parent.y-6;
+			select_mc.width = _elementHighlight.width+12;
+			select_mc.height = _elementHighlight.height+12;
 		}
 
-		private function cliquer(e: MouseEvent): void {
-			if (e.target is MovieClip && e.target.parent is MovieClip) {
-				var objetCible: MovieClip = MovieClip(e.target);
-				var inventaireSource: String = e.target.parent.name;
+		private function cliquer(e: MouseEvent=null): void {
+			
+				var objetCible: MovieClip;
+				var inventaireSource: String;
+				
+				if(e!=null){ // Pour un clic de souris
+					
+					if (e.target is MovieClip && e.target.parent is MovieClip) {
+						objetCible = MovieClip(e.target); 
+						inventaireSource = e.target.parent.name;
+					}else return void; //si on a cliqué à un endroit pas rapport
+					
+				}else { //pour un enter ou un espace
+					if(_elementHighlight is SimpleButton){//Si c'est le bouton confirmer
+						return void;
+					} else {
+						objetCible = MovieClip(_elementHighlight);
+						inventaireSource=_elementHighlight.parent.name;
+					}
+				}
+				
 
 
 				//On veut que le joueur puisse faire des choix avant de cliquer sur confirmer et de procéder à la transaction et que ca ne lui coute pas d'argent juste pour "essayer" d'acheter des objets
@@ -113,6 +205,7 @@
 					_marquePourVente.push(objetCible);
 					objetCible.alpha = 0.2;
 					_balance += _tPrix[_tPrix.indexOf(objetCible.constructor) + 1]*(_tauxRachat/100);
+					
 				} else { //Si l'objet venait de l'inventaire du marchand, on procede a un achat.
 					_marquePourAchat.push(objetCible);
 					objetCible.alpha = 0.2;
@@ -120,14 +213,13 @@
 				}
 				trace("Marqué pour vente : " + _marquePourVente);
 				trace("Marqué pour Achat : " + _marquePourAchat);
-			} //if target and target's parent are MovieClip
 			
 			if(_balance>0)chBalance.text = "+" + _balance;
 			else chBalance.text = "" + _balance;
 
 		} //Fonction cliquer
 
-		private function confirmer(e: MouseEvent): void {
+		private function confirmer(e: MouseEvent=null): void {
 			var inventaireJoueur: Array = Jeu(parent).getTObjets();
 			var indexAComparer: int = 0;
 
@@ -218,8 +310,8 @@
 			
 			//Boucle pour trouver le premier object à Highlight s'il n'y en a pas déjà un
 			if(_elementHighlight==null){
-				if(inventaireJoueur.numChildren>0)_elementHighlight = inventaireJoueur.getChildAt(0);
-				else if(_inventaire.numChildren>0)_elementHighlight = _inventaire.getChildAt(0);
+				if(invJoueur.numChildren>1)_elementHighlight = invJoueur.getChildAt(1);
+				else if(invMarchand.numChildren>1)_elementHighlight = invMarchand.getChildAt(1); // 0 est la forme de l'inventaire
 				else _elementHighlight = btConfirmer;
 			}//if no highlight
 
