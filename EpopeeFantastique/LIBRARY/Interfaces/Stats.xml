@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Interfaces/Stats" itemID="5250b758-00000322" linkageExportForAS="true" linkageClassName="Stats" lastModified="1443574315">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Interfaces/Stats" itemID="5250b758-00000322" linkageExportForAS="true" linkageClassName="Stats" lastModified="1478734908">
   <timeline>
     <DOMTimeline name="Stats">
       <layers>
@@ -6,32 +6,70 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMDynamicText name="PV_txt" fontRenderingMode="standard" width="84.25" height="13.6" includeOutlines="true">
+                <DOMDynamicText name="PV_txt" fontRenderingMode="standard" left="0.9" width="62.6" height="13.6" includeOutlines="true">
                   <matrix>
-                    <Matrix a="1.9375" d="1.49937438964844" tx="3.85" ty="-49"/>
+                    <Matrix a="1.9375" d="1.49937438964844" tx="3.85" ty="-48.4"/>
                   </matrix>
                   <textRuns>
                     <DOMTextRun>
                       <characters>125 / 125</characters>
                       <textAttrs>
-                        <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="13.6" bitmapSize="240" face="ChiffresCourier*" fillColor="#FFFFFF"/>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="11.7" size="11" bitmapSize="220" face="ChiffresCourier*" fillColor="#FFFFFF"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>
                 </DOMDynamicText>
-                <DOMDynamicText name="PM_txt" fontRenderingMode="standard" width="84.25" height="13.6" includeOutlines="true">
+                <DOMDynamicText name="PM_txt" fontRenderingMode="standard" left="1.3" width="62.35" height="13.6" includeOutlines="true">
                   <matrix>
-                    <Matrix a="1.9375" d="1.49937438964844" tx="3.85" ty="-22"/>
+                    <Matrix a="1.9375" d="1.49937438964844" tx="3.85" ty="-21.25"/>
                   </matrix>
                   <textRuns>
                     <DOMTextRun>
                       <characters>150 / 150</characters>
                       <textAttrs>
-                        <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="13.6" bitmapSize="240" face="ChiffresCourier*" fillColor="#FFFFFF"/>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="11.7" size="11" bitmapSize="220" face="ChiffresCourier*" fillColor="#FFFFFF"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>
                 </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="barres" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!43 -491|2619 -491!2619 -491|2619 -21!2619 -21|43 -21!43 -21|43 -491!43 -1029|2619 -1029!2619 -1029|2619 -559!2619 -559|43 -559!43 -559|43 -1029"/>
+                  </edges>
+                </DOMShape>
+                <DOMSymbolInstance libraryItemName="Interfaces/symbolesCombat/inBarreMana" name="mana_mc">
+                  <matrix>
+                    <Matrix tx="2.15" ty="-24.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="64.4" y="11.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Interfaces/symbolesCombat/inBarreSante" name="sante_mc">
+                  <matrix>
+                    <Matrix tx="2.15" ty="-51.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="64.4" y="11.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
               </elements>
             </DOMFrame>
           </frames>

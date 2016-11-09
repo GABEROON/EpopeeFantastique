@@ -29,8 +29,8 @@
                     </StrokeStyle>
                   </strokes>
                   <edges>
-                    <Edge fillStyle1="1" strokeStyle="2" edges="!0 110|91 0!91 0[198 84 215 189"/>
                     <Edge fillStyle1="1" strokeStyle="1" edges="!215 189[209 198 202 206!202 206[167 245 118 263!118 263[83 180 0 110"/>
+                    <Edge fillStyle1="1" strokeStyle="2" edges="!0 110|91 0!91 0[198 84 215 189"/>
                     <Edge cubics="!91 0(;162,56 204,119 215,189q91 0Q198 84q215 189)215,189;"/>
                     <Edge cubics="!118 263(;95,208 55,157 0,110q118 263Q83 180q0 110);"/>
                     <Edge cubics="!0 110(;0,110 91,0 91,0q0 110 91 0);"/>

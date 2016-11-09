@@ -6,7 +6,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMStaticText width="136" height="40">
+                <DOMStaticText width="136" height="47.9">
                   <matrix>
                     <Matrix tx="2" ty="2"/>
                   </matrix>
@@ -14,7 +14,7 @@
                     <DOMTextRun>
                       <characters>Menu</characters>
                       <textAttrs>
-                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" lineSpacing="1.65" lineHeight="40" size="40" bitmapSize="800" face="GillSansMT-ExtraCondensedBold" fillColor="#FFFFFF"/>
+                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" lineSpacing="1.65" lineHeight="47.9" size="40" bitmapSize="800" face="GillSansMT-ExtraCondensedBold" fillColor="#FFFFFF"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>

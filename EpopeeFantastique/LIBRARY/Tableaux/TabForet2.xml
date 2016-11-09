@@ -1073,7 +1073,7 @@
                 </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/Interactifs/ObjetsUtiles/ObjPatate" name="patate2_mc" centerPoint3DX="602.2" centerPoint3DY="610.8">
                   <matrix>
-                    <Matrix a="1.52587890625e-05" b="0.199996948242188" c="-0.199996948242188" d="1.52587890625e-05" tx="613.7" ty="602.65"/>
+                    <Matrix a="1.52587890625e-005" b="0.199996948242188" c="-0.199996948242188" d="1.52587890625e-005" tx="613.7" ty="602.65"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="80.5"/>
@@ -1085,7 +1085,7 @@
                 </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/Interactifs/ObjetsUtiles/ObjPatate" name="patate3" centerPoint3DX="598.15" centerPoint3DY="640.6">
                   <matrix>
-                    <Matrix a="-1.52587890625e-05" b="0.199996948242188" c="0.199996948242188" d="1.52587890625e-05" tx="586.65" ty="632.45"/>
+                    <Matrix a="-1.52587890625e-005" b="0.199996948242188" c="0.199996948242188" d="1.52587890625e-005" tx="586.65" ty="632.45"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="80.5"/>

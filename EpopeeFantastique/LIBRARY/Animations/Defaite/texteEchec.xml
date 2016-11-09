@@ -6,7 +6,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMStaticText selected="true" fontRenderingMode="standard" width="1062.85" height="163" isSelectable="false">
+                <DOMStaticText selected="true" fontRenderingMode="standard" width="1062.85" height="128.9" isSelectable="false">
                   <matrix>
                     <Matrix a="1.19999694824219" d="1.19999694824219" tx="2.4" ty="2.4"/>
                   </matrix>
@@ -14,7 +14,7 @@
                     <DOMTextRun>
                       <characters>Triste jour dans la vallée.&#xD;Cette fois, ce sont les ténèbres qui ont gagné...</characters>
                       <textAttrs>
-                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="53" size="53" bitmapSize="1060" face="PoliceGillSansMtExtCondensedBold*" fillColor="#CCCCCC"/>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="63.45" size="53" bitmapSize="1060" face="PoliceGillSansMtExtCondensedBold*" fillColor="#CCCCCC"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>

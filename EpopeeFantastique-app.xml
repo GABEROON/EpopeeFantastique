@@ -1,10 +1,27 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<application xmlns="http://ns.adobe.com/air/application/20.0">
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<application xmlns="http://ns.adobe.com/air/application/21.0">
     <id>EpopeeFantastique</id>
     <versionNumber>1.0</versionNumber>
     <filename>EpopeeFantastique</filename>
-    <description></description>
-    <!-- To localize the description, use the following format for the description element.
+    <description/>
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+<!-- To localize the description, use the following format for the description element.
 	<description>
 		<text xml:lang="en">English App description goes here</text>
 		<text xml:lang="fr">French App description goes here</text>
@@ -12,14 +29,31 @@
 	</description>
 	-->
     <name>EpopeeFantastique</name>
-    <!-- To localize the name, use the following format for the name element.
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+<!-- To localize the name, use the following format for the name element.
 	<name>
 		<text xml:lang="en">English App name goes here</text>
 		<text xml:lang="fr">French App name goes here</text>
 		<text xml:lang="ja">Japanese App name goes here</text>
 	</name>
 	-->
-    <copyright></copyright>
+    <copyright/>
     <initialWindow>
         <content>EpopeeFantastique.swf</content>
         <systemChrome>standard</systemChrome>
@@ -32,5 +66,5 @@
     </initialWindow>
     <customUpdateUI>false</customUpdateUI>
     <allowBrowserInvocation>false</allowBrowserInvocation>
-    <icon></icon>
+    <icon/>
 </application>

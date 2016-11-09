@@ -1,8 +1,8 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="ObstaclesEtObjets/Objets Magasin/Patate" itemID="5817e530-0000014e" linkageExportForAS="true" linkageClassName="Patate" lastModified="1477961069">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="ObstaclesEtObjets/Objets Magasin/Patate" itemID="5817e530-0000014e" linkageExportForAS="true" linkageClassName="Patate" lastModified="1478731586">
   <timeline>
     <DOMTimeline name="Patate">
       <layers>
-        <DOMLayer name="ombre" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+        <DOMLayer name="ombre" color="#9933CC" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
@@ -13,7 +13,7 @@
                     </FillStyle>
                   </fills>
                   <edges>
-                    <Edge fillStyle1="1" edges="!1390 475[#56D.F4 #20C.2B 1394.5 576.5!1394.5 576.5[#571.A3 #240.15 1392.5 575.5!1392.5 575.5[#572.62 #247.D5 1396 592.5!1396 592.5[#577.DD #275.7C 1406 668!1406 668[#57E.14 #29D.21 1406 670.5!1406 670.5|1406.5 671!1406.5 671[#592.B5
+                    <Edge fillStyle1="1" edges="!1390 475S2[#56D.F4 #20C.2B 1394.5 576.5!1394.5 576.5[#571.A3 #240.15 1392.5 575.5!1392.5 575.5[#572.62 #247.D5 1396 592.5!1396 592.5[#577.DD #275.7C 1406 668!1406 668[#57E.14 #29D.21 1406 670.5!1406 670.5|1406.5 671!1406.5 671[#592.B5
  #31A.86 1471 934!1471 934[#60C.0A #49B.DF 1561 1242!1561 1242[#624.76 #512.21 1570 1336.5!1570 1336.5|1570 1337!1570 1337[#61D.B7 #563.C1 1530.5 1562.5!1530.5 1562.5[#5F9.15 #622.6C 1531 1578.5!1531 1578.5[#615.D7 #6A7.16 1496.5 1825
 !1496.5 1825|1496 1825!1496 1825[1489.5 #72E.7B 1483 1851!1483 1851[#5C4.75 1863 1469 1875!1469 1875|1469.5 1874.5!1469.5 1874.5[#561.72 #7E0.AA 1218 2090.5!1218 2090.5|1217 2091!1217 2091[#42B.BD #875.D6 902 2199!902 2199|906 2198!906
  2198[#377.F8 #897.F8 869 2201!869 2201|868 2201!868 2201[#2A1.4E #8A6.E5 620 2215!620 2215[#19D.0C #8A5.72 229.5 2015!229.5 2015[#C5.6C #7BC.54 171 1946!171 1946[#A8.46 #794.3 166 1934!166 1934[158 1914 180 1911!180 1911[#DB.4C #783.9D
@@ -106,7 +106,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMOvalObject objectWidth="6.25" objectHeight="8.5" x="341" y="206" endAngle="0">
+                <DOMOvalObject objectWidth="6.25" objectHeight="8.5" x="341" y="206" selected="true" endAngle="0">
                   <matrix>
                     <Matrix tx="-328.5" ty="-146.25"/>
                   </matrix>
@@ -121,7 +121,7 @@
                     </SolidStroke>
                   </stroke>
                 </DOMOvalObject>
-                <DOMOvalObject objectWidth="6.5" objectHeight="4.5" x="369.5" y="157" endAngle="0">
+                <DOMOvalObject objectWidth="6.5" objectHeight="4.5" x="369.5" y="157" selected="true" endAngle="0">
                   <matrix>
                     <Matrix tx="-328.5" ty="-146.25"/>
                   </matrix>
@@ -136,7 +136,7 @@
                     </SolidStroke>
                   </stroke>
                 </DOMOvalObject>
-                <DOMOvalObject objectWidth="6.25" objectHeight="7.25" x="383.5" y="229.25" endAngle="0">
+                <DOMOvalObject objectWidth="6.25" objectHeight="7.25" x="383.5" y="229.25" selected="true" endAngle="0">
                   <matrix>
                     <Matrix tx="-324.85" ty="-138.5"/>
                   </matrix>
@@ -151,7 +151,7 @@
                     </SolidStroke>
                   </stroke>
                 </DOMOvalObject>
-                <DOMOvalObject objectWidth="3.75" objectHeight="1.75" x="348.25" y="242.5" endAngle="0">
+                <DOMOvalObject objectWidth="3.75" objectHeight="1.75" x="348.25" y="242.5" selected="true" endAngle="0">
                   <matrix>
                     <Matrix tx="-328.5" ty="-146.25"/>
                   </matrix>
@@ -166,7 +166,7 @@
                     </SolidStroke>
                   </stroke>
                 </DOMOvalObject>
-                <DOMOvalObject objectWidth="5.5" objectHeight="6.75" x="390.25" y="185.75" endAngle="0">
+                <DOMOvalObject objectWidth="5.5" objectHeight="6.75" x="390.25" y="185.75" selected="true" endAngle="0">
                   <matrix>
                     <Matrix tx="-326.25" ty="-142.9"/>
                   </matrix>
@@ -181,7 +181,7 @@
                     </SolidStroke>
                   </stroke>
                 </DOMOvalObject>
-                <DOMOvalObject objectWidth="4" objectHeight="3.5" x="352.75" y="178.5" endAngle="0">
+                <DOMOvalObject objectWidth="4" objectHeight="3.5" x="352.75" y="178.5" selected="true" endAngle="0">
                   <matrix>
                     <Matrix tx="-328.5" ty="-146.25"/>
                   </matrix>
@@ -196,7 +196,7 @@
                     </SolidStroke>
                   </stroke>
                 </DOMOvalObject>
-                <DOMOvalObject objectWidth="8" objectHeight="5" x="369.25" y="198.5" endAngle="0">
+                <DOMOvalObject objectWidth="8" objectHeight="5" x="369.25" y="198.5" selected="true" endAngle="0">
                   <matrix>
                     <Matrix tx="-328.75" ty="-141.25"/>
                   </matrix>
@@ -215,7 +215,7 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="patate" color="#4FFF4F" autoNamed="false">
+        <DOMLayer name="patate" color="#4FFF4F" current="true" isSelected="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
@@ -236,8 +236,8 @@
                   </strokes>
                   <edges>
                     <Edge fillStyle0="1" strokeStyle="1" edges="
-!1021 5[937 -6 834 6!834 6[731 17 624 61!624 61[434 138 355 252!355 252[309 318 260 500!260 500[258 502 257 505!257 505[214 601 196 661!196 661[178 721 172 832!172 832[168 899 152 930!152 930[72 1197 55 1235!55 1235[31 1287 15 1365!15
- 1365[-3 1442 0 1636!0 1636[3 1829 200 2042!200 2042[397 2255 620 2255!620 2255[674 2255 871 2241!871 2241[891 2240 910 2238!910 2238[1081 2204 1235 2127!1235 2127[1405 2048 1503 1896!1503 1896[1511 1883 1518 1870!1518 1870[1525 1857
+!1021 5S5[937 -6 834 6!834 6[731 17 624 61!624 61[434 138 355 252!355 252[309 318 260 500!260 500[258 502 257 505!257 505[214 601 196 661!196 661[178 721 172 832!172 832[168 899 152 930!152 930[72 1197 55 1235!55 1235[31 1287 15 1365
+!15 1365[-3 1442 0 1636!0 1636[3 1829 200 2042!200 2042[397 2255 620 2255!620 2255[674 2255 871 2241!871 2241[891 2240 910 2238!910 2238[1081 2204 1235 2127!1235 2127[1405 2048 1503 1896!1503 1896[1511 1883 1518 1870!1518 1870[1525 1857
  1532 1843!1532 1843[1600 1708 1570 1570!1570 1570[1606 1383 1610 1340!1610 1340[1613 1297 1600 1234!1600 1234[1587 1171 1509 922!1509 922[1430 673 1430 475!1430 475[1430 322 1267 169!1267 169[1104 16 1021 5"/>
                     <Edge cubics="!624 61(;497,112 408,176 355,252q624 61Q434 138q355 252);"/>
                     <Edge cubics="!260 500(;259,501 258,503 257,505q260 500Q258 502q257 505);"/>

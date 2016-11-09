@@ -14,7 +14,7 @@
                     <DOMTextRun>
                       <characters></characters>
                       <textAttrs>
-                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="48" size="48" bitmapSize="960" face="PoliceGillSansMtExtCondensedBold*"/>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="57.5" size="48" bitmapSize="960" face="PoliceGillSansMtExtCondensedBold*"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>
@@ -27,7 +27,7 @@
                     <DOMTextRun>
                       <characters></characters>
                       <textAttrs>
-                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="48" size="48" bitmapSize="960" face="PoliceGillSansMtExtCondensedBold*"/>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="57.5" size="48" bitmapSize="960" face="PoliceGillSansMtExtCondensedBold*"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>
@@ -48,7 +48,7 @@
                     <DOMTextRun>
                       <characters></characters>
                       <textAttrs>
-                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="48" size="48" bitmapSize="960" face="PoliceGillSansMtExtCondensedBold*"/>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="57.5" size="48" bitmapSize="960" face="PoliceGillSansMtExtCondensedBold*"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>
@@ -61,7 +61,7 @@
                     <DOMTextRun>
                       <characters></characters>
                       <textAttrs>
-                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="48" size="48" bitmapSize="960" face="PoliceGillSansMtExtCondensedBold*"/>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="57.5" size="48" bitmapSize="960" face="PoliceGillSansMtExtCondensedBold*"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>

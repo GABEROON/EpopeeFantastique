@@ -137,12 +137,18 @@
 		Fonction placerStats
 		******************************************************************************/		
 		public function placerStats():void{
+			trace(name+" est de type "+_type);
 			if(_type == "Perso"){ // temporaire: il faudrait ajouter une mécanique pour les monstres
 				_stats_mc = new Stats();
 				_stats_mc.x = 45; _stats_mc.y = 0;
 				addChild(_stats_mc);
 				afficherStats();
-			} //if
+			} else if(_type == "Monstre" ){
+				_stats_mc = new Stats();
+				_stats_mc.x = 45; _stats_mc.y = 0;
+				addChild(_stats_mc);
+				afficherStats();
+			}
 		} //placerStats
 
 		/******************************************************************************
@@ -161,7 +167,9 @@
 		public function afficherStats():void{
 			if( _stats_mc != null ){ //ne pas essayer d'afficher si les points ne sont pas placés!
 				_stats_mc.PV_txt.text = _PVAct+" / "+_PVMax;
+				_stats_mc.sante_mc.scaleX = _PVAct/_PVMax; 
 				_stats_mc.PM_txt.text = _PMAct+" / "+_PMMax;
+				_stats_mc.mana_mc.scaleX = _PMAct/_PMMax; 
 			} //if
 		} //afficherStats
 

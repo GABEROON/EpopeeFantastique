@@ -80,14 +80,14 @@
                   <edges>
                     <Edge fillStyle1="2" strokeStyle="1" edges="
 !-174 2924[-117 1973 746 938!746 938|748 937!748 937[850 1003 948 1056"/>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="
+!948 1056[1056 1116 1163 1160"/>
                     <Edge fillStyle1="1" edges="
 !1163 1160|1172 1174"/>
                     <Edge fillStyle1="1" strokeStyle="1" edges="
-!948 1056[1056 1116 1163 1160"/>
+!1172 1174[853 2158 -174 2924"/>
                     <Edge fillStyle0="2" fillStyle1="1" strokeStyle="1" edges="
 !-174 2924[#D4.5D #7A8.E5 948 1056"/>
-                    <Edge fillStyle1="1" strokeStyle="1" edges="
-!1172 1174[853 2158 -174 2924"/>
                     <Edge cubics="!746 938(;746,938 746,938 748,937q746 938Q746 938q748 937);"/>
                     <Edge cubics="!748 937(;817,981 883,1020 948,1056q748 937Q850 1003q948 1056);"/>
                     <Edge cubics="!948 1056(;1020,1095 1092,1132 1163,1160q948 1056Q1056 1116q1163 1160);"/>

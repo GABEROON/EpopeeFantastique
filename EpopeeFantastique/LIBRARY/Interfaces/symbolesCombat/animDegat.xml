@@ -1,0 +1,184 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Interfaces/symbolesCombat/animDegat" itemID="5823ac7c-000001f1" lastModified="1478733243">
+  <timeline>
+    <DOMTimeline name="animDegat" currentFrame="15">
+      <layers>
+        <DOMLayer name="Calque 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="16" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="4">
+                        <fill>
+                          <SolidColor color="#990000"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!285 0|1932 0!1932 0[2050 0 2133 84!2133 84[2217 167 2217 285!2217 285|2217 1932!2217 1932[2217 2050 2133 2133!2133 2133[2050 2217 1932 2217!1932 2217|285 2217!285 2217[167 2217 83 2133!83 2133[0 2050 0 1932!0 1932|0 285!0 285[0 167 83
+ 84!83 84[167 0 285 0"/>
+                  </edges>
+                </DOMShape>
+                <DOMDynamicText fontRenderingMode="standard" width="100" height="31.3" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="8.85" ty="9.1"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Anim Degat</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="-3" lineHeight="31.3" size="26" bitmapSize="520" face="Gill Sans MT Condensed*"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Calque 2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMDynamicText fontRenderingMode="standard" width="20.5" height="28.75" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="51.55" ty="59.4"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>1</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="-3" lineHeight="28.75" size="26" bitmapSize="520" face="TimesNewRomanPSMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" duration="2" keyMode="9728">
+              <elements>
+                <DOMDynamicText fontRenderingMode="standard" width="20.5" height="28.75" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="51.55" ty="59.4"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>2</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="-3" lineHeight="28.75" size="26" bitmapSize="520" face="TimesNewRomanPSMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" duration="2" keyMode="9728">
+              <elements>
+                <DOMDynamicText fontRenderingMode="standard" width="20.5" height="28.75" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="51.55" ty="59.4"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>3</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="-3" lineHeight="28.75" size="26" bitmapSize="520" face="TimesNewRomanPSMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" duration="2" keyMode="9728">
+              <elements>
+                <DOMDynamicText fontRenderingMode="standard" width="20.5" height="28.75" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="51.55" ty="59.4"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>4</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="-3" lineHeight="28.75" size="26" bitmapSize="520" face="TimesNewRomanPSMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" duration="2" keyMode="9728">
+              <elements>
+                <DOMDynamicText fontRenderingMode="standard" width="20.5" height="28.75" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="51.55" ty="59.4"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>5</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="-3" lineHeight="28.75" size="26" bitmapSize="520" face="TimesNewRomanPSMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10" duration="2" keyMode="9728">
+              <elements>
+                <DOMDynamicText fontRenderingMode="standard" width="20.5" height="28.75" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="51.55" ty="59.4"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>6</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="-3" lineHeight="28.75" size="26" bitmapSize="520" face="TimesNewRomanPSMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="12" duration="2" keyMode="9728">
+              <elements>
+                <DOMDynamicText fontRenderingMode="standard" width="20.5" height="28.75" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="51.55" ty="59.4"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>7</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="-3" lineHeight="28.75" size="26" bitmapSize="520" face="TimesNewRomanPSMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="14" duration="2" keyMode="9728">
+              <elements>
+                <DOMDynamicText fontRenderingMode="standard" width="20.5" height="28.75" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="51.55" ty="59.4"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>8</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="-3" lineHeight="28.75" size="26" bitmapSize="520" face="TimesNewRomanPSMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

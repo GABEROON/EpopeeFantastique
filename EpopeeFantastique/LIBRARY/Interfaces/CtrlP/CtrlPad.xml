@@ -16,7 +16,7 @@
                 </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName="Interfaces/CtrlP/flecheCtrlPad" centerPoint3DX="-52.5" centerPoint3DY="41.6">
                   <matrix>
-                    <Matrix a="9.1552734375e-05" b="1" c="-1" d="9.1552734375e-05" tx="0.4" ty="-0.55"/>
+                    <Matrix a="9.1552734375e-005" b="1" c="-1" d="9.1552734375e-005" tx="0.4" ty="-0.55"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
@@ -24,7 +24,7 @@
                 </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName="Interfaces/CtrlP/flecheCtrlPad" centerPoint3DX="-41.75" centerPoint3DY="-53.45">
                   <matrix>
-                    <Matrix a="-1" b="3.0517578125e-05" c="-3.0517578125e-05" d="-1" tx="0.4" ty="-0.55"/>
+                    <Matrix a="-1" b="3.0517578125e-005" c="-3.0517578125e-005" d="-1" tx="0.4" ty="-0.55"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
@@ -32,7 +32,7 @@
                 </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName="Interfaces/CtrlP/flecheCtrlPad" centerPoint3DX="53.3" centerPoint3DY="-42.7">
                   <matrix>
-                    <Matrix a="-1.52587890625e-05" b="-1" c="1" d="-1.52587890625e-05" tx="0.4" ty="-0.55"/>
+                    <Matrix a="-1.52587890625e-005" b="-1" c="1" d="-1.52587890625e-005" tx="0.4" ty="-0.55"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>

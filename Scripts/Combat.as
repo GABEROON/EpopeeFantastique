@@ -123,6 +123,7 @@
 				} //switch
 				addChild(_tMonstres[i]);//ajout de l'object monstre, afin de lui permettre d'ajouter son MC ensuite
 				_tMonstres[i].placerCorps(new Point(placeMonstre.x, placeMonstre.y));//ajout du MC, à la position X, Y souhaitée;
+				_tMonstres[i].placerStats();
 			} //for
 			afficherNomsMonstres();
 		} //creerMonstres
@@ -415,15 +416,17 @@
 					switch (lePerso.getNom()){
 						case "Nova" :
 						case "Fortis" :
-						case "Spero" :
+						case "Horas" :
 							_attaque = lePerso.etablirAttMagRonde(2.5);
 							if(isNaN(_attaque)||isNaN(_defense)){
 								log("boque important: _attaque="+_attaque+" _defense="+_defense)
 							} //if
 							lePerso.setPMAct(lePerso.getPMAct()-15); //Enleve des points de magie
+							
 							trace(lePerso.getNom()+" a maintenant "+lePerso.getPMAct()+" points de magie");
 							calculerDommages();
 							_tMonstres[_iMonstreCible].blesser(_dommages);
+							lePerso.afficherStats();
 							break;
 						case "Lucem" :
 							_attaque = lePerso.etablirAttMagRonde(3);
@@ -444,7 +447,7 @@
 						case "Fortis" :
 							_messAction = lePerso.getNom()+" lance «Boule de Feu» sur "+_tMonstres[_iMonstreCible].getNom()+", causant "+_dommages+" point"+((_dommages>1)?"s":"")+" de dommage.";break;
 					} //switch
-					lePerso.jouerAnim("Attaque"); //à changer pour montrer la magie
+					lePerso.jouerAnim("Magie"); //à changer pour montrer la magie
 					
 				} //if(c'est une attaque)			
 				if(_tMonstres[_iMonstreCible].getPVAct()<=0){ 
@@ -452,6 +455,7 @@
 				} //if
 
 				afficherEtape(_messAction);
+				
 			} //if(lePerso.getPVAct()>0)
 		} //joueurAttaque
 		

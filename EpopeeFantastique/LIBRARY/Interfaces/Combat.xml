@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Interfaces/Combat" itemID="50b4e0f3-000002b6" linkageExportForAS="true" linkageClassName="Combat" lastModified="1443877279" lastUniqueIdentifier="247">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Interfaces/Combat" itemID="50b4e0f3-000002b6" linkageExportForAS="true" linkageClassName="Combat" lastModified="1478733711" lastUniqueIdentifier="247">
   <timeline>
     <DOMTimeline name="Combat">
       <layers>
@@ -9,69 +9,69 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="places" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+        <DOMLayer name="places" color="#9933CC" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Interfaces/teleport" name="placePerso0" centerPoint3DX="902.5" centerPoint3DY="175.65">
+                <DOMSymbolInstance libraryItemName="Interfaces/teleport" name="placePerso0" centerPoint3DX="259.35" centerPoint3DY="192.35">
                   <matrix>
-                    <Matrix d="0.960006713867188" tx="890" ty="151.65"/>
+                    <Matrix d="0.960006713867188" tx="246.85" ty="168.35"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Interfaces/teleport" name="placePerso1" centerPoint3DX="902.5" centerPoint3DY="280">
+                <DOMSymbolInstance libraryItemName="Interfaces/teleport" name="placePerso1" centerPoint3DX="259.35" centerPoint3DY="289.7">
                   <matrix>
-                    <Matrix d="0.960006713867188" tx="890" ty="256"/>
+                    <Matrix d="0.960006713867188" tx="246.85" ty="265.7"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Interfaces/teleport" name="placePerso2" centerPoint3DX="902.5" centerPoint3DY="384.35">
+                <DOMSymbolInstance libraryItemName="Interfaces/teleport" name="placePerso2" centerPoint3DX="259.35" centerPoint3DY="387.05">
                   <matrix>
-                    <Matrix d="0.960006713867188" tx="890" ty="360.35"/>
+                    <Matrix d="0.960006713867188" tx="246.85" ty="363.05"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Interfaces/teleport" name="placePerso3" centerPoint3DX="902.5" centerPoint3DY="488.75">
+                <DOMSymbolInstance libraryItemName="Interfaces/teleport" name="placePerso3" centerPoint3DX="259.35" centerPoint3DY="484.45">
                   <matrix>
-                    <Matrix d="0.960006713867188" tx="890" ty="464.75"/>
+                    <Matrix d="0.960006713867188" tx="246.85" ty="460.45"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Interfaces/teleport" name="placeMonstre0" centerPoint3DX="620.75" centerPoint3DY="441.2">
+                <DOMSymbolInstance libraryItemName="Interfaces/teleport" name="placeMonstre0" centerPoint3DX="1007.55" centerPoint3DY="441.2">
                   <matrix>
-                    <Matrix a="1.25" d="1.25" tx="605.15" ty="409.95"/>
+                    <Matrix a="1.25" d="1.25" tx="991.95" ty="409.95"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="12.5" y="25"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Interfaces/teleport" name="placeMonstre1" selected="true" centerPoint3DX="497.15" centerPoint3DY="246.5">
+                <DOMSymbolInstance libraryItemName="Interfaces/teleport" name="placeMonstre1" centerPoint3DX="795.8" centerPoint3DY="246.25">
                   <matrix>
-                    <Matrix a="1.25" d="1.25" tx="481.55" ty="215.25"/>
+                    <Matrix a="1.25" d="1.25" tx="780.2" ty="215"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="12.5" y="25"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Interfaces/teleport" name="placeMonstre2" centerPoint3DX="314.15" centerPoint3DY="386.75">
+                <DOMSymbolInstance libraryItemName="Interfaces/teleport" name="placeMonstre2" centerPoint3DX="735.85" centerPoint3DY="386.75">
                   <matrix>
-                    <Matrix a="1.25" d="1.25" tx="298.5" ty="355.5"/>
+                    <Matrix a="1.25" d="1.25" tx="720.2" ty="355.5"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="12.5" y="25"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Interfaces/teleport" name="placeMonstre3" centerPoint3DX="155.25" centerPoint3DY="261.25">
+                <DOMSymbolInstance libraryItemName="Interfaces/teleport" name="placeMonstre3" centerPoint3DX="1053.3" centerPoint3DY="261.25">
                   <matrix>
-                    <Matrix a="1.25" d="1.25" tx="139.6" ty="230"/>
+                    <Matrix a="1.25" d="1.25" tx="1037.65" ty="230"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="12.5" y="25"/>
@@ -81,21 +81,21 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="interface" color="#FF4FFF" autoNamed="false">
+        <DOMLayer name="interface" color="#FF4FFF" current="true" isSelected="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Interfaces/BarreActions" name="barreActions_mc" centerPoint3DX="976.55" centerPoint3DY="589.65">
+                <DOMSymbolInstance libraryItemName="Interfaces/BarreActions" name="barreActions_mc" centerPoint3DX="140.95" centerPoint3DY="590.45">
                   <matrix>
-                    <Matrix tx="839.45" ty="493.65"/>
+                    <Matrix tx="3.85" ty="494.45"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="137.1" y="96"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Interfaces/pointeur_lumiere" name="pointeur" centerPoint3DX="902" centerPoint3DY="172.65">
+                <DOMSymbolInstance libraryItemName="Interfaces/pointeur_lumiere" name="pointeur" centerPoint3DX="258.85" centerPoint3DY="189.35">
                   <matrix>
-                    <Matrix tx="888" ty="151.65"/>
+                    <Matrix tx="244.85" ty="168.35"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="14" y="21"/>
@@ -103,17 +103,33 @@
                 </DOMSymbolInstance>
                 <DOMDynamicText name="messagesRonde_txt" fontRenderingMode="standard" top="-18.55" width="754.9" height="229.4" includeOutlines="true" isSelectable="false" lineType="multiline">
                   <matrix>
-                    <Matrix tx="40.05" ty="506.55"/>
+                    <Matrix tx="523.1" ty="507.15"/>
                   </matrix>
                   <textRuns>
                     <DOMTextRun>
                       <characters>Monstre&#xD;1&#xD;2&#xD;3&#xD;4&#xD;5&#xD;6&#xD;7</characters>
                       <textAttrs>
-                        <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="-3" lineHeight="26" size="26" bitmapSize="520" face="Gill Sans MT Condensed*" fillColor="#FFFFFF"/>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="-3" lineHeight="31.3" size="26" bitmapSize="520" face="Gill Sans MT Condensed*" fillColor="#FFFFFF"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>
                 </DOMDynamicText>
+                <DOMSymbolInstance libraryItemName="Interfaces/symbolesCombat/animDegat">
+                  <matrix>
+                    <Matrix tx="621.8" ty="738.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="55.4" y="55.4"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Interfaces/symbolesCombat/animHeal">
+                  <matrix>
+                    <Matrix tx="482.6" ty="738.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="55.4" y="55.4"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
               </elements>
             </DOMFrame>
           </frames>
@@ -234,11 +250,13 @@
                     </StrokeStyle>
                   </strokes>
                   <edges>
-                    <Edge fillStyle1="1" strokeStyle="1" edges="!0 2060|0 0!0 0|25600 0!25600 0|25600 2560"/>
-                    <Edge fillStyle1="2" strokeStyle="1" edges="!25600 2560|25600 14420!25600 14420|0 14420!0 14420|0 2060"/>
                     <Edge fillStyle0="1" fillStyle1="2" strokeStyle="2" edges="!0 2060[1006 2328 1958 2210!1958 2210[2520 2145 3059 1975!3059 1975[3915 1708 4799 1580!4799 1580[5661 1457 6533 1433!6533 1433[#1A5A.1D #592.DC 6960 1421.5!6960 1421.5[#1F52.A6 #5B5.75 8853 1571!8853 1571[9802 1695 10755 1769!10755 1769
 [11578 1833 12402 1730!12402 1730[13352 1612 14306 1517!14306 1517[#3A18.1E #5B5.8F 15439 1421.5!15439 1421.5[16147 1366 16857 1400!16857 1400[17008 1405 17159 1411!17159 1411[#4629.F7 #5A6.9F 18520 1506!18520 1506[19474 1601 20437 1645
 !20437 1645[21358 1673 22276 1731!22276 1731[23203 1772 24110 1994!24110 1994[24874 2183 25600 2560"/>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="
+!0 2060|0 0!0 0|25600 0!25600 0|25600 2560"/>
+                    <Edge fillStyle1="2" strokeStyle="1" edges="
+!25600 2560|25600 14420!25600 14420|0 14420!0 14420|0 2060"/>
                     <Edge cubics="!20437 1645(;21051,1664 21664,1692 22276,1731q20437 1645Q21358 1673q22276 1731);"/>
                     <Edge cubics="!22276 1731(;22894,1758 23505,1846 24110,1994q22276 1731Q23203 1772q24110 1994);"/>
                     <Edge cubics="!16857 1400(;16958,1403 17058,1407 17159,1411q16857 1400Q17008 1405q17159 1411);"/>

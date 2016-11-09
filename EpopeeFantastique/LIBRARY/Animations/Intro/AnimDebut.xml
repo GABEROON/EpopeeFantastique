@@ -32,39 +32,15 @@
                     <Edge cubics="!25538 14327(;25538,14327 0,14327 0,14327q25538 14327 0 14327)0,14327;"/>
                   </edges>
                 </DOMShape>
-                <DOMStaticText fontRenderingMode="standard" width="883.65" height="353.75" isSelectable="false">
+                <DOMStaticText fontRenderingMode="standard" width="883.65" height="337.5" isSelectable="false">
                   <matrix>
                     <Matrix tx="189.5" ty="177.25"/>
                   </matrix>
                   <textRuns>
                     <DOMTextRun>
-                      <characters> Autrefois, le village de Gaisgale vivait en paix. Les habitants </characters>
+                      <characters> Autrefois, le village de Gaisgale vivait en paix. Les habitants étaient heureux et pacifiques. Les champs étaient fertiles et les nuits festives.</characters>
                       <textAttrs>
-                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="69.15" size="59" bitmapSize="1180" face="OriyaMN" fillColor="#F2C291"/>
-                      </textAttrs>
-                    </DOMTextRun>
-                    <DOMTextRun>
-                      <characters>é</characters>
-                      <textAttrs>
-                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="59" size="59" bitmapSize="1180" face="OriyaMN" fillColor="#F2C291"/>
-                      </textAttrs>
-                    </DOMTextRun>
-                    <DOMTextRun>
-                      <characters>taient heureux et pacifiques. Les champs </characters>
-                      <textAttrs>
-                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="69.15" size="59" bitmapSize="1180" face="OriyaMN" fillColor="#F2C291"/>
-                      </textAttrs>
-                    </DOMTextRun>
-                    <DOMTextRun>
-                      <characters>é</characters>
-                      <textAttrs>
-                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="59" size="59" bitmapSize="1180" face="OriyaMN" fillColor="#F2C291"/>
-                      </textAttrs>
-                    </DOMTextRun>
-                    <DOMTextRun>
-                      <characters>taient fertiles et les nuits festives.</characters>
-                      <textAttrs>
-                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="69.15" size="59" bitmapSize="1180" face="OriyaMN" fillColor="#F2C291"/>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="65.9" size="59" bitmapSize="1180" face="OriyaMN" fillColor="#F2C291"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>
@@ -117,63 +93,15 @@
                     <Edge cubics="!25538 14327(;25538,14327 0,14327 0,14327q25538 14327 0 14327)0,14327;"/>
                   </edges>
                 </DOMShape>
-                <DOMStaticText fontRenderingMode="standard" width="883.65" height="567.2" isSelectable="false">
+                <DOMStaticText fontRenderingMode="standard" width="883.65" height="541.2" isSelectable="false">
                   <matrix>
                     <Matrix tx="187.75" ty="81"/>
                   </matrix>
                   <textRuns>
                     <DOMTextRun>
-                      <characters>Un jour, pendant les festivit</characters>
+                      <characters>Un jour, pendant les festivités de la nuit noire, la terre se mit à vibrer et le ciel s’assombrit. C’est alors que des créatures repoussantes sortirent de la noirceur de la nuit pour terroriser les habitants et mettre feu aux récoltes.</characters>
                       <textAttrs>
-                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="69.15" size="59" bitmapSize="1180" face="OriyaMN" fillColor="#F2C291"/>
-                      </textAttrs>
-                    </DOMTextRun>
-                    <DOMTextRun>
-                      <characters>é</characters>
-                      <textAttrs>
-                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="59" size="59" bitmapSize="1180" face="OriyaMN" fillColor="#F2C291"/>
-                      </textAttrs>
-                    </DOMTextRun>
-                    <DOMTextRun>
-                      <characters>s de la nuit noire, la terre se mit </characters>
-                      <textAttrs>
-                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="69.15" size="59" bitmapSize="1180" face="OriyaMN" fillColor="#F2C291"/>
-                      </textAttrs>
-                    </DOMTextRun>
-                    <DOMTextRun>
-                      <characters>à</characters>
-                      <textAttrs>
-                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="59" size="59" bitmapSize="1180" face="OriyaMN" fillColor="#F2C291"/>
-                      </textAttrs>
-                    </DOMTextRun>
-                    <DOMTextRun>
-                      <characters> vibrer et le ciel s’assombrit. C’est alors que des cr</characters>
-                      <textAttrs>
-                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="69.15" size="59" bitmapSize="1180" face="OriyaMN" fillColor="#F2C291"/>
-                      </textAttrs>
-                    </DOMTextRun>
-                    <DOMTextRun>
-                      <characters>é</characters>
-                      <textAttrs>
-                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="59" size="59" bitmapSize="1180" face="OriyaMN" fillColor="#F2C291"/>
-                      </textAttrs>
-                    </DOMTextRun>
-                    <DOMTextRun>
-                      <characters>atures repoussantes sortirent de la noirceur de la nuit pour terroriser les habitants et mettre feu aux r</characters>
-                      <textAttrs>
-                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="69.15" size="59" bitmapSize="1180" face="OriyaMN" fillColor="#F2C291"/>
-                      </textAttrs>
-                    </DOMTextRun>
-                    <DOMTextRun>
-                      <characters>é</characters>
-                      <textAttrs>
-                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="59" size="59" bitmapSize="1180" face="OriyaMN" fillColor="#F2C291"/>
-                      </textAttrs>
-                    </DOMTextRun>
-                    <DOMTextRun>
-                      <characters>coltes.</characters>
-                      <textAttrs>
-                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="69.15" size="59" bitmapSize="1180" face="OriyaMN" fillColor="#F2C291"/>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="65.9" size="59" bitmapSize="1180" face="OriyaMN" fillColor="#F2C291"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>
@@ -209,63 +137,15 @@
                     <Edge cubics="!25538 14327(;25538,14327 0,14327 0,14327q25538 14327 0 14327)0,14327;"/>
                   </edges>
                 </DOMShape>
-                <DOMStaticText fontRenderingMode="standard" width="883.65" height="567.2" isSelectable="false">
+                <DOMStaticText fontRenderingMode="standard" width="883.65" height="541.2" isSelectable="false">
                   <matrix>
                     <Matrix tx="202.8" ty="85.6"/>
                   </matrix>
                   <textRuns>
                     <DOMTextRun>
-                      <characters>Un jour, pendant les festivit</characters>
+                      <characters>Un jour, pendant les festivités de la nuit noire, la terre se mit à vibrer et le ciel s’assombrit. C’est alors que des créatures repoussantes sortirent de la noirceur de la nuit pour terroriser les habitants et mettre feu aux récoltes.</characters>
                       <textAttrs>
-                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="69.15" size="59" face="OriyaMN" fillColor="#F2C291"/>
-                      </textAttrs>
-                    </DOMTextRun>
-                    <DOMTextRun>
-                      <characters>é</characters>
-                      <textAttrs>
-                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="59" size="59" face="OriyaMN" fillColor="#F2C291"/>
-                      </textAttrs>
-                    </DOMTextRun>
-                    <DOMTextRun>
-                      <characters>s de la nuit noire, la terre se mit </characters>
-                      <textAttrs>
-                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="69.15" size="59" face="OriyaMN" fillColor="#F2C291"/>
-                      </textAttrs>
-                    </DOMTextRun>
-                    <DOMTextRun>
-                      <characters>à</characters>
-                      <textAttrs>
-                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="59" size="59" face="OriyaMN" fillColor="#F2C291"/>
-                      </textAttrs>
-                    </DOMTextRun>
-                    <DOMTextRun>
-                      <characters> vibrer et le ciel s’assombrit. C’est alors que des cr</characters>
-                      <textAttrs>
-                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="69.15" size="59" face="OriyaMN" fillColor="#F2C291"/>
-                      </textAttrs>
-                    </DOMTextRun>
-                    <DOMTextRun>
-                      <characters>é</characters>
-                      <textAttrs>
-                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="59" size="59" face="OriyaMN" fillColor="#F2C291"/>
-                      </textAttrs>
-                    </DOMTextRun>
-                    <DOMTextRun>
-                      <characters>atures repoussantes sortirent de la noirceur de la nuit pour terroriser les habitants et mettre feu aux r</characters>
-                      <textAttrs>
-                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="69.15" size="59" face="OriyaMN" fillColor="#F2C291"/>
-                      </textAttrs>
-                    </DOMTextRun>
-                    <DOMTextRun>
-                      <characters>é</characters>
-                      <textAttrs>
-                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="59" size="59" face="OriyaMN" fillColor="#F2C291"/>
-                      </textAttrs>
-                    </DOMTextRun>
-                    <DOMTextRun>
-                      <characters>coltes.</characters>
-                      <textAttrs>
-                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="69.15" size="59" face="OriyaMN" fillColor="#F2C291"/>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="65.9" size="59" face="OriyaMN" fillColor="#F2C291"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>
@@ -360,7 +240,7 @@ MovieClip(parent).gotoAndStop('jeu');]]></script>
             </DOMFrame>
             <DOMFrame index="386" duration="130" keyMode="9728">
               <elements>
-                <DOMStaticText selected="true" left="0.6" width="655.5" height="22.15" autoExpand="true" isSelectable="false">
+                <DOMStaticText selected="true" width="656.7" height="22.15" autoExpand="true" isSelectable="false">
                   <matrix>
                     <Matrix tx="329" ty="262.75"/>
                   </matrix>
