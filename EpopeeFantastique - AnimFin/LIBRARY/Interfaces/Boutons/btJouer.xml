@@ -88,9 +88,9 @@
                     </StrokeStyle>
                   </strokes>
                   <edges>
-                    <Edge fillStyle1="1" edges="!2300 0|2300 800!2300 800|0 800!0 800|0 0"/>
                     <Edge strokeStyle="1" edges="!0 800|0 811!0 811|2319 811!2319 811|2319 0!2319 0|2300 0"/>
                     <Edge fillStyle0="1" strokeStyle="1" edges="!2300 0|0 0"/>
+                    <Edge fillStyle1="1" edges="!2300 0|2300 800!2300 800|0 800!0 800|0 0"/>
                   </edges>
                 </DOMShape>
               </elements>

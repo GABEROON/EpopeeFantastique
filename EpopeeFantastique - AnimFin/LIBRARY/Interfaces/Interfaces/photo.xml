@@ -1,6 +1,6 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Interfaces/Interfaces/photo" itemID="581cc4c1-0000072a" lastModified="1478204440" lastUniqueIdentifier="1">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Interfaces/Interfaces/photo" itemID="581cc4c1-0000072a" lastModified="1478204440">
   <timeline>
-    <DOMTimeline name="photo" currentFrame="3" guides='&lt;guidelines&gt;&lt;guideline direction="h"&gt;404&lt;/guideline&gt;&lt;/guidelines&gt;'>
+    <DOMTimeline name="photo" currentFrame="3">
       <layers>
         <DOMLayer name="Etiquettes" color="#9933CC" autoNamed="false">
           <frames>

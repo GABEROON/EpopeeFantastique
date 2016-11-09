@@ -72,8 +72,8 @@
     <EventFormat>0</EventFormat>
     <EventCompress>13</EventCompress>
     <OverrideSounds>0</OverrideSounds>
-    <Version>31</Version>
-    <ExternalPlayer>AdobeAIR20_0</ExternalPlayer>
+    <Version>32</Version>
+    <ExternalPlayer>AdobeAIR21_0</ExternalPlayer>
     <ActionScriptVersion>3</ActionScriptVersion>
     <PackageExportFrame>1</PackageExportFrame>
     <PackagePaths></PackagePaths>
@@ -138,6 +138,8 @@
     <MaxColors>255</MaxColors>
   </PublishGifProperties>
   <PublishPNGProperties enabled="true">
+    <Width>1280</Width>
+    <Height>720</Height>
     <MatchMovieDim>1</MatchMovieDim>
     <Smooth>1</Smooth>
     <BitDepth>24 bits avec Alpha</BitDepth>
@@ -308,6 +310,8 @@
     <MaxColors>255</MaxColors>
   </PublishGifProperties>
   <PublishPNGProperties enabled="true">
+    <Width>1280</Width>
+    <Height>720</Height>
     <MatchMovieDim>1</MatchMovieDim>
     <Smooth>1</Smooth>
     <BitDepth>24 bits avec Alpha</BitDepth>

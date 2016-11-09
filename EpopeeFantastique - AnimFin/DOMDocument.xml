@@ -1,4 +1,4 @@
-<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" backgroundColor="#999999" width="1280" height="720" currentTimeline="1" xflVersion="2.7" creatorInfo="Adobe Animate CC" platform="Windows" versionInfo="Saved by Animate Windows 15.1 build 13" majorVersion="15" minorVersion="1" buildNumber="13" rulerVisible="true" timelineLabelWidth="227" viewAngle3D="100.925968316201" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" autoSaveEnabled="true" autoSaveHasPrompted="true" filetypeGUID="DD0DDBBF-5BEF-45B2-9F24-A3048D2A676F">
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" backgroundColor="#999999" width="1280" height="720" currentTimeline="1" xflVersion="2.7" creatorInfo="Adobe Animate CC" platform="Windows" versionInfo="Saved by Animate Windows 15.2 build 95" majorVersion="15" minorVersion="2" buildNumber="95" rulerVisible="true" timelineLabelWidth="227" viewAngle3D="100.925968316201" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" autoSaveEnabled="true" autoSaveHasPrompted="true" filetypeGUID="DD0DDBBF-5BEF-45B2-9F24-A3048D2A676F">
      <folders>
           <DOMFolderItem name="Animations" itemID="528fa17e-00000931"/>
           <DOMFolderItem name="Animations/Defaite" itemID="528bb6f4-0000030d"/>
@@ -47,14 +47,14 @@
           <DOMFolderItem name="ObstaclesEtObjets/Interactifs" itemID="5422df69-00000286"/>
           <DOMFolderItem name="ObstaclesEtObjets/Interactifs/ObjetsUtiles" itemID="5248e00f-000003a0"/>
           <DOMFolderItem name="ObstaclesEtObjets/Objets Magasin" itemID="581a249c-00000322"/>
-          <DOMFolderItem name="PersosEtMonstres" itemID="541de3a6-000001d4"/>
+          <DOMFolderItem name="PersosEtMonstres" itemID="541de3a6-000001d4" isExpanded="true"/>
           <DOMFolderItem name="PersosEtMonstres/Composantes" itemID="57ea9781-000000b4" isExpanded="true"/>
           <DOMFolderItem name="PersosEtMonstres/Composantes/Blorg" itemID="57eae14f-000007be"/>
           <DOMFolderItem name="PersosEtMonstres/Composantes/horas" itemID="58138818-000000e4" isExpanded="true"/>
           <DOMFolderItem name="PersosEtMonstres/Composantes/horas/haut_bas" itemID="5818d33b-000001b9" isExpanded="true"/>
-          <DOMFolderItem name="PersosEtMonstres/Composantes/horas/haut_bas/copie teteHoras" itemID="581cc515-000009a9"/>
+          <DOMFolderItem name="PersosEtMonstres/Composantes/horas/haut_bas/copie teteHoras" itemID="581cc515-000009a9" isExpanded="true"/>
           <DOMFolderItem name="PersosEtMonstres/Composantes/horas/haut_bas/teteHoras groupe" itemID="581a7fb4-000000f5" isExpanded="true"/>
-          <DOMFolderItem name="PersosEtMonstres/Composantes/horas/side" itemID="5818d376-000001c2"/>
+          <DOMFolderItem name="PersosEtMonstres/Composantes/horas/side" itemID="5818d376-000001c2" isExpanded="true"/>
           <DOMFolderItem name="PersosEtMonstres/Composantes/Spero" itemID="57ead8f0-0000075f"/>
           <DOMFolderItem name="PersosEtMonstres/PNJ" itemID="5422fe1e-0000028b" isExpanded="true"/>
           <DOMFolderItem name="Polices" itemID="528f628f-000007fb"/>
@@ -64,27 +64,27 @@
           <DOMFolderItem name="Tableaux" itemID="57f12026-000000b2" isExpanded="true"/>
      </folders>
      <fonts>
-          <DOMFontItem name="Police 2" itemID="581cd7b4-00000d59" font="OriyaMN" size="0" id="8" sourceLastImported="1478285236" embedRanges="9999"/>
-          <DOMFontItem name="ElementsANommerEtClasser/ChiffresCourier" itemID="54289597-00000330" font="CourierNewPSMT" size="0" id="7" sourceLastImported="1411945879" embedRanges="3|4"/>
-          <DOMFontItem name="Polices/Gill Sans MT Condensed" itemID="54237a4a-00000515" font="GillSansMT-Condensed" size="0" id="6" sourceLastImported="1475018137" embedRanges="1|2|3|4"/>
-          <DOMFontItem name="ElementsANommerEtClasser/Police 1" itemID="4fb268b7-000002c8" font="TimesNewRomanPSMT" size="0" id="1" sourceLastImported="1337092279" embedRanges="3"/>
-          <DOMFontItem name="Polices/PoliceGillSansMtExtCondensedBold" itemID="528c22c4-000006eb" font="GillSansMT-ExtraCondensedBold" size="0" id="2" sourceLastImported="1384881996" embedRanges="1|2|3|4|5|17"/>
           <DOMFontItem name="Polices/VinerHandITC" itemID="528ba058-0000029a" font="VinerHandITC" size="0" id="3" sourceLastImported="1384882264" embedRanges="1|2|3|4|5"/>
+          <DOMFontItem name="Polices/PoliceGillSansMtExtCondensedBold" itemID="528c22c4-000006eb" font="GillSansMT-ExtraCondensedBold" size="0" id="2" sourceLastImported="1384881996" embedRanges="1|2|3|4|5|17"/>
+          <DOMFontItem name="ElementsANommerEtClasser/Police 1" itemID="4fb268b7-000002c8" font="TimesNewRomanPSMT" size="0" id="1" sourceLastImported="1337092279" embedRanges="3"/>
+          <DOMFontItem name="Polices/Gill Sans MT Condensed" itemID="54237a4a-00000515" font="GillSansMT-Condensed" size="0" id="6" sourceLastImported="1475018137" embedRanges="1|2|3|4"/>
+          <DOMFontItem name="ElementsANommerEtClasser/ChiffresCourier" itemID="54289597-00000330" font="CourierNewPSMT" size="0" id="7" sourceLastImported="1411945879" embedRanges="3|4"/>
+          <DOMFontItem name="Police 2" itemID="581cd7b4-00000d59" font="OriyaMN" size="0" id="8" sourceLastImported="1478285236" embedRanges="9999"/>
      </fonts>
      <media>
-          <DOMSoundItem name="Sons/Musiques/Black Vortex_45s_(in49s-out94s).mp3" itemID="528c0da9-000005d8" linkageExportForAS="true" linkageClassName="MusiqueCombat" sourceExternalFilepath="./LIBRARY/Sons/Musiques/Black Vortex_45s_(in49s-out94s).mp3" sourceLastImported="1385135005" href="Sons/Musiques/Black Vortex_45s_(in49s-out94s).mp3" soundDataHRef="M 12 1384910249.dat" format="44kHz 16bit Stereo" sampleCount="1988352" exportFormat="1" exportBits="7" dataLength="719870" exportNative="true" cacheFormat="5kHz 8bit Stereo" cachedSampleCount="248544"/>
-          <DOMSoundItem name="Sons/Musiques/Celtic Impulse_Boucle.mp3" itemID="57ed2516-000000b7" linkageExportForAS="true" linkageClassName="MusiqueVillage" sourceExternalFilepath="./LIBRARY/Sons/Musiques/Celtic Impulse_Boucle.mp3" sourceLastImported="1475159298" href="Sons/Musiques/Celtic Impulse_Boucle.mp3" soundDataHRef="M 6 1384908647.dat" format="44kHz 16bit Stereo" sampleCount="3532032" exportFormat="1" exportBits="7" dataLength="1278650" exportNative="true" cacheFormat="5kHz 8bit Stereo" cachedSampleCount="441504"/>
-          <DOMSoundItem name="Sons/Musiques/Dark Pad.mp3" itemID="54284885-00000312" linkageExportForAS="true" linkageClassName="MusiqueClavier" sourceExternalFilepath="./LIBRARY/Sons/Musiques/Dark Pad.mp3" sourceLastImported="1411926123" href="Sons/Musiques/Dark Pad.mp3" soundDataHRef="M 11 1384909195.dat" format="44kHz 16bit Stereo" sampleCount="2853504" exportFormat="1" exportBits="7" dataLength="1033037" exportNative="true" cacheFormat="5kHz 8bit Stereo" cachedSampleCount="356688"/>
-          <DOMSoundItem name="Sons/Musiques/Devastation and Revenge_finale_28s_mixage final.mp3" itemID="528f8dc4-0000089b" sourceExternalFilepath="./LIBRARY/Sons/Musiques/Devastation and Revenge_finale_28s_mixage final.mp3" sourceLastImported="1385138982" href="Sons/Musiques/Devastation and Revenge_finale_28s_mixage final.mp3" soundDataHRef="M 14 1385139652.dat" format="44kHz 16bit Stereo" sampleCount="1262592" exportFormat="1" exportBits="7" dataLength="457160" exportNative="true" cacheFormat="5kHz 8bit Stereo" cachedSampleCount="157824"/>
-          <DOMSoundItem name="Sons/Musiques/Devastation and Revenge_intro_13s_mixage final.mp3" itemID="528f8dc5-0000089f" sourceExternalFilepath="./LIBRARY/Sons/Musiques/Devastation and Revenge_intro_13s_mixage final.mp3" sourceLastImported="1385139569" href="Sons/Musiques/Devastation and Revenge_intro_13s_mixage final.mp3" soundDataHRef="M 15 1385139653.dat" format="44kHz 16bit Stereo" sampleCount="602496" exportFormat="1" exportBits="7" dataLength="218219" exportNative="true" cacheFormat="5kHz 8bit Stereo" cachedSampleCount="75312"/>
-          <DOMSoundItem name="Sons/Musiques/Failing Defense_Boucle.mp3" itemID="57ed2029-000000b4" linkageExportForAS="true" linkageClassName="MusiqueCombatFinal" sourceExternalFilepath="./LIBRARY/Sons/Musiques/Failing Defense_Boucle.mp3" sourceLastImported="1475157845" href="Sons/Musiques/Failing Defense_Boucle.mp3" soundDataHRef="M 13 1384915532.dat" format="44kHz 16bit Stereo" sampleCount="3839616" exportFormat="1" exportBits="7" dataLength="1389989" exportNative="true" cacheFormat="5kHz 8bit Stereo" cachedSampleCount="479952"/>
-          <DOMSoundItem name="Sons/Musiques/Firesong.mp3" itemID="542848ef-00000314" linkageExportForAS="true" linkageClassName="MusiqueTambour" sourceExternalFilepath="./LIBRARY/Sons/Musiques/Firesong.mp3" sourceLastImported="1411926243" href="Sons/Musiques/Firesong.mp3" soundDataHRef="M 9 1384908903.dat" format="44kHz 16bit Stereo" sampleCount="9393408" exportFormat="1" exportBits="7" dataLength="3400346" exportNative="true" cacheFormat="5kHz 8bit Stereo" cachedSampleCount="1174176"/>
-          <DOMSoundItem name="Sons/Musiques/Moorland.mp3" itemID="54284938-00000316" linkageExportForAS="true" linkageClassName="MusiqueCornemuse" sourceExternalFilepath="./LIBRARY/Sons/Musiques/Moorland.mp3" sourceLastImported="1411926314" href="Sons/Musiques/Moorland.mp3" soundDataHRef="M 7 1384908733.dat" format="44kHz 16bit Stereo" sampleCount="14955264" exportFormat="1" exportBits="7" dataLength="5413622" exportNative="true" cacheFormat="5kHz 8bit Stereo" cachedSampleCount="1869408"/>
-          <DOMSoundItem name="Sons/EffetsSonores/Science Fiction Sci-Fi Electronic Teleporting 140.mp3" itemID="57eae6b7-000007c2" sourceExternalFilepath="./LIBRARY/Sons/EffetsSonores/Science Fiction Sci-Fi Electronic Teleporting 140.mp3" sourceLastImported="1475012252" href="Sons/EffetsSonores/Science Fiction Sci-Fi Electronic Teleporting 140.mp3" soundDataHRef="M 12 1475012279.dat" format="44kHz 16bit Stereo" sampleCount="38016" exportFormat="1" exportBits="7" dataLength="13761" exportNative="true" cacheFormat="5kHz 8bit Stereo" cachedSampleCount="4752"/>
-          <DOMSoundItem name="Sons/Musiques/Skye Cuillin.mp3" itemID="542849ad-00000318" linkageExportForAS="true" linkageClassName="MusiqueHarpe" sourceExternalFilepath="./LIBRARY/Sons/Musiques/Skye Cuillin.mp3" sourceLastImported="1411926404" href="Sons/Musiques/Skye Cuillin.mp3" soundDataHRef="M 8 1384908796.dat" format="44kHz 16bit Stereo" sampleCount="8532864" exportFormat="1" exportBits="7" dataLength="3088847" exportNative="true" cacheFormat="5kHz 8bit Stereo" cachedSampleCount="1066608"/>
-          <DOMSoundItem name="Sons/Musiques/Thatched Villagers_30s.mp3" itemID="528f7ad3-00000896" sourceExternalFilepath="./LIBRARY/Sons/Musiques/Thatched Villagers_30s.mp3" sourceLastImported="1384903618" href="Sons/Musiques/Thatched Villagers_30s.mp3" soundDataHRef="M 5 1384888524.dat" format="44kHz 16bit Stereo" sampleCount="1351296" exportFormat="1" exportBits="7" dataLength="489269" exportNative="true" cacheFormat="5kHz 8bit Stereo" cachedSampleCount="168912"/>
-          <DOMSoundItem name="Sons/Musiques/Thatched Villagers_remix_30s.mp3" itemID="57eb1e80-000007f6" sourceExternalFilepath="./LIBRARY/Sons/Musiques/Thatched Villagers_remix_30s.mp3" sourceLastImported="1475026554" href="Sons/Musiques/Thatched Villagers_remix_30s.mp3" soundDataHRef="M 13 1475026560.dat" format="44kHz 16bit Stereo" sampleCount="1374336" exportFormat="1" exportBits="7" dataLength="497609" exportNative="true" cacheFormat="5kHz 8bit Stereo" cachedSampleCount="171792"/>
-          <DOMSoundItem name="Sons/EffetsSonores/Weapon Sword Hit Metal 01.mp3" itemID="57eadddd-0000079c" sourceExternalFilepath="./LIBRARY/Sons/EffetsSonores/Weapon Sword Hit Metal 01.mp3" sourceLastImported="1475009968" href="Sons/EffetsSonores/Weapon Sword Hit Metal 01.mp3" soundDataHRef="M 11 1475010013.dat" format="44kHz 16bit Stereo" sampleCount="25344" exportFormat="1" exportBits="7" dataLength="9174" exportNative="true" cacheFormat="5kHz 8bit Stereo" cachedSampleCount="3168"/>
+          <DOMSoundItem name="Sons/Musiques/Black Vortex_45s_(in49s-out94s).mp3" itemID="528c0da9-000005d8" linkageExportForAS="true" linkageClassName="MusiqueCombat" sourceExternalFilepath="../EpopeeFantastique - AnimFin/LIBRARY/Sons/Musiques/Black Vortex_45s_(in49s-out94s).mp3" sourceLastImported="1385135005" href="Sons/Musiques/Black Vortex_45s_(in49s-out94s).mp3" soundDataHRef="M 12 1384910249.dat" format="44kHz 16bit Stereo" sampleCount="1988352" exportFormat="1" exportBits="7" dataLength="719870" exportNative="true" cacheFormat="5kHz 8bit Stereo" cachedSampleCount="248544"/>
+          <DOMSoundItem name="Sons/Musiques/Celtic Impulse_Boucle.mp3" itemID="57ed2516-000000b7" linkageExportForAS="true" linkageClassName="MusiqueVillage" sourceExternalFilepath="../EpopeeFantastique - AnimFin/LIBRARY/Sons/Musiques/Celtic Impulse_Boucle.mp3" sourceLastImported="1475159298" href="Sons/Musiques/Celtic Impulse_Boucle.mp3" soundDataHRef="M 6 1384908647.dat" format="44kHz 16bit Stereo" sampleCount="3532032" exportFormat="1" exportBits="7" dataLength="1278650" exportNative="true" cacheFormat="5kHz 8bit Stereo" cachedSampleCount="441504"/>
+          <DOMSoundItem name="Sons/Musiques/Dark Pad.mp3" itemID="54284885-00000312" linkageExportForAS="true" linkageClassName="MusiqueClavier" sourceExternalFilepath="../EpopeeFantastique - AnimFin/LIBRARY/Sons/Musiques/Dark Pad.mp3" sourceLastImported="1411926123" href="Sons/Musiques/Dark Pad.mp3" soundDataHRef="M 11 1384909195.dat" format="44kHz 16bit Stereo" sampleCount="2853504" exportFormat="1" exportBits="7" dataLength="1033037" exportNative="true" cacheFormat="5kHz 8bit Stereo" cachedSampleCount="356688"/>
+          <DOMSoundItem name="Sons/Musiques/Devastation and Revenge_finale_28s_mixage final.mp3" itemID="528f8dc4-0000089b" sourceExternalFilepath="../EpopeeFantastique - AnimFin/LIBRARY/Sons/Musiques/Devastation and Revenge_finale_28s_mixage final.mp3" sourceLastImported="1385138982" href="Sons/Musiques/Devastation and Revenge_finale_28s_mixage final.mp3" soundDataHRef="M 14 1385139652.dat" format="44kHz 16bit Stereo" sampleCount="1262592" exportFormat="1" exportBits="7" dataLength="457160" exportNative="true" cacheFormat="5kHz 8bit Stereo" cachedSampleCount="157824"/>
+          <DOMSoundItem name="Sons/Musiques/Devastation and Revenge_intro_13s_mixage final.mp3" itemID="528f8dc5-0000089f" sourceExternalFilepath="../EpopeeFantastique - AnimFin/LIBRARY/Sons/Musiques/Devastation and Revenge_intro_13s_mixage final.mp3" sourceLastImported="1385139569" href="Sons/Musiques/Devastation and Revenge_intro_13s_mixage final.mp3" soundDataHRef="M 15 1385139653.dat" format="44kHz 16bit Stereo" sampleCount="602496" exportFormat="1" exportBits="7" dataLength="218219" exportNative="true" cacheFormat="5kHz 8bit Stereo" cachedSampleCount="75312"/>
+          <DOMSoundItem name="Sons/Musiques/Failing Defense_Boucle.mp3" itemID="57ed2029-000000b4" linkageExportForAS="true" linkageClassName="MusiqueCombatFinal" sourceExternalFilepath="../EpopeeFantastique - AnimFin/LIBRARY/Sons/Musiques/Failing Defense_Boucle.mp3" sourceLastImported="1475157845" href="Sons/Musiques/Failing Defense_Boucle.mp3" soundDataHRef="M 13 1384915532.dat" format="44kHz 16bit Stereo" sampleCount="3839616" exportFormat="1" exportBits="7" dataLength="1389989" exportNative="true" cacheFormat="5kHz 8bit Stereo" cachedSampleCount="479952"/>
+          <DOMSoundItem name="Sons/Musiques/Firesong.mp3" itemID="542848ef-00000314" linkageExportForAS="true" linkageClassName="MusiqueTambour" sourceExternalFilepath="../EpopeeFantastique - AnimFin/LIBRARY/Sons/Musiques/Firesong.mp3" sourceLastImported="1411926243" href="Sons/Musiques/Firesong.mp3" soundDataHRef="M 9 1384908903.dat" format="44kHz 16bit Stereo" sampleCount="9393408" exportFormat="1" exportBits="7" dataLength="3400346" exportNative="true" cacheFormat="5kHz 8bit Stereo" cachedSampleCount="1174176"/>
+          <DOMSoundItem name="Sons/Musiques/Moorland.mp3" itemID="54284938-00000316" linkageExportForAS="true" linkageClassName="MusiqueCornemuse" sourceExternalFilepath="../EpopeeFantastique - AnimFin/LIBRARY/Sons/Musiques/Moorland.mp3" sourceLastImported="1411926314" href="Sons/Musiques/Moorland.mp3" soundDataHRef="M 7 1384908733.dat" format="44kHz 16bit Stereo" sampleCount="14955264" exportFormat="1" exportBits="7" dataLength="5413622" exportNative="true" cacheFormat="5kHz 8bit Stereo" cachedSampleCount="1869408"/>
+          <DOMSoundItem name="Sons/EffetsSonores/Science Fiction Sci-Fi Electronic Teleporting 140.mp3" itemID="57eae6b7-000007c2" sourceExternalFilepath="../EpopeeFantastique - AnimFin/LIBRARY/Sons/EffetsSonores/Science Fiction Sci-Fi Electronic Teleporting 140.mp3" sourceLastImported="1475012252" href="Sons/EffetsSonores/Science Fiction Sci-Fi Electronic Teleporting 140.mp3" soundDataHRef="M 12 1475012279.dat" format="44kHz 16bit Stereo" sampleCount="38016" exportFormat="1" exportBits="7" dataLength="13761" exportNative="true" cacheFormat="5kHz 8bit Stereo" cachedSampleCount="4752"/>
+          <DOMSoundItem name="Sons/Musiques/Skye Cuillin.mp3" itemID="542849ad-00000318" linkageExportForAS="true" linkageClassName="MusiqueHarpe" sourceExternalFilepath="../EpopeeFantastique - AnimFin/LIBRARY/Sons/Musiques/Skye Cuillin.mp3" sourceLastImported="1411926404" href="Sons/Musiques/Skye Cuillin.mp3" soundDataHRef="M 8 1384908796.dat" format="44kHz 16bit Stereo" sampleCount="8532864" exportFormat="1" exportBits="7" dataLength="3088847" exportNative="true" cacheFormat="5kHz 8bit Stereo" cachedSampleCount="1066608"/>
+          <DOMSoundItem name="Sons/Musiques/Thatched Villagers_30s.mp3" itemID="528f7ad3-00000896" sourceExternalFilepath="../EpopeeFantastique - AnimFin/LIBRARY/Sons/Musiques/Thatched Villagers_30s.mp3" sourceLastImported="1384903618" href="Sons/Musiques/Thatched Villagers_30s.mp3" soundDataHRef="M 5 1384888524.dat" format="44kHz 16bit Stereo" sampleCount="1351296" exportFormat="1" exportBits="7" dataLength="489269" exportNative="true" cacheFormat="5kHz 8bit Stereo" cachedSampleCount="168912"/>
+          <DOMSoundItem name="Sons/Musiques/Thatched Villagers_remix_30s.mp3" itemID="57eb1e80-000007f6" sourceExternalFilepath="../EpopeeFantastique - AnimFin/LIBRARY/Sons/Musiques/Thatched Villagers_remix_30s.mp3" sourceLastImported="1475026554" href="Sons/Musiques/Thatched Villagers_remix_30s.mp3" soundDataHRef="M 13 1475026560.dat" format="44kHz 16bit Stereo" sampleCount="1374336" exportFormat="1" exportBits="7" dataLength="497609" exportNative="true" cacheFormat="5kHz 8bit Stereo" cachedSampleCount="171792"/>
+          <DOMSoundItem name="Sons/EffetsSonores/Weapon Sword Hit Metal 01.mp3" itemID="57eadddd-0000079c" sourceExternalFilepath="../EpopeeFantastique - AnimFin/LIBRARY/Sons/EffetsSonores/Weapon Sword Hit Metal 01.mp3" sourceLastImported="1475009968" href="Sons/EffetsSonores/Weapon Sword Hit Metal 01.mp3" soundDataHRef="M 11 1475010013.dat" format="44kHz 16bit Stereo" sampleCount="25344" exportFormat="1" exportBits="7" dataLength="9174" exportNative="true" cacheFormat="5kHz 8bit Stereo" cachedSampleCount="3168"/>
      </media>
      <symbols>
           <Include href="00COPIERLESMACHINSICI.xml" loadImmediate="false" itemID="581cc4fd-00000965" lastModified="1478280723"/>
@@ -160,6 +160,8 @@
           <Include href="Animations/Intro/txtIntro.xml" loadImmediate="false" itemID="528c179e-000006d1" lastModified="1411949426"/>
           <Include href="Animations/TransitionCombat.xml" itemID="57e805a3-000000a1" lastModified="1474832134"/>
           <Include href="Animations/TransitionVictoire.xml" itemID="57e805c6-000000a2" lastModified="1474829884"/>
+          <Include href="armeHorasCombat.xml" loadImmediate="false" itemID="5822802b-000001f6" lastModified="1478657616"/>
+          <Include href="boucheHorsaCombat.xml" loadImmediate="false" itemID="58227cfc-000001e7" lastModified="1478655228"/>
           <Include href="carreSelection.xml" loadImmediate="false" itemID="58214844-0000018b" lastModified="1478576302"/>
           <Include href="croquis/bouleFeuCroquis.xml" loadImmediate="false" itemID="580d2532-0000017c" lastModified="1477256753"/>
           <Include href="croquis/cinematiqueIntro.xml" loadImmediate="false" itemID="580d19ef-000000bf" lastModified="1477258582"/>
@@ -191,7 +193,6 @@
           <Include href="ElementsANommerEtClasser/Symbole 117.xml" loadImmediate="false" itemID="5428b77a-0000035f" lastModified="1477674059"/>
           <Include href="ElementsANommerEtClasser/Symbole 135.xml" loadImmediate="false" itemID="542ca74b-00000270" lastModified="1412212430"/>
           <Include href="ElementsANommerEtClasser/Symbole 184.xml" loadImmediate="false" itemID="542cba4a-000001cc" lastModified="1412217428"/>
-          <Include href="foulardCote.xml" loadImmediate="false" itemID="581cc515-000009b8" lastModified="1478044780"/>
           <Include href="icones/icone16.xml" loadImmediate="false" itemID="581a2540-00000118" lastModified="1478110185"/>
           <Include href="icones/icone32.xml" loadImmediate="false" itemID="581a24be-000000f2" lastModified="1478110382"/>
           <Include href="icones/icone48.xml" loadImmediate="false" itemID="581a25c9-00000128" lastModified="1478185434"/>
@@ -336,8 +337,10 @@
           <Include href="PersosEtMonstres/Composantes/horas/side/cheveuxCoteOmbreHoras.xml" loadImmediate="false" itemID="581a1b4d-000000f4" lastModified="1478106021"/>
           <Include href="PersosEtMonstres/Composantes/horas/side/cheveuxSansOmbreCoteHoras.xml" loadImmediate="false" itemID="581a1b9b-000000fa" lastModified="1478106011"/>
           <Include href="PersosEtMonstres/Composantes/horas/side/corpsCoteHoras.xml" loadImmediate="false" itemID="58192c12-000000e8" lastModified="1478045303"/>
+          <Include href="PersosEtMonstres/Composantes/horas/side/foulardCote.xml" loadImmediate="false" itemID="581cc515-000009b8" lastModified="1478044780"/>
           <Include href="PersosEtMonstres/Composantes/horas/side/jambeCoteHoras2.xml" loadImmediate="false" itemID="581931c2-0000012d" lastModified="1478046313"/>
           <Include href="PersosEtMonstres/Composantes/horas/side/jamesCoteHorasd.xml" loadImmediate="false" itemID="581931aa-00000129" lastModified="1478046230"/>
+          <Include href="PersosEtMonstres/Composantes/horas/side/paupiereHoras.xml" loadImmediate="false" itemID="58227a25-000001d8" lastModified="1478654760"/>
           <Include href="PersosEtMonstres/Composantes/horas/side/pouceHoras.xml" loadImmediate="false" itemID="58165a9e-00000157" lastModified="1477859998"/>
           <Include href="PersosEtMonstres/Composantes/horas/side/teteCoteHoras.xml" loadImmediate="false" itemID="5818d388-000001c4" lastModified="1478103343"/>
           <Include href="PersosEtMonstres/Composantes/horas/side/yeuxCoteHoras.xml" loadImmediate="false" itemID="5818d4ed-000001e4" lastModified="1478023887"/>
@@ -355,7 +358,7 @@
           <Include href="PersosEtMonstres/MonstreKorrigan.xml" itemID="5428a51c-00000331" lastModified="1443738131"/>
           <Include href="PersosEtMonstres/MonstreTumulus.xml" itemID="542ca74b-0000026e" lastModified="1412217748"/>
           <Include href="PersosEtMonstres/PersoFortis.xml" itemID="542a0d1f-000002b3" lastModified="1478203580"/>
-          <Include href="PersosEtMonstres/PersoHoras.xml" itemID="58138537-000000c0" lastModified="1478284854"/>
+          <Include href="PersosEtMonstres/PersoHoras.xml" itemID="58138537-000000c0" lastModified="1478656043"/>
           <Include href="PersosEtMonstres/PersoLucem.xml" itemID="542a06ae-000001fe" lastModified="1474997106"/>
           <Include href="PersosEtMonstres/PersoNova.xml" itemID="542a039a-000001ea" lastModified="1474997382"/>
           <Include href="PersosEtMonstres/PersoSpero.xml" itemID="541deb0b-000001de" lastModified="1478280851"/>
@@ -1059,30 +1062,31 @@ function enleveBtRetour(e:Event):void{
           </swatchList>
      </extendedSwatchLists>
      <persistentData>
-          <PD n="ane.tmp.unzipped.folder" v="C:\Users\1475252\AppData\Local\Temp\Tmp_ANE_File_Unzipped_Packages"/>
-          <PD n="com.air.artemis.included.count" v="0"/>
-          <PD n="com.air.oldTargetPlatform" v="Desktop"/>
+          <PD n="ane.tmp.unzipped.folder" v="C:\Users\GABYX_~1\AppData\Local\Temp\Tmp_ANE_File_Unzipped_Packages"/>
           <PD n="com.air.artemis.swfdir" v="/Volumes/DATA/CLOG1446165/epopee/"/>
+          <PD n="com.air.oldTargetPlatform" v="Desktop"/>
+          <PD n="com.air.artemis.included.count" v="0"/>
           <PD n="TestMovieChecked" v="ADLDesktop"/>
           <PD n="com.air.sdk.path"/>
-          <PD n="com.air.artemis.pubair" v="false"/>
           <PD n="com.air.artemis.flapath" v="/Volumes/DATA/CLOG1446165/epopee/EpopeeFantastique2.fla"/>
+          <PD n="com.air.artemis.pubair" v="false"/>
           <PD n="com.air.artemis.pubipa" v="false"/>
           <PD n="flash.swf.basename" v="EpopeeFantastique"/>
-          <PD n="com.air.artemis.pubdmg" v="false"/>
           <PD n="com.air.agistri.runtimetype" v="share"/>
+          <PD n="com.air.artemis.pubdmg" v="false"/>
           <PD n="com.air.agistri.publishtype" v="release"/>
-          <PD n="com.air.artemis.pubcaptive" v="true"/>
-          <PD n="com.air.agistri.hostip" v="Ma connexion réseau sans fil &lt;10.0.0.105&gt;"/>
           <PD n="ikTreeCount" t="i" v="4"/>
-          <PD n="com.air.artemis.basename" v="EpopeeFantastique2"/>
-          <PD n="swf.folder.path" v="D:/Dropbox/CQ/13/Épopée fantastique (SOURCES_13)/"/>
+          <PD n="com.air.agistri.hostip" v="Ma connexion réseau sans fil &lt;10.0.0.105&gt;"/>
+          <PD n="com.air.artemis.pubcaptive" v="true"/>
           <PD n="flash.fla.filepath" v="D:/Dropbox/CQ/13/Épopée fantastique (SOURCES_13)/EpopeeFantastique.fla"/>
+          <PD n="swf.folder.path" v="D:/Dropbox/CQ/13/Épopée fantastique (SOURCES_13)/"/>
+          <PD n="com.air.artemis.basename" v="EpopeeFantastique2"/>
           <PD n="ikNodeCount" t="i" v="1"/>
           <PD n="com.air.artemis.pubexe" v="false"/>
      </persistentData>
      <PrinterSettings/>
      <publishHistory>
+          <PublishItem publishSize="17451483" publishTime="1478653316"/>
           <PublishItem publishSize="17429003" publishTime="1478576000"/>
           <PublishItem publishSize="17428987" publishTime="1478575606"/>
           <PublishItem publishSize="17428988" publishTime="1478575567"/>
@@ -1102,6 +1106,5 @@ function enleveBtRetour(e:Event):void{
           <PublishItem publishSize="17428821" publishTime="1478573280"/>
           <PublishItem publishSize="17428830" publishTime="1478573229"/>
           <PublishItem publishSize="17388491" publishTime="1478573221"/>
-          <PublishItem publishSize="17428763" publishTime="1478572288"/>
      </publishHistory>
 </DOMDocument>
