@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Interfaces/BarreActions" itemID="5424a0b2-00000523" lastModified="1474385240" lastUniqueIdentifier="2">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Interfaces/BarreActions" itemID="5424a0b2-00000523" lastModified="1478797104" lastUniqueIdentifier="2">
   <timeline>
     <DOMTimeline name="BarreActions">
       <layers>
@@ -19,29 +19,29 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="texte" color="#FF800A" current="true" isSelected="true" autoNamed="false">
+        <DOMLayer name="texte" color="#FF800A" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Interfaces/Boutons/btAttaque" name="btAttaque" selected="true" symbolType="button" centerPoint3DX="78" centerPoint3DY="122">
+                <DOMSymbolInstance libraryItemName="Interfaces/Boutons/btAttaque" name="btAttaque" symbolType="button" centerPoint3DX="95.85" centerPoint3DY="144.1">
                   <matrix>
-                    <Matrix a="2" d="2" tx="26" ty="40.1"/>
+                    <Matrix a="1.75" d="1.75" tx="50.15" ty="72.6"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Interfaces/Boutons/btMagie" name="btMagie" symbolType="button" centerPoint3DX="219" centerPoint3DY="122">
+                <DOMSymbolInstance libraryItemName="Interfaces/Boutons/btMagie" name="btMagie" symbolType="button" centerPoint3DX="218.85" centerPoint3DY="144.1">
                   <matrix>
-                    <Matrix a="2" d="2" tx="167" ty="40.1"/>
+                    <Matrix a="1.75" d="1.75" tx="173.55" ty="72.6"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Interfaces/Boutons/btFuite" name="btFuite" symbolType="button" centerPoint3DX="360" centerPoint3DY="122">
+                <DOMSymbolInstance libraryItemName="Interfaces/Boutons/btFuite" name="btFuite" symbolType="button" centerPoint3DX="342.3" centerPoint3DY="144.1">
                   <matrix>
-                    <Matrix a="2" d="2" tx="308" ty="40.1"/>
+                    <Matrix a="1.75" d="1.75" tx="296.9" ty="72.6"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
@@ -51,11 +51,14 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="fond" color="#4FFF4F" autoNamed="false">
+        <DOMLayer name="fond" color="#4FFF4F" current="true" isSelected="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
                 <DOMRectangleObject objectWidth="444" objectHeight="230" x="-3.5" y="-2.85" lockFlag="true">
+                  <matrix>
+                    <Matrix d="0.874465942382813" ty="28.6"/>
+                  </matrix>
                   <fill>
                     <SolidColor alpha="0.498039215686275"/>
                   </fill>

@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Interfaces/symbolesCombat/inBarreMana" itemID="5823aec7-00000225" lastModified="1478734831">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Interfaces/symbolesCombat/inBarreMana" itemID="5823aec7-00000225" lastModified="1478796874">
   <timeline>
     <DOMTimeline name="inBarreMana">
       <layers>
@@ -13,7 +13,7 @@
                     </FillStyle>
                   </fills>
                   <edges>
-                    <Edge fillStyle1="1" edges="!0 0|2576 0!2576 0|2576 470!2576 470|0 470!0 470|0 0"/>
+                    <Edge fillStyle1="1" edges="!0 59|2576 59!2576 59|2576 409!2576 409|0 409!0 409|0 59"/>
                   </edges>
                 </DOMShape>
               </elements>

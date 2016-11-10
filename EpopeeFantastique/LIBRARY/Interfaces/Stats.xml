@@ -1,8 +1,29 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Interfaces/Stats" itemID="5250b758-00000322" linkageExportForAS="true" linkageClassName="Stats" lastModified="1478734908">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Interfaces/Stats" itemID="5250b758-00000322" linkageExportForAS="true" linkageClassName="Stats" lastModified="1478796938">
   <timeline>
     <DOMTimeline name="Stats">
       <layers>
-        <DOMLayer name="stats" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+        <DOMLayer name="nom" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="tag" fontRenderingMode="standard" left="-18.45" width="140.75" height="64.4" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="14.95" ty="-79.95"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Nom de l'etre</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineSpacing="-3" lineHeight="33.7" size="28" bitmapSize="560" face="Gill Sans MT Condensed*"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="stats" color="#9933CC" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
@@ -21,7 +42,7 @@
                 </DOMDynamicText>
                 <DOMDynamicText name="PM_txt" fontRenderingMode="standard" left="1.3" width="62.35" height="13.6" includeOutlines="true">
                   <matrix>
-                    <Matrix a="1.9375" d="1.49937438964844" tx="3.85" ty="-21.25"/>
+                    <Matrix a="1.9375" d="1.49937438964844" tx="3.85" ty="-28.05"/>
                   </matrix>
                   <textRuns>
                     <DOMTextRun>
@@ -51,12 +72,12 @@
                     </StrokeStyle>
                   </strokes>
                   <edges>
-                    <Edge strokeStyle="1" edges="!43 -491|2619 -491!2619 -491|2619 -21!2619 -21|43 -21!43 -21|43 -491!43 -1029|2619 -1029!2619 -1029|2619 -559!2619 -559|43 -559!43 -559|43 -1029"/>
+                    <Edge strokeStyle="1" edges="!43 -570|2619 -570!2619 -570|2619 -215!2619 -215|43 -215!43 -215|43 -570!43 -972|2619 -972!2619 -972|2619 -617!2619 -617|43 -617!43 -617|43 -972"/>
                   </edges>
                 </DOMShape>
                 <DOMSymbolInstance libraryItemName="Interfaces/symbolesCombat/inBarreMana" name="mana_mc">
                   <matrix>
-                    <Matrix tx="2.15" ty="-24.55"/>
+                    <Matrix tx="2.15" ty="-31.35"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="64.4" y="11.75"/>

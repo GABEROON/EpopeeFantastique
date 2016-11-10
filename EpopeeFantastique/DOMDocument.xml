@@ -1,4 +1,4 @@
-<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" backgroundColor="#999999" width="1280" height="720" currentTimeline="1" xflVersion="2.7" creatorInfo="Adobe Animate CC" platform="Windows" versionInfo="Saved by Animate Windows 15.2 build 95" majorVersion="15" minorVersion="2" buildNumber="95" rulerVisible="true" timelineLabelWidth="227" viewAngle3D="100.925968316201" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" autoSaveEnabled="true" autoSaveHasPrompted="true" filetypeGUID="DD0DDBBF-5BEF-45B2-9F24-A3048D2A676F">
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" backgroundColor="#999999" width="1280" height="720" currentTimeline="1" xflVersion="2.7" creatorInfo="Adobe Animate CC" platform="Windows" versionInfo="Saved by Animate Windows 15.1 build 13" majorVersion="15" minorVersion="1" buildNumber="13" rulerVisible="true" timelineLabelWidth="227" viewAngle3D="100.925968316201" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" autoSaveEnabled="true" autoSaveHasPrompted="true" filetypeGUID="DD0DDBBF-5BEF-45B2-9F24-A3048D2A676F">
      <folders>
           <DOMFolderItem name="Animations" itemID="528fa17e-00000931"/>
           <DOMFolderItem name="Animations/Defaite" itemID="528bb6f4-0000030d"/>
@@ -24,7 +24,7 @@
           <DOMFolderItem name="ElementsANommerEtClasser" itemID="50b4e7a7-000002fe"/>
           <DOMFolderItem name="icones" itemID="581a249a-000000f0"/>
           <DOMFolderItem name="Interfaces" itemID="50b4e838-00000312" isExpanded="true"/>
-          <DOMFolderItem name="Interfaces/Boutons" itemID="50b4e7da-00000305"/>
+          <DOMFolderItem name="Interfaces/Boutons" itemID="50b4e7da-00000305" isExpanded="true"/>
           <DOMFolderItem name="Interfaces/copie Boutons" itemID="581bc998-00000263"/>
           <DOMFolderItem name="Interfaces/copie Boutons 2" itemID="581cc4c1-0000095e"/>
           <DOMFolderItem name="Interfaces/copie deco" itemID="581cc4c1-0000095f"/>
@@ -64,12 +64,12 @@
           <DOMFolderItem name="Tableaux" itemID="57f12026-000000b2"/>
      </folders>
      <fonts>
-          <DOMFontItem name="Polices/VinerHandITC" itemID="528ba058-0000029a" font="VinerHandITC" size="0" id="3" sourceLastImported="1384882264" embedRanges="1|2|3|4|5"/>
-          <DOMFontItem name="Polices/PoliceGillSansMtExtCondensedBold" itemID="528c22c4-000006eb" font="GillSansMT-ExtraCondensedBold" size="0" id="2" sourceLastImported="1384881996" embedRanges="1|2|3|4|5|17"/>
-          <DOMFontItem name="ElementsANommerEtClasser/Police 1" itemID="4fb268b7-000002c8" font="TimesNewRomanPSMT" size="0" id="1" sourceLastImported="1337092279" embedRanges="3"/>
-          <DOMFontItem name="Polices/Gill Sans MT Condensed" itemID="54237a4a-00000515" font="GillSansMT-Condensed" size="0" id="6" sourceLastImported="1475018137" embedRanges="1|2|3|4"/>
-          <DOMFontItem name="ElementsANommerEtClasser/ChiffresCourier" itemID="54289597-00000330" font="CourierNewPSMT" size="0" id="7" sourceLastImported="1411945879" embedRanges="3|4"/>
           <DOMFontItem name="Police 2" itemID="581cd7b4-00000d59" font="OriyaMN" size="0" id="8" sourceLastImported="1478285236" embedRanges="9999"/>
+          <DOMFontItem name="ElementsANommerEtClasser/ChiffresCourier" itemID="54289597-00000330" font="CourierNewPSMT" size="0" id="7" sourceLastImported="1411945879" embedRanges="3|4"/>
+          <DOMFontItem name="Polices/Gill Sans MT Condensed" itemID="54237a4a-00000515" font="GillSansMT-Condensed" size="0" id="6" sourceLastImported="1475018137" embedRanges="1|2|3|4"/>
+          <DOMFontItem name="ElementsANommerEtClasser/Police 1" itemID="4fb268b7-000002c8" font="TimesNewRomanPSMT" size="0" id="1" sourceLastImported="1337092279" embedRanges="3"/>
+          <DOMFontItem name="Polices/PoliceGillSansMtExtCondensedBold" itemID="528c22c4-000006eb" font="GillSansMT-ExtraCondensedBold" size="0" id="2" sourceLastImported="1384881996" embedRanges="1|2|3|4|5|17"/>
+          <DOMFontItem name="Polices/VinerHandITC" itemID="528ba058-0000029a" font="VinerHandITC" size="0" id="3" sourceLastImported="1384882264" embedRanges="1|2|3|4|5"/>
      </fonts>
      <media>
           <DOMSoundItem name="Sons/Musiques/Black Vortex_45s_(in49s-out94s).mp3" itemID="528c0da9-000005d8" linkageExportForAS="true" linkageClassName="MusiqueCombat" sourceExternalFilepath="../EpopeeFantastique - AnimFin/LIBRARY/Sons/Musiques/Black Vortex_45s_(in49s-out94s).mp3" sourceLastImported="1385135005" href="Sons/Musiques/Black Vortex_45s_(in49s-out94s).mp3" soundDataHRef="M 12 1384910249.dat" format="44kHz 16bit Stereo" sampleCount="1988352" exportFormat="1" exportBits="7" dataLength="719870" exportNative="true" cacheFormat="5kHz 8bit Stereo" cachedSampleCount="248544"/>
@@ -194,7 +194,7 @@
           <Include href="icones/icone32.xml" loadImmediate="false" itemID="581a24be-000000f2" lastModified="1478110382"/>
           <Include href="icones/icone48.xml" loadImmediate="false" itemID="581a25c9-00000128" lastModified="1478185434"/>
           <Include href="icones/icone128.xml" loadImmediate="false" itemID="581a268d-00000166" lastModified="1478109385"/>
-          <Include href="Interfaces/BarreActions.xml" loadImmediate="false" itemID="5424a0b2-00000523" lastModified="1474385240"/>
+          <Include href="Interfaces/BarreActions.xml" loadImmediate="false" itemID="5424a0b2-00000523" lastModified="1478797104"/>
           <Include href="Interfaces/Boutons/btAmelio.xml" itemIcon="0" loadImmediate="false" itemID="5810f4e6-000000fc" lastModified="1477506387"/>
           <Include href="Interfaces/Boutons/btAttaque.xml" itemIcon="0" loadImmediate="false" itemID="54237649-0000044d" lastModified="1474381003"/>
           <Include href="Interfaces/Boutons/btFuite.xml" itemIcon="0" loadImmediate="false" itemID="542376c8-0000046b" lastModified="1411947978"/>
@@ -206,7 +206,7 @@
           <Include href="Interfaces/Boutons/btRetour.xml" itemIcon="0" loadImmediate="false" itemID="4fabf52b-000001f7" lastModified="1384912284"/>
           <Include href="Interfaces/Boutons/btRetourMenuInfo.xml" itemIcon="0" loadImmediate="false" itemID="5423651a-000003fe" lastModified="1411605958"/>
           <Include href="Interfaces/Boutons/btSuite.xml" itemIcon="0" loadImmediate="false" itemID="57e155c4-000000ee" lastModified="1474385421"/>
-          <Include href="Interfaces/Combat.xml" itemID="50b4e0f3-000002b6" lastModified="1478733711"/>
+          <Include href="Interfaces/Combat.xml" itemID="50b4e0f3-000002b6" lastModified="1478799151"/>
           <Include href="Interfaces/copie Boutons 2/btAmelio.xml" itemIcon="0" loadImmediate="false" itemID="581cc4c1-0000095a" lastModified="1477506387"/>
           <Include href="Interfaces/copie Boutons/btConfirmer.xml" itemIcon="0" loadImmediate="false" itemID="5817dbfb-00000116" lastModified="1477958673"/>
           <Include href="Interfaces/copie Boutons/btRetourMenuInfo.xml" itemIcon="0" loadImmediate="false" itemID="581bc998-0000025f" lastModified="1411605958"/>
@@ -263,11 +263,11 @@
           <Include href="Interfaces/PersosEtMonstres/PersoNova.xml" itemID="581cc4c1-00000947" lastModified="1474997382"/>
           <Include href="Interfaces/photo.xml" loadImmediate="false" itemID="50a434c1-000003b0" lastModified="1478204440"/>
           <Include href="Interfaces/pointeur_lumiere.xml" loadImmediate="false" itemID="542cbd03-000001e4" lastModified="1443570384"/>
-          <Include href="Interfaces/Stats.xml" itemID="5250b758-00000322" lastModified="1478734908"/>
-          <Include href="Interfaces/symbolesCombat/animDegat.xml" loadImmediate="false" itemID="5823ac7c-000001f1" lastModified="1478733243"/>
-          <Include href="Interfaces/symbolesCombat/animHeal.xml" loadImmediate="false" itemID="5823adcb-00000216" lastModified="1478733271"/>
-          <Include href="Interfaces/symbolesCombat/inBarreMana.xml" loadImmediate="false" itemID="5823aec7-00000225" lastModified="1478734831"/>
-          <Include href="Interfaces/symbolesCombat/inBarreSante.xml" loadImmediate="false" itemID="5823aedc-00000229" lastModified="1478734816"/>
+          <Include href="Interfaces/Stats.xml" itemID="5250b758-00000322" lastModified="1478796938"/>
+          <Include href="Interfaces/symbolesCombat/animDegat.xml" loadImmediate="false" itemID="5823ac7c-000001f1" lastModified="1478797522"/>
+          <Include href="Interfaces/symbolesCombat/animHeal.xml" loadImmediate="false" itemID="5823adcb-00000216" lastModified="1478799162"/>
+          <Include href="Interfaces/symbolesCombat/inBarreMana.xml" loadImmediate="false" itemID="5823aec7-00000225" lastModified="1478796874"/>
+          <Include href="Interfaces/symbolesCombat/inBarreSante.xml" loadImmediate="false" itemID="5823aedc-00000229" lastModified="1478796835"/>
           <Include href="Interfaces/symbolesMagasin/carreSelection.xml" loadImmediate="false" itemID="58214844-0000018b" lastModified="1478731944"/>
           <Include href="Interfaces/symbolesMagasin/inventaire.xml" loadImmediate="false" itemID="5817da27-000000e2" lastModified="1477958967"/>
           <Include href="Interfaces/teleport.xml" itemID="54281e92-00000287" lastModified="1475163922"/>
@@ -360,9 +360,9 @@
           <Include href="PersosEtMonstres/Composantes/Spero/soulier3Spero.xml" loadImmediate="false" itemID="57ead8b4-00000756" lastModified="1475008692"/>
           <Include href="PersosEtMonstres/Composantes/Spero/soulier4Spero.xml" loadImmediate="false" itemID="57ead8ba-00000757" lastModified="1475008698"/>
           <Include href="PersosEtMonstres/Composantes/Spero/teteSpero.xml" loadImmediate="false" itemID="57eacf81-000006e1" lastModified="1477674245"/>
-          <Include href="PersosEtMonstres/MonstreBlorg.xml" itemID="5428a606-00000334" lastModified="1475018645"/>
+          <Include href="PersosEtMonstres/MonstreBlorg.xml" itemID="5428a606-00000334" lastModified="1478796534"/>
           <Include href="PersosEtMonstres/MonstreChef.xml" itemID="50b4e4d8-000002e7" lastModified="1412212687"/>
-          <Include href="PersosEtMonstres/MonstreKorrigan.xml" itemID="5428a51c-00000331" lastModified="1443738131"/>
+          <Include href="PersosEtMonstres/MonstreKorrigan.xml" itemID="5428a51c-00000331" lastModified="1478796304"/>
           <Include href="PersosEtMonstres/MonstreTumulus.xml" itemID="542ca74b-0000026e" lastModified="1412217748"/>
           <Include href="PersosEtMonstres/PersoFortis.xml" itemID="542a0d1f-000002b3" lastModified="1478203580"/>
           <Include href="PersosEtMonstres/PersoHoras.xml" itemID="58138537-000000c0" lastModified="1478732631"/>
@@ -1080,48 +1080,48 @@ function enleveBtRetour(e:Event):void{
      </extendedSwatchLists>
      <persistentData>
           <PD n="ane.tmp.unzipped.folder" v="C:\Users\1475252\AppData\Local\Temp\Tmp_ANE_File_Unzipped_Packages"/>
-          <PD n="com.air.artemis.swfdir" v="/Volumes/DATA/CLOG1446165/epopee/"/>
-          <PD n="com.air.oldTargetPlatform" v="Desktop"/>
           <PD n="com.air.artemis.included.count" v="0"/>
+          <PD n="com.air.oldTargetPlatform" v="Desktop"/>
+          <PD n="com.air.artemis.swfdir" v="/Volumes/DATA/CLOG1446165/epopee/"/>
           <PD n="TestMovieChecked" v="ADLDesktop"/>
           <PD n="com.air.sdk.path"/>
-          <PD n="com.air.artemis.flapath" v="/Volumes/DATA/CLOG1446165/epopee/EpopeeFantastique2.fla"/>
           <PD n="com.air.artemis.pubair" v="false"/>
+          <PD n="com.air.artemis.flapath" v="/Volumes/DATA/CLOG1446165/epopee/EpopeeFantastique2.fla"/>
           <PD n="com.air.artemis.pubipa" v="false"/>
           <PD n="flash.swf.basename" v="EpopeeFantastique"/>
-          <PD n="com.air.agistri.runtimetype" v="share"/>
           <PD n="com.air.artemis.pubdmg" v="false"/>
+          <PD n="com.air.agistri.runtimetype" v="share"/>
           <PD n="com.air.agistri.publishtype" v="release"/>
-          <PD n="ikTreeCount" t="i" v="4"/>
-          <PD n="com.air.agistri.hostip" v="Ma connexion réseau sans fil &lt;10.0.0.105&gt;"/>
           <PD n="com.air.artemis.pubcaptive" v="true"/>
-          <PD n="flash.fla.filepath" v="D:/Dropbox/CQ/13/Épopée fantastique (SOURCES_13)/EpopeeFantastique.fla"/>
-          <PD n="swf.folder.path" v="D:/Dropbox/CQ/13/Épopée fantastique (SOURCES_13)/"/>
+          <PD n="com.air.agistri.hostip" v="Ma connexion réseau sans fil &lt;10.0.0.105&gt;"/>
+          <PD n="ikTreeCount" t="i" v="4"/>
           <PD n="com.air.artemis.basename" v="EpopeeFantastique2"/>
+          <PD n="swf.folder.path" v="D:/Dropbox/CQ/13/Épopée fantastique (SOURCES_13)/"/>
+          <PD n="flash.fla.filepath" v="D:/Dropbox/CQ/13/Épopée fantastique (SOURCES_13)/EpopeeFantastique.fla"/>
           <PD n="ikNodeCount" t="i" v="1"/>
           <PD n="com.air.artemis.pubexe" v="false"/>
      </persistentData>
      <PrinterSettings/>
      <publishHistory>
-          <PublishItem publishSize="17500220" publishTime="1478734674"/>
-          <PublishItem publishSize="17500209" publishTime="1478734519"/>
-          <PublishItem publishSize="17500190" publishTime="1478734469"/>
-          <PublishItem publishSize="17500158" publishTime="1478734351"/>
-          <PublishItem publishSize="17500163" publishTime="1478734318"/>
-          <PublishItem publishSize="17500164" publishTime="1478734148"/>
-          <PublishItem publishSize="17500167" publishTime="1478734055"/>
-          <PublishItem publishSize="17500152" publishTime="1478733827"/>
-          <PublishItem publishSize="17496219" publishTime="1478732575"/>
-          <PublishItem publishSize="17496219" publishTime="1478732560"/>
-          <PublishItem publishSize="17496209" publishTime="1478732499"/>
-          <PublishItem publishSize="17496209" publishTime="1478732474"/>
-          <PublishItem publishSize="17496115" publishTime="1478732248"/>
-          <PublishItem publishSize="17496089" publishTime="1478732204"/>
-          <PublishItem publishSize="17495887" publishTime="1478731847"/>
-          <PublishItem publishSize="17495703" publishTime="1478731515"/>
-          <PublishItem publishSize="17294146" publishTime="1478717332"/>
-          <PublishItem publishSize="17232679" publishTime="1478709412"/>
-          <PublishItem publishSize="17232679" publishTime="1478709406" publishDebug="true"/>
-          <PublishItem publishSize="17451483" publishTime="1478653316"/>
+          <PublishItem publishSize="17501079" publishTime="1478799175"/>
+          <PublishItem publishSize="17501078" publishTime="1478799081"/>
+          <PublishItem publishSize="17501057" publishTime="1478798651"/>
+          <PublishItem publishSize="17501028" publishTime="1478798492"/>
+          <PublishItem publishSize="17459257" publishTime="1478798479"/>
+          <PublishItem publishSize="17459256" publishTime="1478798450"/>
+          <PublishItem publishSize="17500933" publishTime="1478797831"/>
+          <PublishItem publishSize="17459233" publishTime="1478797800"/>
+          <PublishItem publishSize="17500907" publishTime="1478797655"/>
+          <PublishItem publishSize="17500907" publishTime="1478797635"/>
+          <PublishItem publishSize="17500898" publishTime="1478797525"/>
+          <PublishItem publishSize="17500891" publishTime="1478797493"/>
+          <PublishItem publishSize="17500629" publishTime="1478797329"/>
+          <PublishItem publishSize="17459232" publishTime="1478797312"/>
+          <PublishItem publishSize="17500600" publishTime="1478797029"/>
+          <PublishItem publishSize="17500607" publishTime="1478796995"/>
+          <PublishItem publishSize="17500611" publishTime="1478796944"/>
+          <PublishItem publishSize="17500601" publishTime="1478796745"/>
+          <PublishItem publishSize="17500583" publishTime="1478796699"/>
+          <PublishItem publishSize="17500377" publishTime="1478796494"/>
      </publishHistory>
 </DOMDocument>

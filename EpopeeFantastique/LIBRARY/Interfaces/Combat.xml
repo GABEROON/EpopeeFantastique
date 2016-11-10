@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Interfaces/Combat" itemID="50b4e0f3-000002b6" linkageExportForAS="true" linkageClassName="Combat" lastModified="1478733711" lastUniqueIdentifier="247">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Interfaces/Combat" itemID="50b4e0f3-000002b6" linkageExportForAS="true" linkageClassName="Combat" lastModified="1478799151" lastUniqueIdentifier="247">
   <timeline>
     <DOMTimeline name="Combat">
       <layers>
@@ -45,33 +45,33 @@
                     <Point/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Interfaces/teleport" name="placeMonstre0" centerPoint3DX="1007.55" centerPoint3DY="441.2">
+                <DOMSymbolInstance libraryItemName="Interfaces/teleport" name="placeMonstre0" centerPoint3DX="1048.55" centerPoint3DY="497.45">
                   <matrix>
-                    <Matrix a="1.25" d="1.25" tx="991.95" ty="409.95"/>
+                    <Matrix a="1.25" d="1.25" tx="1032.95" ty="466.2"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="12.5" y="25"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Interfaces/teleport" name="placeMonstre1" centerPoint3DX="795.8" centerPoint3DY="246.25">
+                <DOMSymbolInstance libraryItemName="Interfaces/teleport" name="placeMonstre1" centerPoint3DX="746.8" centerPoint3DY="209">
                   <matrix>
-                    <Matrix a="1.25" d="1.25" tx="780.2" ty="215"/>
+                    <Matrix a="1.25" d="1.25" tx="731.2" ty="177.75"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="12.5" y="25"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Interfaces/teleport" name="placeMonstre2" centerPoint3DX="735.85" centerPoint3DY="386.75">
+                <DOMSymbolInstance libraryItemName="Interfaces/teleport" name="placeMonstre2" centerPoint3DX="686.85" centerPoint3DY="414">
                   <matrix>
-                    <Matrix a="1.25" d="1.25" tx="720.2" ty="355.5"/>
+                    <Matrix a="1.25" d="1.25" tx="671.2" ty="382.75"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="12.5" y="25"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Interfaces/teleport" name="placeMonstre3" centerPoint3DX="1053.3" centerPoint3DY="261.25">
+                <DOMSymbolInstance libraryItemName="Interfaces/teleport" name="placeMonstre3" centerPoint3DX="1094.3" centerPoint3DY="258.5">
                   <matrix>
-                    <Matrix a="1.25" d="1.25" tx="1037.65" ty="230"/>
+                    <Matrix a="1.25" d="1.25" tx="1078.65" ty="227.25"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="12.5" y="25"/>
@@ -103,7 +103,7 @@
                 </DOMSymbolInstance>
                 <DOMDynamicText name="messagesRonde_txt" fontRenderingMode="standard" top="-18.55" width="754.9" height="229.4" includeOutlines="true" isSelectable="false" lineType="multiline">
                   <matrix>
-                    <Matrix tx="523.1" ty="507.15"/>
+                    <Matrix tx="523.1" ty="578.15"/>
                   </matrix>
                   <textRuns>
                     <DOMTextRun>
@@ -114,20 +114,44 @@
                     </DOMTextRun>
                   </textRuns>
                 </DOMDynamicText>
-                <DOMSymbolInstance libraryItemName="Interfaces/symbolesCombat/animDegat">
+                <DOMSymbolInstance libraryItemName="Interfaces/symbolesCombat/animDegat" name="degat_mc">
                   <matrix>
-                    <Matrix tx="621.8" ty="738.55"/>
+                    <Matrix a="0.708892822265625" d="0.708892822265625" tx="1321" ty="253.2"/>
                   </matrix>
                   <transformationPoint>
-                    <Point x="55.4" y="55.4"/>
+                    <Point x="55.35" y="55.45"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Interfaces/symbolesCombat/animHeal">
+                <DOMSymbolInstance libraryItemName="Interfaces/symbolesCombat/animHeal" name="heal1_mc">
                   <matrix>
-                    <Matrix tx="482.6" ty="738.55"/>
+                    <Matrix a="0.708892822265625" d="0.708892822265625" tx="1316.6" ty="151.6"/>
                   </matrix>
                   <transformationPoint>
-                    <Point x="55.4" y="55.4"/>
+                    <Point x="55.35" y="55.35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Interfaces/symbolesCombat/animHeal" name="heal2_mc" selected="true">
+                  <matrix>
+                    <Matrix a="0.708892822265625" d="0.708892822265625" tx="1411.6" ty="151.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="55.35" y="55.35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Interfaces/symbolesCombat/animHeal" name="heal3_mc">
+                  <matrix>
+                    <Matrix a="0.708892822265625" d="0.708892822265625" tx="1316.6" ty="54.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="55.35" y="55.35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Interfaces/symbolesCombat/animHeal" name="heal0_mc">
+                  <matrix>
+                    <Matrix a="0.708892822265625" d="0.708892822265625" tx="1411.6" ty="54.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="55.35" y="55.35"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
               </elements>
@@ -250,13 +274,11 @@
                     </StrokeStyle>
                   </strokes>
                   <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!0 2060|0 0!0 0|25600 0!25600 0|25600 2560"/>
+                    <Edge fillStyle1="2" strokeStyle="1" edges="!25600 2560|25600 14420!25600 14420|0 14420!0 14420|0 2060"/>
                     <Edge fillStyle0="1" fillStyle1="2" strokeStyle="2" edges="!0 2060[1006 2328 1958 2210!1958 2210[2520 2145 3059 1975!3059 1975[3915 1708 4799 1580!4799 1580[5661 1457 6533 1433!6533 1433[#1A5A.1D #592.DC 6960 1421.5!6960 1421.5[#1F52.A6 #5B5.75 8853 1571!8853 1571[9802 1695 10755 1769!10755 1769
 [11578 1833 12402 1730!12402 1730[13352 1612 14306 1517!14306 1517[#3A18.1E #5B5.8F 15439 1421.5!15439 1421.5[16147 1366 16857 1400!16857 1400[17008 1405 17159 1411!17159 1411[#4629.F7 #5A6.9F 18520 1506!18520 1506[19474 1601 20437 1645
 !20437 1645[21358 1673 22276 1731!22276 1731[23203 1772 24110 1994!24110 1994[24874 2183 25600 2560"/>
-                    <Edge fillStyle1="1" strokeStyle="1" edges="
-!0 2060|0 0!0 0|25600 0!25600 0|25600 2560"/>
-                    <Edge fillStyle1="2" strokeStyle="1" edges="
-!25600 2560|25600 14420!25600 14420|0 14420!0 14420|0 2060"/>
                     <Edge cubics="!20437 1645(;21051,1664 21664,1692 22276,1731q20437 1645Q21358 1673q22276 1731);"/>
                     <Edge cubics="!22276 1731(;22894,1758 23505,1846 24110,1994q22276 1731Q23203 1772q24110 1994);"/>
                     <Edge cubics="!16857 1400(;16958,1403 17058,1407 17159,1411q16857 1400Q17008 1405q17159 1411);"/>

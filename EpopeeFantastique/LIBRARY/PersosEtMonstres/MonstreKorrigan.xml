@@ -1,6 +1,6 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="PersosEtMonstres/MonstreKorrigan" itemID="5428a51c-00000331" linkageExportForAS="true" linkageBaseClass="Monstre" linkageClassName="MonstreKorrigan" lastModified="1443738131" lastUniqueIdentifier="7">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="PersosEtMonstres/MonstreKorrigan" itemID="5428a51c-00000331" linkageExportForAS="true" linkageBaseClass="Monstre" linkageClassName="MonstreKorrigan" lastModified="1478796304" lastUniqueIdentifier="7">
   <timeline>
-    <DOMTimeline name="MonstreKorrigan">
+    <DOMTimeline name="MonstreKorrigan" currentFrame="41">
       <layers>
         <DOMLayer name="A" color="#9933CC" autoNamed="false">
           <frames>
@@ -35,7 +35,7 @@
           <frames>
             <DOMFrame index="0" duration="24" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="ElementsANommerEtClasser/Symbole 74" selected="true" centerPoint3DX="27.6" centerPoint3DY="73.3">
+                <DOMSymbolInstance libraryItemName="ElementsANommerEtClasser/Symbole 74" centerPoint3DX="27.6" centerPoint3DY="73.3">
                   <matrix>
                     <Matrix a="0.5" d="0.5" tx="27.6" ty="73.3"/>
                   </matrix>

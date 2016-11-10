@@ -1,6 +1,6 @@
 <DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="PersosEtMonstres/MonstreTumulus" itemID="542ca74b-0000026e" linkageExportForAS="true" linkageBaseClass="Monstre" linkageClassName="MonstreTumulus" lastModified="1412217748" lastUniqueIdentifier="4">
   <timeline>
-    <DOMTimeline name="MonstreTumulus" currentFrame="16">
+    <DOMTimeline name="MonstreTumulus">
       <layers>
         <DOMLayer name="A" color="#9933CC" autoNamed="false">
           <frames>

@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Interfaces/symbolesCombat/inBarreSante" itemID="5823aedc-00000229" lastModified="1478734816">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Interfaces/symbolesCombat/inBarreSante" itemID="5823aedc-00000229" lastModified="1478796835">
   <timeline>
     <DOMTimeline name="inBarreSante">
       <layers>
@@ -13,7 +13,7 @@
                     </FillStyle>
                   </fills>
                   <edges>
-                    <Edge fillStyle1="1" edges="!0 0|2576 0!2576 0|2576 470!2576 470|0 470!0 470|0 0"/>
+                    <Edge fillStyle1="1" edges="!0 58|2576 58!2576 58|2576 412!2576 412|0 412!0 412|0 58"/>
                   </edges>
                 </DOMShape>
               </elements>

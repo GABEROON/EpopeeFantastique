@@ -137,7 +137,7 @@
 			var nomsDesMonstres:String = "";
 			// string possédant les noms des monstres pour l'afficher
 			for( var i:int=0; i < _tMonstres.length; i++ ){
-				nomsDesMonstres += (_tMonstres[i].getNom()+"\n");
+				//nomsDesMonstres += (_tMonstres[i].getNom()+"\n"); 
 			}
 			messagesRonde_txt.text = nomsDesMonstres;
 		} //afficherNomsMonstres
@@ -198,7 +198,8 @@
 				_iPerso++;
 				if(_iPerso >= _tPersos.length){ break; }
 				pointeur.y = _tPersos[_iPerso].getPosPerso().y+4; // le curseur est placé devant le prochain perso
-				barreActions_mc.btMagie.alpha=0.15;//On set le bouton de magie transparent si le perso n'a pas assez de mana
+				barreActions_mc.btMagie.alpha=1;
+				if(_tPersos[_iPerso].getPMAct()<15)barreActions_mc.btMagie.alpha=0.15;//On set le bouton de magie transparent si le perso n'a pas assez de mana
 			} while (_tPersos[_iPerso].getPVAct() == 0); //on saute au suivant si le perso est mort!
 			
 			if(_iPerso >= _tPersos.length){
@@ -378,6 +379,10 @@
 				} //if+else
 				calculerDommages();
 				_tPersos[iPersoCible].blesser(_dommages);
+				addChild(degat_mc);
+				degat_mc.x=_tPersos[iPersoCible].x-degat_mc.width/2;
+				degat_mc.y=_tPersos[iPersoCible].y-degat_mc.height/2;
+				degat_mc.gotoAndPlay(1);
 				
 				afficherEtape(leMonstre.getNom()+_messAction+_tPersos[iPersoCible].getNom()+" pour "+_dommages+" point"+((_dommages>1)?"s":"")+" de dommage.");
 				var nbMorts:int = 0;
@@ -411,6 +416,11 @@
 					_messAction = lePerso.getNom()+" fait "+_dommages+" point"+((_dommages>1)?"s":"")+" de dommage sur "+_tMonstres[_iMonstreCible].getNom()+".";
 					lePerso.jouerAnim("Attaque");
 					
+					addChild(degat_mc);
+					degat_mc.x=_tMonstres[_iMonstreCible].x-degat_mc.width/2;
+					degat_mc.y=_tMonstres[_iMonstreCible].y-degat_mc.height/2;
+					degat_mc.gotoAndPlay(1);
+					
 				} else { //c'est donc la magie
 					_defense = _tMonstres[_iMonstreCible].getBaseDefMag();
 					switch (lePerso.getNom()){
@@ -421,12 +431,15 @@
 							if(isNaN(_attaque)||isNaN(_defense)){
 								log("boque important: _attaque="+_attaque+" _defense="+_defense)
 							} //if
-							lePerso.setPMAct(lePerso.getPMAct()-15); //Enleve des points de magie
 							
 							trace(lePerso.getNom()+" a maintenant "+lePerso.getPMAct()+" points de magie");
 							calculerDommages();
 							_tMonstres[_iMonstreCible].blesser(_dommages);
 							lePerso.afficherStats();
+							addChild(degat_mc);
+							degat_mc.x=_tMonstres[_iMonstreCible].x-degat_mc.width/2;
+							degat_mc.y=_tMonstres[_iMonstreCible].y-degat_mc.height/2;
+							degat_mc.gotoAndPlay(1);
 							break;
 						case "Lucem" :
 							_attaque = lePerso.etablirAttMagRonde(3);
@@ -434,9 +447,17 @@
 								if(_tPersos[i].getPVAct()>0){
 									_tPersos[i].guerir(_attaque); //applique la guérison au personnage
 								} //if
+								var anim:MovieClip = MovieClip(getChildByName("heal"+i+"_mc"));
+								trace("L'animation trouvée est "+anim+". Son nom est "+anim.name);
+								if(anim is MovieClip) trace("L'animation trouvée est un MoviClip");
+								addChild(anim);
+								anim.x=_tPersos[i].x-anim.width/2;
+								anim.y=_tPersos[i].y-anim.height/2;
+								anim.gotoAndPlay(1);
 							} //for
 							break;
 					} //switch
+					lePerso.setPMAct(lePerso.getPMAct()-15); //Enleve des points de magie
 					switch (lePerso.getNom()){
 						case "Spero" : 
 							_messAction = lePerso.getNom()+" profère des insultes à "+_tMonstres[_iMonstreCible].getNom()+", causant "+_dommages+" point"+((_dommages>1)?"s":"")+" de dommage."; break;

@@ -166,10 +166,12 @@
 		******************************************************************************/		
 		public function afficherStats():void{
 			if( _stats_mc != null ){ //ne pas essayer d'afficher si les points ne sont pas placés!
+				_stats_mc.tag.text = _nom;
 				_stats_mc.PV_txt.text = _PVAct+" / "+_PVMax;
 				_stats_mc.sante_mc.scaleX = _PVAct/_PVMax; 
 				_stats_mc.PM_txt.text = _PMAct+" / "+_PMMax;
 				_stats_mc.mana_mc.scaleX = _PMAct/_PMMax; 
+				_stats_mc.scaleX = _stats_mc.scaleY = 0.8;
 			} //if
 		} //afficherStats
 

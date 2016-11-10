@@ -1,8 +1,23 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Interfaces/symbolesCombat/animDegat" itemID="5823ac7c-000001f1" lastModified="1478733243">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Interfaces/symbolesCombat/animDegat" itemID="5823ac7c-000001f1" lastModified="1478797522">
   <timeline>
     <DOMTimeline name="animDegat" currentFrame="15">
       <layers>
-        <DOMLayer name="Calque 1" color="#4F80FF" current="true" isSelected="true">
+        <DOMLayer name="AS" color="#FF800A" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="15" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="15" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();
+x=-200;
+y=-200;]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Calque 1" color="#4F80FF">
           <frames>
             <DOMFrame index="0" duration="16" keyMode="9728">
               <elements>
