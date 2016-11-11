@@ -24,14 +24,14 @@
                   <edges>
                     <Edge fillStyle0="1" edges="!194 7|193 6!193 6|188 5!188 5|186 4!186 4[184 3 182 3!182 3[156 -2 115 2!115 2|67 5!67 5[30 11 0 29"/>
                     <Edge fillStyle1="1" strokeStyle="1" edges="!194 7[183 44 157 74"/>
-                    <Edge fillStyle0="1" fillStyle1="1" strokeStyle="1" edges="!157 74[145 86 131 97"/>
+                    <Edge fillStyle0="1" fillStyle1="1" strokeStyle="1" edges="!157 74[145 86 131 97!42 81[59 94 80 105"/>
                     <Edge fillStyle0="1" strokeStyle="1" edges="!0 29[15 59 42 81"/>
-                    <Edge fillStyle0="1" fillStyle1="1" strokeStyle="1" edges="!42 81[59 94 80 105!54 187[61 200 72 211!161 187[156 197 150 206"/>
-                    <Edge fillStyle0="1" strokeStyle="1" edges="!42 81[29 145 54 187"/>
+                    <Edge fillStyle0="1" fillStyle1="1" strokeStyle="1" edges="!54 187[61 200 72 211!161 187[156 197 150 206"/>
                     <Edge fillStyle1="1" strokeStyle="1" edges="!157 74[184 134 161 187"/>
-                    <Edge fillStyle0="1" strokeStyle="1" edges="!73 303[45 406 102 449!102 449|43 546!43 546|104 509!104 509|124 566!124 566|138 511!138 511|191 568!191 568|130 456!130 456[184 392 152 304!54 187[44 254 73 302!73 302|73 303"/>
-                    <Edge fillStyle0="1" fillStyle1="1" strokeStyle="1" edges="!73 303[70 317 85 331!152 304[156 316 139 329"/>
+                    <Edge fillStyle0="1" strokeStyle="1" edges="!42 81[29 145 54 187"/>
                     <Edge fillStyle1="1" strokeStyle="1" edges="!161 187[174 252 162 278!162 278[150 302 152 304"/>
+                    <Edge fillStyle0="1" fillStyle1="1" strokeStyle="1" edges="!152 304[156 316 139 329!73 303[70 317 85 331"/>
+                    <Edge fillStyle0="1" strokeStyle="1" edges="!54 187[44 254 73 302!73 302|73 303!73 303[45 406 102 449!102 449|43 546!43 546|104 509!104 509|124 566!124 566|138 511!138 511|191 568!191 568|130 456!130 456[184 392 152 304"/>
                     <Edge cubics="!42 81(42,81;53,90 66,98 80,105q42 81Q59 94q80 105)80,105;"/>
                     <Edge cubics="!157 74(;149,82 140,90 131,97q157 74Q145 86q131 97)131,97;"/>
                     <Edge cubics="!54 187(;59,196 65,204 72,211q54 187Q61 200q72 211);"/>

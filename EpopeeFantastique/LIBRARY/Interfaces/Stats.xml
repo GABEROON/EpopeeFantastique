@@ -35,7 +35,7 @@
                     <DOMTextRun>
                       <characters>125 / 125</characters>
                       <textAttrs>
-                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="11.7" size="11" bitmapSize="220" face="ChiffresCourier*" fillColor="#FFFFFF"/>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="12.45" size="11" bitmapSize="220" face="ChiffresCourier*" fillColor="#FFFFFF"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>
@@ -48,7 +48,7 @@
                     <DOMTextRun>
                       <characters>150 / 150</characters>
                       <textAttrs>
-                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="11.7" size="11" bitmapSize="220" face="ChiffresCourier*" fillColor="#FFFFFF"/>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="12.45" size="11" bitmapSize="220" face="ChiffresCourier*" fillColor="#FFFFFF"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>
@@ -72,7 +72,7 @@
                     </StrokeStyle>
                   </strokes>
                   <edges>
-                    <Edge strokeStyle="1" edges="!43 -570|2619 -570!2619 -570|2619 -215!2619 -215|43 -215!43 -215|43 -570!43 -972|2619 -972!2619 -972|2619 -617!2619 -617|43 -617!43 -617|43 -972"/>
+                    <Edge strokeStyle="1" edges="!43 -972|2619 -972!2619 -972|2619 -617!2619 -617|43 -617!43 -617|43 -972!43 -570|2619 -570!2619 -570|2619 -215!2619 -215|43 -215!43 -215|43 -570"/>
                   </edges>
                 </DOMShape>
                 <DOMSymbolInstance libraryItemName="Interfaces/symbolesCombat/inBarreMana" name="mana_mc">

@@ -1,4 +1,4 @@
-<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" backgroundColor="#999999" width="1280" height="720" currentTimeline="1" xflVersion="2.7" creatorInfo="Adobe Animate CC" platform="Windows" versionInfo="Saved by Animate Windows 15.1 build 13" majorVersion="15" minorVersion="1" buildNumber="13" rulerVisible="true" timelineLabelWidth="227" viewAngle3D="100.925968316201" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" autoSaveEnabled="true" autoSaveHasPrompted="true" filetypeGUID="DD0DDBBF-5BEF-45B2-9F24-A3048D2A676F">
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" backgroundColor="#999999" width="1280" height="720" currentTimeline="1" xflVersion="2.7" creatorInfo="Adobe Animate CC" platform="Macintosh" versionInfo="Saved by Animate Macintosh 15.1 build 13" majorVersion="15" minorVersion="1" buildNumber="13" rulerVisible="true" timelineLabelWidth="227" viewAngle3D="100.925968316201" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" autoSaveEnabled="true" autoSaveHasPrompted="true" filetypeGUID="DD0DDBBF-5BEF-45B2-9F24-A3048D2A676F">
      <folders>
           <DOMFolderItem name="Animations" itemID="528fa17e-00000931"/>
           <DOMFolderItem name="Animations/Defaite" itemID="528bb6f4-0000030d"/>
@@ -64,12 +64,12 @@
           <DOMFolderItem name="Tableaux" itemID="57f12026-000000b2" isExpanded="true"/>
      </folders>
      <fonts>
-          <DOMFontItem name="Polices/VinerHandITC" itemID="528ba058-0000029a" font="VinerHandITC" size="0" id="3" sourceLastImported="1384882264" embedRanges="1|2|3|4|5"/>
-          <DOMFontItem name="Polices/PoliceGillSansMtExtCondensedBold" itemID="528c22c4-000006eb" font="GillSansMT-ExtraCondensedBold" size="0" id="2" sourceLastImported="1384881996" embedRanges="1|2|3|4|5|17"/>
-          <DOMFontItem name="ElementsANommerEtClasser/Police 1" itemID="4fb268b7-000002c8" font="TimesNewRomanPSMT" size="0" id="1" sourceLastImported="1337092279" embedRanges="3"/>
-          <DOMFontItem name="Polices/Gill Sans MT Condensed" itemID="54237a4a-00000515" font="GillSansMT-Condensed" size="0" id="6" sourceLastImported="1475018137" embedRanges="1|2|3|4"/>
-          <DOMFontItem name="ElementsANommerEtClasser/ChiffresCourier" itemID="54289597-00000330" font="CourierNewPSMT" size="0" id="7" sourceLastImported="1411945879" embedRanges="3|4"/>
           <DOMFontItem name="Police 2" itemID="581cd7b4-00000d59" font="OriyaMN" size="0" id="8" sourceLastImported="1478285236" embedRanges="9999"/>
+          <DOMFontItem name="ElementsANommerEtClasser/ChiffresCourier" itemID="54289597-00000330" font="CourierNewPSMT" size="0" id="7" sourceLastImported="1411945879" embedRanges="3|4"/>
+          <DOMFontItem name="Polices/Gill Sans MT Condensed" itemID="54237a4a-00000515" font="GillSansMT-Condensed" size="0" id="6" sourceLastImported="1475018137" embedRanges="1|2|3|4"/>
+          <DOMFontItem name="ElementsANommerEtClasser/Police 1" itemID="4fb268b7-000002c8" font="TimesNewRomanPSMT" size="0" id="1" sourceLastImported="1337092279" embedRanges="3"/>
+          <DOMFontItem name="Polices/PoliceGillSansMtExtCondensedBold" itemID="528c22c4-000006eb" font="GillSansMT-ExtraCondensedBold" size="0" id="2" sourceLastImported="1384881996" embedRanges="1|2|3|4|5|17"/>
+          <DOMFontItem name="Polices/VinerHandITC" itemID="528ba058-0000029a" font="VinerHandITC" size="0" id="3" sourceLastImported="1384882264" embedRanges="1|2|3|4|5"/>
      </fonts>
      <media>
           <DOMSoundItem name="Sons/Musiques/Black Vortex_45s_(in49s-out94s).mp3" itemID="528c0da9-000005d8" linkageExportForAS="true" linkageClassName="MusiqueCombat" sourceExternalFilepath="../EpopeeFantastique - AnimFin/LIBRARY/Sons/Musiques/Black Vortex_45s_(in49s-out94s).mp3" sourceLastImported="1385135005" href="Sons/Musiques/Black Vortex_45s_(in49s-out94s).mp3" soundDataHRef="M 12 1384910249.dat" format="44kHz 16bit Stereo" sampleCount="1988352" exportFormat="1" exportBits="7" dataLength="719870" exportNative="true" cacheFormat="5kHz 8bit Stereo" cachedSampleCount="248544"/>
@@ -377,20 +377,31 @@
           <Include href="PersosEtMonstres/PNJ/PNJPaysan.xml" itemID="5422fe41-0000028f" lastModified="1475204248"/>
           <Include href="PersosEtMonstres/PNJ/PNJRoi.xml" itemID="5422fe3f-0000028e" lastModified="1475204252"/>
           <Include href="PersosEtMonstres/PNJ/PNJTorgul.xml" itemID="5422fe2e-0000028d" lastModified="1475204258"/>
+          <Include href="Tableaux/tabAuberge.xml" loadImmediate="false" itemID="582601ca-00000423" lastModified="1478885834"/>
           <Include href="Tableaux/TabCaverne.xml" itemID="57f12031-000000b4" lastModified="1475422701"/>
           <Include href="Tableaux/TabChateau.xml" itemID="57f12036-000000b5" lastModified="1475420649"/>
           <Include href="Tableaux/TabForet.xml" itemID="57f1206e-000000be" lastModified="1477770379"/>
           <Include href="Tableaux/TabForet2.xml" itemID="57f1203c-000000b6" lastModified="1477770324"/>
+          <Include href="Tableaux/TabForet3.xml" itemID="5825ff85-00000399" lastModified="1478885307"/>
+          <Include href="Tableaux/TabForet4.xml" loadImmediate="false" itemID="5825fffa-000003d5" lastModified="1478885370"/>
           <Include href="Tableaux/TabMaisonAmi.xml" itemID="57f12068-000000bd" lastModified="1477770350"/>
           <Include href="Tableaux/TabMaisonChamane.xml" itemID="57f12044-000000b7" lastModified="1477770416"/>
           <Include href="Tableaux/TabMaisonMaman.xml" itemID="57f12061-000000bc" lastModified="1475420709"/>
+          <Include href="Tableaux/tabNeige1.xml" loadImmediate="false" itemID="58260361-00000cfe" lastModified="1478886256"/>
+          <Include href="Tableaux/tabNeige2.xml" loadImmediate="false" itemID="5826037d-00000e79" lastModified="1478886269"/>
+          <Include href="Tableaux/tabNeige3.xml" loadImmediate="false" itemID="58260384-00000e7f" lastModified="1478886276"/>
+          <Include href="Tableaux/TabPecheur.xml" loadImmediate="false" itemID="58260078-000003e0" lastModified="1478885496"/>
+          <Include href="Tableaux/tabPlaine1.xml" loadImmediate="false" itemID="582601bc-00000417" lastModified="1478886169"/>
+          <Include href="Tableaux/tabPlaine2.xml" loadImmediate="false" itemID="582601c3-0000041d" lastModified="1478886200"/>
           <Include href="Tableaux/TabRavin.xml" itemID="57f1205c-000000bb" lastModified="1477672582"/>
           <Include href="Tableaux/TabRocaille.xml" itemID="57f12058-000000ba" lastModified="1475420734"/>
           <Include href="Tableaux/TabSalleDuRoi.xml" itemID="57f12051-000000b9" lastModified="1475422533"/>
+          <Include href="Tableaux/tabSorciere.xml" loadImmediate="false" itemID="58260228-00000b6e" lastModified="1478885928"/>
+          <Include href="Tableaux/tabVieuxSage.xml" loadImmediate="false" itemID="582601de-00000429" lastModified="1478885854"/>
           <Include href="Tableaux/TabVillage.xml" itemID="57f1204c-000000b8" lastModified="1478717673"/>
      </symbols>
      <timelines>
-          <DOMTimeline name="Séquence 1">
+          <DOMTimeline name="Séquence 1" currentFrame="7">
                <layers>
                     <DOMLayer name="AS" color="#4FFFFF" locked="true" autoNamed="false" heightLiteral="18">
                          <frames>
@@ -476,6 +487,9 @@ function enleveBtRetour(e:Event):void{
                                    </Actionscript>
                                    <elements/>
                               </DOMFrame>
+                              <DOMFrame index="7" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
                          </frames>
                     </DOMLayer>
                     <DOMLayer name="Etiquettes" color="#FF4FFF" locked="true" autoNamed="false" heightLiteral="18">
@@ -501,9 +515,12 @@ function enleveBtRetour(e:Event):void{
                               <DOMFrame index="6" name="generique" labelType="name" keyMode="9728">
                                    <elements/>
                               </DOMFrame>
+                              <DOMFrame index="7" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
                          </frames>
                     </DOMLayer>
-                    <DOMLayer name="Textes" color="#9933CC" autoNamed="false" heightLiteral="18">
+                    <DOMLayer name="Textes" color="#9933CC" current="true" isSelected="true" autoNamed="false" heightLiteral="18">
                          <frames>
                               <DOMFrame index="0" keyMode="9728">
                                    <elements/>
@@ -562,6 +579,247 @@ function enleveBtRetour(e:Event):void{
                                         </DOMSymbolInstance>
                                    </elements>
                               </DOMFrame>
+                              <DOMFrame index="7" keyMode="9728">
+                                   <elements>
+                                        <DOMShape>
+                                             <strokes>
+                                                  <StrokeStyle index="1">
+                                                       <SolidStroke scaleMode="normal" weight="3">
+                                                            <fill>
+                                                                 <SolidColor color="#00FF00"/>
+                                                            </fill>
+                                                       </SolidStroke>
+                                                  </StrokeStyle>
+                                                  <StrokeStyle index="2">
+                                                       <SolidStroke scaleMode="normal" weight="3">
+                                                            <fill>
+                                                                 <SolidColor color="#FFFF00"/>
+                                                            </fill>
+                                                       </SolidStroke>
+                                                  </StrokeStyle>
+                                                  <StrokeStyle index="3">
+                                                       <SolidStroke scaleMode="normal" weight="3">
+                                                            <fill>
+                                                                 <SolidColor color="#FF0000"/>
+                                                            </fill>
+                                                       </SolidStroke>
+                                                  </StrokeStyle>
+                                             </strokes>
+                                             <edges>
+                                                  <Edge strokeStyle="3" edges="!5416 -6285|13632 -6285!13632 -6285|13632 -167!13632 -167|5416 -167!5416 -167|5416 -6285"/>
+                                                  <Edge strokeStyle="2" edges="!9503 261|18255 261!18255 261|18255 8264!18255 8264|9503 8264!9503 8264|9503 261"/>
+                                                  <Edge strokeStyle="1" edges="!664 2166|9416 2166!9416 2166|9416 8055!9416 8055|664 8055!664 8055|664 2166"/>
+                                                  <Edge cubics="!664 2166(;664,2166 9416,2166 9416,2166q664 2166 9416 2166);"/>
+                                                  <Edge cubics="!9416 2166(;9416,2166 9416,8055 9416,8055q9416 2166 9416 8055);"/>
+                                                  <Edge cubics="!9416 8055(9416,8055;9416,8055 664,8055 664,8055q9416 8055 664 8055)664,8055;"/>
+                                                  <Edge cubics="!664 8055(664,8055;664,8055 664,2166 664,2166q664 8055 664 2166)664,2166;"/>
+                                                  <Edge cubics="!18255 261(;18255,261 18255,8264 18255,8264q18255 261 18255 8264);"/>
+                                                  <Edge cubics="!18255 8264(18255,8264;18255,8264 9503,8264 9503,8264q18255 8264 9503 8264)9503,8264;"/>
+                                                  <Edge cubics="!5416 -6285(;5416,-6285 13632,-6285 13632,-6285q5416 -6285 13632 -6285);"/>
+                                                  <Edge cubics="!5416 -167(5416,-167;5416,-167 5416,-6285 5416,-6285q5416 -167 5416 -6285)5416,-6285;"/>
+                                                  <Edge cubics="!13632 -6285(;13632,-6285 13632,-167 13632,-167q13632 -6285 13632 -167);"/>
+                                                  <Edge cubics="!13632 -167(13632,-167;13632,-167 5416,-167 5416,-167q13632 -167 5416 -167)5416,-167;"/>
+                                                  <Edge cubics="!9503 8264(;9503,8264 9503,261 9503,261q9503 8264 9503 261);"/>
+                                                  <Edge cubics="!9503 261(;9503,261 18255,261 18255,261q9503 261 18255 261);"/>
+                                             </edges>
+                                        </DOMShape>
+                                        <DOMStaticText width="111.8" height="19" autoExpand="true">
+                                             <matrix>
+                                                  <Matrix tx="86" ty="688.7"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>tabSalleDuRoi</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" lineHeight="19" size="19" bitmapSize="380" face="Times-Roman" fillColor="#0066CC"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                        <DOMStaticText width="85.45" height="19" autoExpand="true">
+                                             <matrix>
+                                                  <Matrix tx="86" ty="549"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>tabChateau</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" lineHeight="19" size="19" bitmapSize="380" face="Times-Roman" fillColor="#0066CC"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                        <DOMStaticText width="77.95" height="19" autoExpand="true">
+                                             <matrix>
+                                                  <Matrix tx="86" ty="404.75"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>tabVillage</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" lineHeight="19" size="19" bitmapSize="380" face="Times-Roman" fillColor="#0066CC"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                        <DOMStaticText width="72.85" height="19" autoExpand="true">
+                                             <matrix>
+                                                  <Matrix tx="86" ty="249.45"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>tabForet1</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" lineHeight="19" size="19" bitmapSize="380" face="Times-Roman" fillColor="#0066CC"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                        <DOMStaticText width="72.85" height="19" autoExpand="true">
+                                             <matrix>
+                                                  <Matrix tx="337" ty="253.45"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>tabForet4</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" lineHeight="19" size="19" bitmapSize="380" face="Times-Roman" fillColor="#0066CC"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                        <DOMStaticText width="72.85" height="19" autoExpand="true">
+                                             <matrix>
+                                                  <Matrix tx="337" ty="387.75"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>tabForet3</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" lineHeight="19" size="19" bitmapSize="380" face="Times-Roman" fillColor="#0066CC"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                        <DOMStaticText width="84.4" height="19" autoExpand="true">
+                                             <matrix>
+                                                  <Matrix tx="535.95" ty="251.45"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>tabPecheur</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" lineHeight="19" size="19" bitmapSize="380" face="Times-Roman" fillColor="#0066CC"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                        <DOMStaticText width="86.45" height="19" autoExpand="true">
+                                             <matrix>
+                                                  <Matrix tx="535.95" ty="392.5"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>tabSorciere</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" lineHeight="19" size="19" bitmapSize="380" face="Times-Roman" fillColor="#0066CC"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                        <DOMStaticText width="80.2" height="19" autoExpand="true">
+                                             <matrix>
+                                                  <Matrix tx="762.95" ty="394.5"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>tabPlaine2</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" lineHeight="19" size="19" bitmapSize="380" face="Times-Roman" fillColor="#0066CC"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                        <DOMStaticText width="80.2" height="19" autoExpand="true">
+                                             <matrix>
+                                                  <Matrix tx="762.95" ty="260.15"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>tabPlaine1</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" lineHeight="19" size="19" bitmapSize="380" face="Times-Roman" fillColor="#0066CC"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                        <DOMStaticText width="105.4" height="19" autoExpand="true">
+                                             <matrix>
+                                                  <Matrix tx="762.95" ty="120.85"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>tabVieuxSage</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" lineHeight="19" size="19" bitmapSize="380" face="Times-Roman" fillColor="#0066CC"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                        <DOMStaticText width="78.1" height="19" autoExpand="true">
+                                             <matrix>
+                                                  <Matrix tx="532.05" ty="-179.1"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>tabNeige2</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" lineHeight="19" size="19" bitmapSize="380" face="Times-Roman" fillColor="#0066CC"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                        <DOMStaticText width="78.1" height="19" autoExpand="true">
+                                             <matrix>
+                                                  <Matrix tx="532.05" ty="-36.45"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>tabNeige1</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" lineHeight="19" size="19" bitmapSize="380" face="Times-Roman" fillColor="#0066CC"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                        <DOMStaticText width="78.1" height="19" autoExpand="true">
+                                             <matrix>
+                                                  <Matrix tx="337" ty="-179.1"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>tabNeige3</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" lineHeight="19" size="19" bitmapSize="380" face="Times-Roman" fillColor="#0066CC"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                        <DOMStaticText width="88.3" height="19" autoExpand="true">
+                                             <matrix>
+                                                  <Matrix tx="535.95" ty="121.85"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>tabAuberge</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" lineHeight="19" size="19" bitmapSize="380" face="Times-Roman" fillColor="#0066CC"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                   </elements>
+                              </DOMFrame>
                          </frames>
                     </DOMLayer>
                     <DOMLayer name="Animations" color="#808080" autoNamed="false" heightLiteral="18">
@@ -584,12 +842,136 @@ function enleveBtRetour(e:Event):void{
                               <DOMFrame index="4" keyMode="9728">
                                    <elements/>
                               </DOMFrame>
-                              <DOMFrame index="5" keyMode="9728">
+                              <DOMFrame index="5" duration="2" keyMode="9728">
                                    <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="7" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Tableaux/TabVillage">
+                                             <matrix>
+                                                  <Matrix a="0.158493041992188" d="0.158493041992188" tx="45.55" ty="272.05"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="624.95" y="367.5"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="Tableaux/TabChateau">
+                                             <matrix>
+                                                  <Matrix a="0.158660888671875" d="0.158660888671875" tx="45" ty="431.05"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="639.1" y="331.2"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="Tableaux/TabSalleDuRoi">
+                                             <matrix>
+                                                  <Matrix a="0.15875244140625" d="0.15875244140625" tx="42.85" ty="572.4"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="640" y="374.8"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="Tableaux/TabForet">
+                                             <matrix>
+                                                  <Matrix a="0.1446533203125" d="0.1446533203125" tx="58.4" ty="136.9"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="649.5" y="330.8"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="Tableaux/TabForet3">
+                                             <matrix>
+                                                  <Matrix a="0.151626586914062" d="0.151626586914062" tx="270.8" ty="277.5"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="580.35" y="351.2"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="Tableaux/TabForet4">
+                                             <matrix>
+                                                  <Matrix a="0.1531982421875" d="0.1531982421875" tx="268.8" ty="140.1"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="640.65" y="360.65"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="Tableaux/TabPecheur" centerPoint3DX="574.95" centerPoint3DY="194.65">
+                                             <matrix>
+                                                  <Matrix a="0.146652221679688" d="0.146652221679688" tx="481" ty="141.75"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="640.65" y="360.7"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="Tableaux/tabSorciere" centerPoint3DX="574.95" centerPoint3DY="333.95">
+                                             <matrix>
+                                                  <Matrix a="0.146652221679688" d="0.146652221679688" tx="481" ty="281.05"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="640.65" y="360.7"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="Tableaux/tabPlaine2" centerPoint3DX="788.95" centerPoint3DY="333.95">
+                                             <matrix>
+                                                  <Matrix a="0.146652221679688" d="0.146652221679688" tx="695" ty="281.05"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="640.65" y="360.7"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="Tableaux/tabPlaine1" centerPoint3DX="788.95" centerPoint3DY="197.7">
+                                             <matrix>
+                                                  <Matrix a="0.146652221679688" d="0.146652221679688" tx="695" ty="144.8"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="640.65" y="360.7"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="Tableaux/tabVieuxSage" centerPoint3DX="788.95" centerPoint3DY="64.7">
+                                             <matrix>
+                                                  <Matrix a="0.146652221679688" d="0.146652221679688" tx="695" ty="11.8"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="640.65" y="360.7"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="Tableaux/tabAuberge" centerPoint3DX="574.95" centerPoint3DY="64.7">
+                                             <matrix>
+                                                  <Matrix a="0.146652221679688" d="0.146652221679688" tx="481" ty="11.8"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="640.65" y="360.7"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="Tableaux/tabNeige1" centerPoint3DX="574.95" centerPoint3DY="-91.25">
+                                             <matrix>
+                                                  <Matrix a="0.146652221679688" d="0.146652221679688" tx="481" ty="-144.15"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="640.65" y="360.7"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="Tableaux/tabNeige2" centerPoint3DX="574.95" centerPoint3DY="-245.25">
+                                             <matrix>
+                                                  <Matrix a="0.146652221679688" d="0.146652221679688" tx="481" ty="-298.15"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="640.65" y="360.7"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="Tableaux/tabNeige3" centerPoint3DX="376.3" centerPoint3DY="-245.25">
+                                             <matrix>
+                                                  <Matrix a="0.146652221679688" d="0.146652221679688" tx="282.35" ty="-298.15"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="640.65" y="360.7"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
                               </DOMFrame>
                          </frames>
                     </DOMLayer>
-                    <DOMLayer name="Boutons" color="#FF800A" current="true" isSelected="true" autoNamed="false" heightLiteral="18">
+                    <DOMLayer name="Boutons" color="#FF800A" autoNamed="false" heightLiteral="18">
                          <frames>
                               <DOMFrame index="0" keyMode="9728">
                                    <elements/>
@@ -629,6 +1011,9 @@ function enleveBtRetour(e:Event):void{
                                         </DOMSymbolInstance>
                                    </elements>
                               </DOMFrame>
+                              <DOMFrame index="7" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
                          </frames>
                     </DOMLayer>
                     <DOMLayer name="Fond" color="#4F80FF" locked="true" autoNamed="false">
@@ -644,6 +1029,9 @@ function enleveBtRetour(e:Event):void{
                                              </fill>
                                         </DOMRectangleObject>
                                    </elements>
+                              </DOMFrame>
+                              <DOMFrame index="7" keyMode="9728">
+                                   <elements/>
                               </DOMFrame>
                          </frames>
                     </DOMLayer>
@@ -1079,30 +1467,34 @@ function enleveBtRetour(e:Event):void{
           </swatchList>
      </extendedSwatchLists>
      <persistentData>
-          <PD n="ane.tmp.unzipped.folder" v="C:\Users\1475252\AppData\Local\Temp\Tmp_ANE_File_Unzipped_Packages"/>
-          <PD n="com.air.artemis.swfdir" v="/Volumes/DATA/CLOG1446165/epopee/"/>
-          <PD n="com.air.oldTargetPlatform" v="Desktop"/>
+          <PD n="ane.tmp.unzipped.folder" v="/Users/Etudiant/Library/Caches/TemporaryItems/Tmp_ANE_File_Unzipped_Packages"/>
           <PD n="com.air.artemis.included.count" v="0"/>
+          <PD n="com.air.oldTargetPlatform" v="Desktop"/>
+          <PD n="com.air.artemis.swfdir" v="/Volumes/DATA/CLOG1446165/epopee/"/>
           <PD n="TestMovieChecked" v="ADLDesktop"/>
           <PD n="com.air.sdk.path"/>
-          <PD n="com.air.artemis.flapath" v="/Volumes/DATA/CLOG1446165/epopee/EpopeeFantastique2.fla"/>
           <PD n="com.air.artemis.pubair" v="false"/>
+          <PD n="com.air.artemis.flapath" v="/Volumes/DATA/CLOG1446165/epopee/EpopeeFantastique2.fla"/>
           <PD n="com.air.artemis.pubipa" v="false"/>
           <PD n="flash.swf.basename" v="EpopeeFantastique"/>
-          <PD n="com.air.agistri.runtimetype" v="share"/>
           <PD n="com.air.artemis.pubdmg" v="false"/>
+          <PD n="com.air.agistri.runtimetype" v="share"/>
           <PD n="com.air.agistri.publishtype" v="release"/>
-          <PD n="ikTreeCount" t="i" v="4"/>
-          <PD n="com.air.agistri.hostip" v="Ma connexion réseau sans fil &lt;10.0.0.105&gt;"/>
           <PD n="com.air.artemis.pubcaptive" v="true"/>
-          <PD n="flash.fla.filepath" v="D:/Dropbox/CQ/13/Épopée fantastique (SOURCES_13)/EpopeeFantastique.fla"/>
-          <PD n="swf.folder.path" v="D:/Dropbox/CQ/13/Épopée fantastique (SOURCES_13)/"/>
+          <PD n="com.air.agistri.hostip" v="Ma connexion réseau sans fil &lt;10.0.0.105&gt;"/>
+          <PD n="ikTreeCount" t="i" v="4"/>
           <PD n="com.air.artemis.basename" v="EpopeeFantastique2"/>
+          <PD n="swf.folder.path" v="D:/Dropbox/CQ/13/Épopée fantastique (SOURCES_13)/"/>
+          <PD n="flash.fla.filepath" v="D:/Dropbox/CQ/13/Épopée fantastique (SOURCES_13)/EpopeeFantastique.fla"/>
           <PD n="ikNodeCount" t="i" v="1"/>
           <PD n="com.air.artemis.pubexe" v="false"/>
      </persistentData>
      <PrinterSettings/>
      <publishHistory>
+          <PublishItem publishSize="17365103" publishTime="1478884269"/>
+          <PublishItem publishSize="17362665" publishTime="1478883510"/>
+          <PublishItem publishSize="17362665" publishTime="1478883242"/>
+          <PublishItem publishSize="17362665" publishTime="1478883072"/>
           <PublishItem publishSize="17459247" publishTime="1478825021"/>
           <PublishItem publishSize="17459247" publishTime="1478825007"/>
           <PublishItem publishSize="17501067" publishTime="1478824882"/>
@@ -1119,9 +1511,5 @@ function enleveBtRetour(e:Event):void{
           <PublishItem publishSize="17500907" publishTime="1478797655"/>
           <PublishItem publishSize="17500907" publishTime="1478797635"/>
           <PublishItem publishSize="17500898" publishTime="1478797525"/>
-          <PublishItem publishSize="17500891" publishTime="1478797493"/>
-          <PublishItem publishSize="17500629" publishTime="1478797329"/>
-          <PublishItem publishSize="17459232" publishTime="1478797312"/>
-          <PublishItem publishSize="17500600" publishTime="1478797029"/>
      </publishHistory>
 </DOMDocument>

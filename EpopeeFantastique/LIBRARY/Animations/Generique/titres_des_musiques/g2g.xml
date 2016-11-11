@@ -6,7 +6,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMStaticText fontRenderingMode="standard" left="17.85" width="108.3" height="69" autoExpand="true" isSelectable="false">
+                <DOMStaticText fontRenderingMode="standard" left="17.95" width="108.1" height="69" autoExpand="true" isSelectable="false">
                   <matrix>
                     <Matrix tx="-15.85" ty="2"/>
                   </matrix>

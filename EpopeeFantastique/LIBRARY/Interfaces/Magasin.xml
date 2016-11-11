@@ -103,7 +103,7 @@
                     <Point/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMStaticText left="54.9" width="34.2" height="76.6" autoExpand="true">
+                <DOMStaticText left="54.95" width="34.1" height="76.6" autoExpand="true">
                   <matrix>
                     <Matrix tx="801.3" ty="597"/>
                   </matrix>
@@ -116,7 +116,7 @@
                     </DOMTextRun>
                   </textRuns>
                 </DOMStaticText>
-                <DOMStaticText left="54.9" width="34.2" height="76.6" autoExpand="true">
+                <DOMStaticText left="54.95" width="34.1" height="76.6" autoExpand="true">
                   <matrix>
                     <Matrix tx="-1.95" ty="597"/>
                   </matrix>
@@ -181,7 +181,7 @@
                     </DOMTextRun>
                   </textRuns>
                 </DOMDynamicText>
-                <DOMStaticText width="57.5" height="57.5" autoExpand="true">
+                <DOMStaticText width="57.4" height="57.5" autoExpand="true">
                   <matrix>
                     <Matrix tx="469.1" ty="142.1"/>
                   </matrix>
@@ -194,7 +194,7 @@
                     </DOMTextRun>
                   </textRuns>
                 </DOMStaticText>
-                <DOMStaticText width="43.7" height="57.5" autoExpand="true">
+                <DOMStaticText width="43.65" height="57.5" autoExpand="true">
                   <matrix>
                     <Matrix tx="469.1" ty="228.65"/>
                   </matrix>

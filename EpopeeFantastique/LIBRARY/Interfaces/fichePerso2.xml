@@ -22,7 +22,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMStaticText fontRenderingMode="standard" width="63.95" height="26.3" autoExpand="true" includeOutlines="true" isSelectable="false">
+                <DOMStaticText fontRenderingMode="standard" width="63.6" height="26.3" autoExpand="true" includeOutlines="true" isSelectable="false">
                   <matrix>
                     <Matrix d="0.999984741210938" tx="106" ty="72"/>
                   </matrix>
@@ -54,7 +54,7 @@
                     </DOMTextRun>
                   </textRuns>
                 </DOMDynamicText>
-                <DOMStaticText fontRenderingMode="standard" width="30.9" height="26.3" autoExpand="true" includeOutlines="true" isSelectable="false">
+                <DOMStaticText fontRenderingMode="standard" width="30.8" height="26.3" autoExpand="true" includeOutlines="true" isSelectable="false">
                   <matrix>
                     <Matrix d="0.999984741210938" tx="106" ty="112"/>
                   </matrix>
@@ -86,7 +86,7 @@
                     </DOMTextRun>
                   </textRuns>
                 </DOMDynamicText>
-                <DOMStaticText fontRenderingMode="standard" width="51.7" height="26.3" autoExpand="true" includeOutlines="true" isSelectable="false">
+                <DOMStaticText fontRenderingMode="standard" width="51.55" height="26.3" autoExpand="true" includeOutlines="true" isSelectable="false">
                   <matrix>
                     <Matrix d="0.999984741210938" tx="106" ty="152"/>
                   </matrix>
@@ -118,7 +118,7 @@
                     </DOMTextRun>
                   </textRuns>
                 </DOMDynamicText>
-                <DOMStaticText fontRenderingMode="standard" width="36.9" height="28.7" autoExpand="true" includeOutlines="true" isSelectable="false">
+                <DOMStaticText fontRenderingMode="standard" width="36.8" height="28.7" autoExpand="true" includeOutlines="true" isSelectable="false">
                   <matrix>
                     <Matrix d="0.999984741210938" tx="216.15" ty="13.1"/>
                   </matrix>
@@ -152,7 +152,7 @@
                 </DOMDynamicText>
                 <DOMGroup>
                   <members>
-                    <DOMStaticText fontRenderingMode="standard" width="40.35" height="26.3" autoExpand="true" includeOutlines="true" isSelectable="false">
+                    <DOMStaticText fontRenderingMode="standard" width="40.1" height="26.3" autoExpand="true" includeOutlines="true" isSelectable="false">
                       <matrix>
                         <Matrix d="0.999984741210938" tx="9" ty="205.05"/>
                       </matrix>
@@ -168,7 +168,7 @@
                         </DOMTextRun>
                       </textRuns>
                     </DOMStaticText>
-                    <DOMStaticText fontRenderingMode="standard" width="39.1" height="26.3" autoExpand="true" includeOutlines="true" isSelectable="false">
+                    <DOMStaticText fontRenderingMode="standard" width="39" height="26.3" autoExpand="true" includeOutlines="true" isSelectable="false">
                       <matrix>
                         <Matrix d="0.999984741210938" tx="9" ty="255.65"/>
                       </matrix>
@@ -184,7 +184,7 @@
                         </DOMTextRun>
                       </textRuns>
                     </DOMStaticText>
-                    <DOMStaticText fontRenderingMode="standard" width="86.05" height="26.3" autoExpand="true" includeOutlines="true" isSelectable="false">
+                    <DOMStaticText fontRenderingMode="standard" width="85.65" height="26.3" autoExpand="true" includeOutlines="true" isSelectable="false">
                       <matrix>
                         <Matrix d="0.999984741210938" tx="114" ty="205.05"/>
                       </matrix>
@@ -200,7 +200,7 @@
                         </DOMTextRun>
                       </textRuns>
                     </DOMStaticText>
-                    <DOMStaticText fontRenderingMode="standard" width="84.8" height="26.3" autoExpand="true" includeOutlines="true" isSelectable="false">
+                    <DOMStaticText fontRenderingMode="standard" width="84.55" height="26.3" autoExpand="true" includeOutlines="true" isSelectable="false">
                       <matrix>
                         <Matrix d="0.999984741210938" tx="115" ty="255.65"/>
                       </matrix>
@@ -216,7 +216,7 @@
                         </DOMTextRun>
                       </textRuns>
                     </DOMStaticText>
-                    <DOMStaticText fontRenderingMode="standard" width="34.15" height="26.3" autoExpand="true" includeOutlines="true" isSelectable="false">
+                    <DOMStaticText fontRenderingMode="standard" width="33.9" height="26.3" autoExpand="true" includeOutlines="true" isSelectable="false">
                       <matrix>
                         <Matrix d="0.999984741210938" tx="10.25" ty="303.05"/>
                       </matrix>
@@ -232,7 +232,7 @@
                         </DOMTextRun>
                       </textRuns>
                     </DOMStaticText>
-                    <DOMStaticText fontRenderingMode="standard" width="97.8" height="26.3" autoExpand="true" includeOutlines="true" isSelectable="false">
+                    <DOMStaticText fontRenderingMode="standard" width="97.2" height="26.3" autoExpand="true" includeOutlines="true" isSelectable="false">
                       <matrix>
                         <Matrix d="0.999984741210938" tx="116.5" ty="303.05"/>
                       </matrix>
