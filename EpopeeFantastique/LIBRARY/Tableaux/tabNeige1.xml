@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tableaux/tabNeige1" itemID="58260361-00000cfe" lastModified="1478886256" lastUniqueIdentifier="146">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tableaux/tabNeige1" itemID="58260361-00000cfe" linkageExportForAS="true" linkageBaseClass="Tableau" linkageClassName="TabNeige1" lastModified="1478891629" lastUniqueIdentifier="146">
   <timeline>
     <DOMTimeline name="tabNeige1">
       <layers>
@@ -58,6 +58,38 @@
                     <Edge fillStyle1="1" edges="!25613 14413|13 14413!13 14413|13 13!13 13|25613 13!25613 13|25613 14413"/>
                   </edges>
                 </DOMShape>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/Interactifs/Porte" name="porte_Neige2_mc">
+                  <matrix>
+                    <Matrix a="0" b="0.395599365234375" c="-32.9813385009766" d="0" tx="1282.8" ty="-31.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="40.95" y="19.45"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Interfaces/teleport" name="teleport_Neige2_mc">
+                  <matrix>
+                    <Matrix tx="676.55" ty="58.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/Interactifs/Porte" name="porte_Auberge_mc">
+                  <matrix>
+                    <Matrix a="0" b="0.395599365234375" c="-32.9813385009766" d="0" tx="1282.8" ty="720.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="40.95" y="19.45"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Interfaces/teleport" name="teleport_Auberge_mc">
+                  <matrix>
+                    <Matrix tx="676.55" ty="672.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
               </elements>
             </DOMFrame>
           </frames>

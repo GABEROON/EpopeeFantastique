@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tableaux/tabNeige3" itemID="58260384-00000e7f" lastModified="1478886276" lastUniqueIdentifier="146">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tableaux/tabNeige3" itemID="58260384-00000e7f" linkageExportForAS="true" linkageBaseClass="Tableau" linkageClassName="TabNeige3" lastModified="1478891725" lastUniqueIdentifier="146">
   <timeline>
     <DOMTimeline name="tabNeige3">
       <layers>
@@ -58,6 +58,22 @@
                     <Edge fillStyle1="1" edges="!25613 14413|13 14413!13 14413|13 13!13 13|25613 13!25613 13|25613 14413"/>
                   </edges>
                 </DOMShape>
+                <DOMSymbolInstance libraryItemName="Interfaces/teleport" name="teleport_Neige2_mc">
+                  <matrix>
+                    <Matrix tx="1225.65" ty="377.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/Interactifs/Porte" name="porte_Neige2_mc">
+                  <matrix>
+                    <Matrix a="-0.395599365234375" d="-18.7061462402344" tx="1312.2" ty="720.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="40.95" y="19.45"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
               </elements>
             </DOMFrame>
           </frames>

@@ -42,12 +42,12 @@
           <DOMFolderItem name="Interfaces/Polices" itemID="581bc998-00000259"/>
           <DOMFolderItem name="Interfaces/symbolesCombat" itemID="5823ad08-000001ff" isExpanded="true"/>
           <DOMFolderItem name="Interfaces/symbolesMagasin" itemID="5817da6a-000000ed" isExpanded="true"/>
-          <DOMFolderItem name="ObstaclesEtObjets" itemID="57ed53b5-000000ba"/>
+          <DOMFolderItem name="ObstaclesEtObjets" itemID="57ed53b5-000000ba" isExpanded="true"/>
           <DOMFolderItem name="ObstaclesEtObjets/Decoratifs" itemID="5422df84-00000288"/>
-          <DOMFolderItem name="ObstaclesEtObjets/Interactifs" itemID="5422df69-00000286"/>
+          <DOMFolderItem name="ObstaclesEtObjets/Interactifs" itemID="5422df69-00000286" isExpanded="true"/>
           <DOMFolderItem name="ObstaclesEtObjets/Interactifs/ObjetsUtiles" itemID="5248e00f-000003a0"/>
           <DOMFolderItem name="ObstaclesEtObjets/Objets Magasin" itemID="581a249c-00000322"/>
-          <DOMFolderItem name="PersosEtMonstres" itemID="541de3a6-000001d4" isExpanded="true"/>
+          <DOMFolderItem name="PersosEtMonstres" itemID="541de3a6-000001d4"/>
           <DOMFolderItem name="PersosEtMonstres/Composantes" itemID="57ea9781-000000b4"/>
           <DOMFolderItem name="PersosEtMonstres/Composantes/Blorg" itemID="57eae14f-000007be"/>
           <DOMFolderItem name="PersosEtMonstres/Composantes/horas" itemID="58138818-000000e4"/>
@@ -377,28 +377,28 @@
           <Include href="PersosEtMonstres/PNJ/PNJPaysan.xml" itemID="5422fe41-0000028f" lastModified="1475204248"/>
           <Include href="PersosEtMonstres/PNJ/PNJRoi.xml" itemID="5422fe3f-0000028e" lastModified="1475204252"/>
           <Include href="PersosEtMonstres/PNJ/PNJTorgul.xml" itemID="5422fe2e-0000028d" lastModified="1475204258"/>
-          <Include href="Tableaux/tabAuberge.xml" loadImmediate="false" itemID="582601ca-00000423" lastModified="1478885834"/>
-          <Include href="Tableaux/TabCaverne.xml" itemID="57f12031-000000b4" lastModified="1475422701"/>
-          <Include href="Tableaux/TabChateau.xml" itemID="57f12036-000000b5" lastModified="1475420649"/>
-          <Include href="Tableaux/TabForet.xml" itemID="57f1206e-000000be" lastModified="1477770379"/>
-          <Include href="Tableaux/TabForet2.xml" itemID="57f1203c-000000b6" lastModified="1477770324"/>
-          <Include href="Tableaux/TabForet3.xml" itemID="5825ff85-00000399" lastModified="1478885307"/>
-          <Include href="Tableaux/TabForet4.xml" loadImmediate="false" itemID="5825fffa-000003d5" lastModified="1478885370"/>
-          <Include href="Tableaux/TabMaisonAmi.xml" itemID="57f12068-000000bd" lastModified="1477770350"/>
-          <Include href="Tableaux/TabMaisonChamane.xml" itemID="57f12044-000000b7" lastModified="1477770416"/>
-          <Include href="Tableaux/TabMaisonMaman.xml" itemID="57f12061-000000bc" lastModified="1475420709"/>
-          <Include href="Tableaux/tabNeige1.xml" loadImmediate="false" itemID="58260361-00000cfe" lastModified="1478886256"/>
-          <Include href="Tableaux/tabNeige2.xml" loadImmediate="false" itemID="5826037d-00000e79" lastModified="1478886269"/>
-          <Include href="Tableaux/tabNeige3.xml" loadImmediate="false" itemID="58260384-00000e7f" lastModified="1478886276"/>
-          <Include href="Tableaux/TabPecheur.xml" loadImmediate="false" itemID="58260078-000003e0" lastModified="1478885496"/>
-          <Include href="Tableaux/tabPlaine1.xml" loadImmediate="false" itemID="582601bc-00000417" lastModified="1478886169"/>
-          <Include href="Tableaux/tabPlaine2.xml" loadImmediate="false" itemID="582601c3-0000041d" lastModified="1478886200"/>
-          <Include href="Tableaux/TabRavin.xml" itemID="57f1205c-000000bb" lastModified="1477672582"/>
-          <Include href="Tableaux/TabRocaille.xml" itemID="57f12058-000000ba" lastModified="1475420734"/>
-          <Include href="Tableaux/TabSalleDuRoi.xml" itemID="57f12051-000000b9" lastModified="1475422533"/>
-          <Include href="Tableaux/tabSorciere.xml" loadImmediate="false" itemID="58260228-00000b6e" lastModified="1478885928"/>
-          <Include href="Tableaux/tabVieuxSage.xml" loadImmediate="false" itemID="582601de-00000429" lastModified="1478885854"/>
-          <Include href="Tableaux/TabVillage.xml" itemID="57f1204c-000000b8" lastModified="1478717673"/>
+          <Include href="Tableaux/tabAuberge.xml" itemID="582601ca-00000423" lastModified="1478891900"/>
+          <Include href="Tableaux/TabCaverne.xml" itemID="57f12031-000000b4" lastModified="1478890642"/>
+          <Include href="Tableaux/TabChateau.xml" itemID="57f12036-000000b5" lastModified="1478890642"/>
+          <Include href="Tableaux/TabForet.xml" itemID="57f1206e-000000be" lastModified="1478890642"/>
+          <Include href="Tableaux/TabForet2.xml" itemID="57f1203c-000000b6" lastModified="1478890642"/>
+          <Include href="Tableaux/TabForet3.xml" itemID="5825ff85-00000399" lastModified="1478890642"/>
+          <Include href="Tableaux/TabForet4.xml" itemID="5825fffa-000003d5" lastModified="1478890642"/>
+          <Include href="Tableaux/TabMaisonAmi.xml" itemID="57f12068-000000bd" lastModified="1478890642"/>
+          <Include href="Tableaux/TabMaisonChamane.xml" itemID="57f12044-000000b7" lastModified="1478890642"/>
+          <Include href="Tableaux/TabMaisonMaman.xml" itemID="57f12061-000000bc" lastModified="1478890642"/>
+          <Include href="Tableaux/tabNeige1.xml" itemID="58260361-00000cfe" lastModified="1478891629"/>
+          <Include href="Tableaux/tabNeige2.xml" itemID="5826037d-00000e79" lastModified="1478891688"/>
+          <Include href="Tableaux/tabNeige3.xml" itemID="58260384-00000e7f" lastModified="1478891725"/>
+          <Include href="Tableaux/TabPecheur.xml" itemID="58260078-000003e0" lastModified="1478891206"/>
+          <Include href="Tableaux/tabPlaine1.xml" itemID="582601bc-00000417" lastModified="1478891426"/>
+          <Include href="Tableaux/tabPlaine2.xml" itemID="582601c3-0000041d" lastModified="1478890643"/>
+          <Include href="Tableaux/TabRavin.xml" itemID="57f1205c-000000bb" lastModified="1478890642"/>
+          <Include href="Tableaux/TabRocaille.xml" itemID="57f12058-000000ba" lastModified="1478890642"/>
+          <Include href="Tableaux/TabSalleDuRoi.xml" itemID="57f12051-000000b9" lastModified="1478890642"/>
+          <Include href="Tableaux/tabSorciere.xml" itemID="58260228-00000b6e" lastModified="1478891315"/>
+          <Include href="Tableaux/tabVieuxSage.xml" itemID="582601de-00000429" lastModified="1478891476"/>
+          <Include href="Tableaux/TabVillage.xml" itemID="57f1204c-000000b8" lastModified="1478890642"/>
      </symbols>
      <timelines>
           <DOMTimeline name="Séquence 1" currentFrame="7">
@@ -492,7 +492,7 @@ function enleveBtRetour(e:Event):void{
                               </DOMFrame>
                          </frames>
                     </DOMLayer>
-                    <DOMLayer name="Etiquettes" color="#FF4FFF" locked="true" autoNamed="false" heightLiteral="18">
+                    <DOMLayer name="Etiquettes" color="#FF4FFF" autoNamed="false" heightLiteral="18">
                          <frames>
                               <DOMFrame index="0" keyMode="9728">
                                    <elements/>
@@ -516,11 +516,33 @@ function enleveBtRetour(e:Event):void{
                                    <elements/>
                               </DOMFrame>
                               <DOMFrame index="7" keyMode="9728">
-                                   <elements/>
+                                   <elements>
+                                        <DOMShape>
+                                             <strokes>
+                                                  <StrokeStyle index="1">
+                                                       <SolidStroke scaleMode="normal" weight="4">
+                                                            <fill>
+                                                                 <SolidColor color="#FF0000"/>
+                                                            </fill>
+                                                       </SolidStroke>
+                                                  </StrokeStyle>
+                                             </strokes>
+                                             <edges>
+                                                  <Edge strokeStyle="1" edges="!9151 -4601|9313 -4410!9151 -4601|9313 -4792!12939 -3077|12748 -3239!12939 -3697|12939 -3077!12939 -3697|12748 -3535!12939 -477|12748 -315!9771 -4601|9609 -4410!9771 -4601|9151 -4601!9771 -4601|9609 -4792!12939 -3077|13130 -3239!12939
+ -3697|13130 -3535!12939 -477|13130 -315!17094 2278|17094 2898!17094 2278|17285 2440!17094 2898|17285 2736!17094 2898|16903 2736!17094 2278|16903 2440!13282 1860|13444 1669!13902 1860|13740 1669!13902 1860|13282 1860!13902 1860|13740
+ 2051!13282 1860|13444 2051!13282 4231|13444 4422!13282 4231|13444 4040!13902 4231|13282 4231!13902 4231|13740 4422!13902 4231|13740 4040!13282 6822|13444 6631!13902 6822|13740 6631!13902 6822|13740 7013!13902 6822|13282 6822!13282 6822
+|13444 7013!17094 5528|17285 5366!17094 4908|17285 5070!17094 4908|17094 5528!17094 4908|16903 5070!17094 5528|16903 5366!9711 4231|9549 4040!9711 4231|9549 4422!9711 4231|9091 4231!9091 4231|9253 4040!9091 4231|9253 4422!8428 5528|8619
+ 5366!8428 5528|8237 5366!8428 4908|8428 5528!8428 4908|8619 5070!8428 4908|8237 5070!12939 5528|12748 5366!12939 4908|12748 5070!12939 4908|12939 5528!5418 4431|5256 4622!5418 4431|5256 4240!3921 5528|3730 5366!3921 5528|4112 5366!3921
+ 4908|3730 5070!3921 4908|4112 5070!3921 4908|3921 5528!5418 6822|5256 6631!5418 6822|5256 7013!4798 6822|4960 7013!5418 6822|4798 6822!4798 6822|4960 6631!5418 4431|4798 4431!4798 4431|4960 4622!4798 4431|4960 4240!3921 8421|3730 8259
+!3921 8421|4112 8259!3921 10722|3730 10884!3921 11342|3730 11180!3921 10722|4112 10884!3921 11342|4112 11180!3921 10722|3921 11342!3921 7801|3730 7963!3921 7801|4112 7963!3921 7801|3921 8421!12939 4908|13130 5070!12939 5528|13130 5366
+!12939 143|13130 -19!12939 -477|12939 143!12939 143|12748 -19"/>
+                                             </edges>
+                                        </DOMShape>
+                                   </elements>
                               </DOMFrame>
                          </frames>
                     </DOMLayer>
-                    <DOMLayer name="Textes" color="#9933CC" current="true" isSelected="true" autoNamed="false" heightLiteral="18">
+                    <DOMLayer name="Textes" color="#9933CC" autoNamed="false" heightLiteral="18">
                          <frames>
                               <DOMFrame index="0" keyMode="9728">
                                    <elements/>
@@ -606,9 +628,12 @@ function enleveBtRetour(e:Event):void{
                                                   </StrokeStyle>
                                              </strokes>
                                              <edges>
-                                                  <Edge strokeStyle="3" edges="!5416 -6285|13632 -6285!13632 -6285|13632 -167!13632 -167|5416 -167!5416 -167|5416 -6285"/>
-                                                  <Edge strokeStyle="2" edges="!9503 261|18255 261!18255 261|18255 8264!18255 8264|9503 8264!9503 8264|9503 261"/>
-                                                  <Edge strokeStyle="1" edges="!664 2166|9416 2166!9416 2166|9416 8055!9416 8055|664 8055!664 8055|664 2166"/>
+                                                  <Edge strokeStyle="3" edges="
+!5416 -6285|13632 -6285!13632 -6285|13632 -167!13632 -167|5416 -167!5416 -167|5416 -6285"/>
+                                                  <Edge strokeStyle="2" edges="
+!9503 261|18255 261!18255 261|18255 8264!18255 8264|9503 8264!9503 8264|9503 261"/>
+                                                  <Edge strokeStyle="1" edges="
+!664 2166|9416 2166!9416 2166|9416 8055!9416 8055|664 8055!664 8055|664 2166"/>
                                                   <Edge cubics="!664 2166(;664,2166 9416,2166 9416,2166q664 2166 9416 2166);"/>
                                                   <Edge cubics="!9416 2166(;9416,2166 9416,8055 9416,8055q9416 2166 9416 8055);"/>
                                                   <Edge cubics="!9416 8055(9416,8055;9416,8055 664,8055 664,8055q9416 8055 664 8055)664,8055;"/>
@@ -662,13 +687,13 @@ function enleveBtRetour(e:Event):void{
                                                   </DOMTextRun>
                                              </textRuns>
                                         </DOMStaticText>
-                                        <DOMStaticText width="72.85" height="19" autoExpand="true">
+                                        <DOMStaticText width="63.35" height="19" autoExpand="true">
                                              <matrix>
                                                   <Matrix tx="86" ty="249.45"/>
                                              </matrix>
                                              <textRuns>
                                                   <DOMTextRun>
-                                                       <characters>tabForet1</characters>
+                                                       <characters>tabForet</characters>
                                                        <textAttrs>
                                                             <DOMTextAttrs aliasText="false" lineHeight="19" size="19" bitmapSize="380" face="Times-Roman" fillColor="#0066CC"/>
                                                        </textAttrs>
@@ -755,8 +780,11 @@ function enleveBtRetour(e:Event):void{
                                         </DOMStaticText>
                                         <DOMStaticText width="105.4" height="19" autoExpand="true">
                                              <matrix>
-                                                  <Matrix tx="762.95" ty="120.85"/>
+                                                  <Matrix tx="723.45" ty="120.85"/>
                                              </matrix>
+                                             <transformationPoint>
+                                                  <Point x="52.7" y="9.5"/>
+                                             </transformationPoint>
                                              <textRuns>
                                                   <DOMTextRun>
                                                        <characters>tabVieuxSage</characters>
@@ -822,7 +850,7 @@ function enleveBtRetour(e:Event):void{
                               </DOMFrame>
                          </frames>
                     </DOMLayer>
-                    <DOMLayer name="Animations" color="#808080" autoNamed="false" heightLiteral="18">
+                    <DOMLayer name="Animations" color="#808080" current="true" isSelected="true" autoNamed="false" heightLiteral="18">
                          <frames>
                               <DOMFrame index="0" duration="2" keyMode="9728">
                                    <elements/>
@@ -951,17 +979,17 @@ function enleveBtRetour(e:Event):void{
                                                   <Point x="640.65" y="360.7"/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="Tableaux/tabNeige2" centerPoint3DX="574.95" centerPoint3DY="-245.25">
+                                        <DOMSymbolInstance libraryItemName="Tableaux/tabNeige2" centerPoint3DX="578.2" centerPoint3DY="-245.25">
                                              <matrix>
-                                                  <Matrix a="0.146652221679688" d="0.146652221679688" tx="481" ty="-298.15"/>
+                                                  <Matrix a="0.146652221679688" d="0.146652221679688" tx="484.25" ty="-298.15"/>
                                              </matrix>
                                              <transformationPoint>
                                                   <Point x="640.65" y="360.7"/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="Tableaux/tabNeige3" centerPoint3DX="376.3" centerPoint3DY="-245.25">
+                                        <DOMSymbolInstance libraryItemName="Tableaux/tabNeige3" centerPoint3DX="372.4" centerPoint3DY="-245.25">
                                              <matrix>
-                                                  <Matrix a="0.146652221679688" d="0.146652221679688" tx="282.35" ty="-298.15"/>
+                                                  <Matrix a="0.146652221679688" d="0.146652221679688" tx="278.45" ty="-298.15"/>
                                              </matrix>
                                              <transformationPoint>
                                                   <Point x="640.65" y="360.7"/>
@@ -1491,6 +1519,13 @@ function enleveBtRetour(e:Event):void{
      </persistentData>
      <PrinterSettings/>
      <publishHistory>
+          <PublishItem publishSize="17373548" publishTime="1478891768"/>
+          <PublishItem publishSize="17372985" publishTime="1478890565"/>
+          <PublishItem publishSize="17372992" publishTime="1478890221"/>
+          <PublishItem publishSize="17372992" publishTime="1478890208"/>
+          <PublishItem publishSize="17372983" publishTime="1478890123"/>
+          <PublishItem publishSize="17372983" publishTime="1478889590"/>
+          <PublishItem publishSize="17372983" publishTime="1478887854"/>
           <PublishItem publishSize="17365103" publishTime="1478884269"/>
           <PublishItem publishSize="17362665" publishTime="1478883510"/>
           <PublishItem publishSize="17362665" publishTime="1478883242"/>
@@ -1504,12 +1539,5 @@ function enleveBtRetour(e:Event):void{
           <PublishItem publishSize="17501078" publishTime="1478799081"/>
           <PublishItem publishSize="17501057" publishTime="1478798651"/>
           <PublishItem publishSize="17501028" publishTime="1478798492"/>
-          <PublishItem publishSize="17459257" publishTime="1478798479"/>
-          <PublishItem publishSize="17459256" publishTime="1478798450"/>
-          <PublishItem publishSize="17500933" publishTime="1478797831"/>
-          <PublishItem publishSize="17459233" publishTime="1478797800"/>
-          <PublishItem publishSize="17500907" publishTime="1478797655"/>
-          <PublishItem publishSize="17500907" publishTime="1478797635"/>
-          <PublishItem publishSize="17500898" publishTime="1478797525"/>
      </publishHistory>
 </DOMDocument>

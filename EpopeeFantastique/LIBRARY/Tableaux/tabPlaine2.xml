@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tableaux/tabPlaine2" itemID="582601c3-0000041d" lastModified="1478886200" lastUniqueIdentifier="146">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tableaux/tabPlaine2" itemID="582601c3-0000041d" linkageExportForAS="true" linkageBaseClass="Tableau" linkageClassName="TabPlaine2" lastModified="1478890643" lastUniqueIdentifier="146">
   <timeline>
     <DOMTimeline name="tabPlaine2">
       <layers>

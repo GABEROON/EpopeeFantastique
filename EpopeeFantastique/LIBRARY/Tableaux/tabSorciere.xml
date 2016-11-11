@@ -1,11 +1,44 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tableaux/tabSorciere" itemID="58260228-00000b6e" lastModified="1478885928" lastUniqueIdentifier="146">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tableaux/tabSorciere" itemID="58260228-00000b6e" linkageExportForAS="true" linkageBaseClass="Tableau" linkageClassName="TabSorciere" lastModified="1478891315" lastUniqueIdentifier="146">
   <timeline>
     <DOMTimeline name="tabSorciere">
       <layers>
         <DOMLayer name="teleports" color="#FF800A" current="true" isSelected="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
-              <elements/>
+              <elements>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/Interactifs/Porte" name="porte_Pecheur_mc">
+                  <matrix>
+                    <Matrix a="0" b="0.395599365234375" c="-32.9813385009766" d="0" tx="1282.8" ty="-31.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="40.95" y="19.45"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Interfaces/teleport" name="teleport_Pecheur_mc">
+                  <matrix>
+                    <Matrix tx="676.55" ty="58.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/Interactifs/Porte" name="porte_Plaine2_mc">
+                  <matrix>
+                    <Matrix a="-0.395599365234375" d="-18.7061462402344" tx="1309.65" ty="720.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="40.95" y="19.45"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Interfaces/teleport" name="teleport_Plaine2_mc">
+                  <matrix>
+                    <Matrix tx="1213.15" ty="376.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
             </DOMFrame>
           </frames>
         </DOMLayer>

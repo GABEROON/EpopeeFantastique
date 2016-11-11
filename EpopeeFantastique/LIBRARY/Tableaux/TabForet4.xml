@@ -1,8 +1,8 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tableaux/TabForet4" itemID="5825fffa-000003d5" lastModified="1478885370" lastUniqueIdentifier="146">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tableaux/TabForet4" itemID="5825fffa-000003d5" linkageExportForAS="true" linkageBaseClass="Tableau" linkageClassName="TabForet4" lastModified="1478890642" lastUniqueIdentifier="146">
   <timeline>
     <DOMTimeline name="TabForet4">
       <layers>
-        <DOMLayer name="teleports" color="#FF800A" current="true" isSelected="true" autoNamed="false">
+        <DOMLayer name="teleports" color="#FF800A" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements/>
@@ -23,10 +23,59 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="portes" color="#9933CC" autoNamed="false">
+        <DOMLayer name="portes" color="#9933CC" current="true" isSelected="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
-              <elements/>
+              <elements>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/Interactifs/Porte" name="porte_Foret_mc">
+                  <matrix>
+                    <Matrix a="0.653671264648438" d="19.1087036132812" tx="-51.85" ty="-12.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="41" y="19.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/Interactifs/Porte" name="porte_Foret3_mc">
+                  <matrix>
+                    <Matrix a="0" b="0.653671264648438" c="-33.3667297363281" d="0" tx="1281.35" ty="720.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="41" y="19.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/Interactifs/Porte" name="porte_Pecheur_mc">
+                  <matrix>
+                    <Matrix a="0.653671264648438" d="19.1086883544922" tx="1281.35" ty="-12.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="41" y="19.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Interfaces/teleport" name="teleport_Pecheur_mc">
+                  <matrix>
+                    <Matrix tx="1221.9" ty="396.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Interfaces/teleport" name="teleport_Foret_mc">
+                  <matrix>
+                    <Matrix tx="69.55" ty="396.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Interfaces/teleport" name="teleport_Foret3_mc">
+                  <matrix>
+                    <Matrix tx="671.05" ty="674.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
             </DOMFrame>
           </frames>
         </DOMLayer>
