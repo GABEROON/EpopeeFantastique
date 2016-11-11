@@ -9,6 +9,7 @@
 	public class MenuInfo extends MovieClip {
 		private var _tPersos:Array;
 		private var _jeu:MovieClip;
+		private var _scaleObjet:Number = 0.55;
 		
 		public function MenuInfo(tPersos) {
 			// CONSTRUCTEUR
@@ -108,16 +109,23 @@
 		******************************************************************************/
 		private function afficherLesObjets():void {
 			var tObjets:Array = _jeu.getTObjets();
+			enleverLesObjets();
 			if(tObjets.length>0){
 				//inventaire_txt.text = "• "+_jeu.getTObjets().join("\n• ");
 				inventaire_txt.text = "";
 				
-				for(var i:int = 0; i<tObjets.length-1; i++){
+				for(var i:int = 0; i<tObjets.length-1; i++){ //Note : Les valeurs en pixels sont un peu biaisées par le scale
 					var o:MovieClip = _jeu.getTObjets()[i];
+					o.scaleX=_scaleObjet;
+					o.scaleY=_scaleObjet;
 					o.scaleX/= invMenuInfo.scaleX;
 					o.scaleY/= invMenuInfo.scaleY; // Pour que l'objet ne soit pas toute tordu
 					invMenuInfo.addChild(o);
-					o.x = o.width*i + 10*i;
+					o.x = o.width*Math.floor(i/2) + 10*Math.floor(i/2) + 5;
+					o.y = 40;
+					if(i%2==0){
+						o.y+=260; 
+					}
 					
 				}//for 
 				
@@ -126,6 +134,12 @@
 			} //if+else
 			or_txt.text = _jeu.getFortune();
 		} //afficherLesObjets
+		
+		private function enleverLesObjets():void{
+			while(invMenuInfo.numChildren>1){
+				removeChildAt(numChildren-1);
+			}
+		}
 		
 		/******************************************************************************
 		Fonction frappeClavierMenuInfo
