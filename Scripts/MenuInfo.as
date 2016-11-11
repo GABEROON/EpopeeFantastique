@@ -107,8 +107,20 @@
 		  Elle affiche une liste des objets obtenus par les personnages.
 		******************************************************************************/
 		private function afficherLesObjets():void {
-			if(_jeu.getTObjets().length>0){
-				inventaire_txt.text = "• "+_jeu.getTObjets().join("\n• ");
+			var tObjets:Array = _jeu.getTObjets();
+			if(tObjets.length>0){
+				//inventaire_txt.text = "• "+_jeu.getTObjets().join("\n• ");
+				inventaire_txt.text = "";
+				
+				for(var i:int = 0; i<tObjets.length-1; i++){
+					var o:MovieClip = _jeu.getTObjets()[i];
+					o.scaleX/= invMenuInfo.scaleX;
+					o.scaleY/= invMenuInfo.scaleY; // Pour que l'objet ne soit pas toute tordu
+					invMenuInfo.addChild(o);
+					o.x = o.width*i + 10*i;
+					
+				}//for 
+				
 			} else {
 				inventaire_txt.text = "(Aucun objet)";
 			} //if+else

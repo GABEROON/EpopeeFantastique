@@ -1,8 +1,8 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Interfaces/MenuInfo" itemID="54236442-000003ee" linkageExportForAS="true" linkageClassName="MenuInfo" lastModified="1478280469" lastUniqueIdentifier="20">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Interfaces/MenuInfo" itemID="54236442-000003ee" linkageExportForAS="true" linkageClassName="MenuInfo" lastModified="1478825440" lastUniqueIdentifier="20">
   <timeline>
     <DOMTimeline name="MenuInfo">
       <layers>
-        <DOMLayer name="inventaire" color="#9933CC" autoNamed="false">
+        <DOMLayer name="inventaire" color="#9933CC" current="true" isSelected="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
@@ -19,15 +19,23 @@
                     </DOMTextRun>
                   </textRuns>
                 </DOMStaticText>
-                <DOMDynamicText name="inventaire_txt" fontRenderingMode="standard" top="58.5" left="108.5" width="906.95" height="150" isSelectable="false">
+                <DOMSymbolInstance libraryItemName="Interfaces/symbolesMagasin/inventaire" name="invMenuInfo">
                   <matrix>
-                    <Matrix tx="40.5" ty="467.45"/>
+                    <Matrix a="2.41531372070313" d="0.289474487304688" tx="143.55" ty="528.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="200" y="280"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMDynamicText name="inventaire_txt" fontRenderingMode="standard" top="78" width="958.4" height="58.1" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="145.55" ty="499.85"/>
                   </matrix>
                   <textRuns>
                     <DOMTextRun>
-                      <characters> </characters>
+                      <characters>Aucun objet</characters>
                       <textAttrs>
-                        <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="-2" lineHeight="58.1" size="36" bitmapSize="720" face="VinerHandITC*"/>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineSpacing="-2" lineHeight="58.1" size="36" bitmapSize="720" face="VinerHandITC*"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>
@@ -36,11 +44,11 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="fiches" color="#FF4FFF" current="true" isSelected="true" autoNamed="false">
+        <DOMLayer name="fiches" color="#FF4FFF" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Interfaces/fichePerso2" name="fiche0" selected="true" centerPoint3DX="177" centerPoint3DY="151.35">
+                <DOMSymbolInstance libraryItemName="Interfaces/fichePerso2" name="fiche0" centerPoint3DX="177" centerPoint3DY="151.35">
                   <matrix>
                     <Matrix tx="21.8" ty="76.1"/>
                   </matrix>

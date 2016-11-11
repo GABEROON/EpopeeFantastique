@@ -328,11 +328,8 @@
 			_peutChoisir = true;
 			barreActions_mc.addEventListener(MouseEvent.CLICK, choisirAction);
 			barreActions_mc.alpha = 1;
-			if(_tPersos[_iPerso].getPMAct()<15){
-				barreActions_mc.btMagie.alpha=0.25;
-			}else{
-				barreActions_mc.btMagie.alpha=1;
-			}
+			if(_tPersos[_iPerso].getPMAct()<15)barreActions_mc.btMagie.alpha=0.25;
+			else barreActions_mc.btMagie.alpha=1;
 		} //activerLesChoix
 		
 		/******************************************************************************
@@ -435,7 +432,7 @@
 							trace(lePerso.getNom()+" a maintenant "+lePerso.getPMAct()+" points de magie");
 							calculerDommages();
 							_tMonstres[_iMonstreCible].blesser(_dommages);
-							lePerso.afficherStats();
+							
 							addChild(degat_mc);
 							degat_mc.x=_tMonstres[_iMonstreCible].x-degat_mc.width/2;
 							degat_mc.y=_tMonstres[_iMonstreCible].y-degat_mc.height/2;
@@ -474,7 +471,8 @@
 				if(_tMonstres[_iMonstreCible].getPVAct()<=0){ 
 					_iMonstreCible++;// si le monstre est mort, on change de cible
 				} //if
-
+				
+				lePerso.afficherStats();
 				afficherEtape(_messAction);
 				
 			} //if(lePerso.getPVAct()>0)
