@@ -1,0 +1,39 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Animations/Generique/titres_des_musiques/g2e" itemID="528c1174-000005ec" lastModified="1384971524">
+  <timeline>
+    <DOMTimeline name="g2e">
+      <layers>
+        <DOMLayer name="Calque 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+<<<<<<< Updated upstream
+                <DOMStaticText fontRenderingMode="standard" left="30.05" width="83.9" height="69" autoExpand="true" isSelectable="false">
+=======
+                <DOMStaticText fontRenderingMode="standard" left="-6" width="156" height="58" autoExpand="true" isSelectable="false">
+>>>>>>> Stashed changes
+                  <matrix>
+                    <Matrix tx="-28" ty="2"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>"Dark Pad"&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="32" size="32" bitmapSize="640" face="PoliceGillSansMtExtCondensedBold*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>(grotte)</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="24" size="24" bitmapSize="480" face="PoliceGillSansMtExtCondensedBold*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,380 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tableaux/TabSalleDuRoi" itemID="57f12051-000000b9" linkageExportForAS="true" linkageBaseClass="Tableau" linkageClassName="TabSalleDuRoi" lastModified="1478890642" lastUniqueIdentifier="68">
+  <timeline>
+    <DOMTimeline name="TabSalleDuRoi">
+      <layers>
+        <DOMLayer name="teleports" color="#FF800A" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Interfaces/teleport" name="teleport_Chateau_mc" centerPoint3DX="646.6" centerPoint3DY="168">
+                  <matrix>
+                    <Matrix tx="634.1" ty="143"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="12.5" y="25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="persos" color="#FF800A" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="PersosEtMonstres/PNJ/PNJPaysan" name="pnjGarde4_mc" centerPoint3DX="780.9" centerPoint3DY="138.65">
+                  <matrix>
+                    <Matrix a="0.5" d="0.5" tx="769.45" ty="109.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="22.9" y="57.4"/>
+                  </transformationPoint>
+                  <filters>
+                    <AdjustColorFilter brightness="-19" hue="-60"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="PersosEtMonstres/PNJ/PNJPaysan" name="pnjGarde3_mc" centerPoint3DX="455.3" centerPoint3DY="138">
+                  <matrix>
+                    <Matrix a="0.5" d="0.5" tx="443.85" ty="109.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="22.9" y="57.4"/>
+                  </transformationPoint>
+                  <filters>
+                    <AdjustColorFilter hue="180"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="PersosEtMonstres/PNJ/PNJRoi" name="pnjRoi_mc" centerPoint3DX="647.55" centerPoint3DY="490.35">
+                  <matrix>
+                    <Matrix a="0.5" d="0.5" tx="629.85" ty="456.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="35.4" y="67.9"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="PersosEtMonstres/PNJ/PNJNova" name="pnjNova_mc" centerPoint3DX="548.3" centerPoint3DY="496.75">
+                  <matrix>
+                    <Matrix a="0.5" d="0.5" tx="531.55" ty="467.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="33.5" y="58.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="portes" color="#9933CC" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/Interactifs/Porte" name="porte_Chateau_mc" centerPoint3DX="635.2" centerPoint3DY="14.95">
+                  <matrix>
+                    <Matrix a="7.68771362304688" d="1.54042053222656" tx="319.95" ty="-15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="40.9" y="19.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="mursDeco" color="#9933CC" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMRectangleObject objectWidth="272.45" objectHeight="52" x="324.05" y="50" lockFlag="true">
+                  <matrix>
+                    <Matrix ty="-4"/>
+                  </matrix>
+                  <fill>
+                    <LinearGradient>
+                      <matrix>
+                        <Matrix a="0" b="0.02911376953125" c="-0.03173828125" d="0" tx="460.25" ty="76"/>
+                      </matrix>
+                      <GradientEntry color="#3C3622" ratio="0"/>
+                      <GradientEntry color="#2D1800" ratio="1"/>
+                    </LinearGradient>
+                  </fill>
+                  <stroke>
+                    <SolidStroke scaleMode="normal" weight="3.45">
+                      <fill>
+                        <SolidColor/>
+                      </fill>
+                    </SolidStroke>
+                  </stroke>
+                </DOMRectangleObject>
+                <DOMRectangleObject objectWidth="273" objectHeight="52" x="324.05" y="50" lockFlag="true">
+                  <matrix>
+                    <Matrix tx="351.95" ty="-6"/>
+                  </matrix>
+                  <fill>
+                    <LinearGradient>
+                      <matrix>
+                        <Matrix a="0" b="0.02911376953125" c="-0.03173828125" d="0" tx="460.25" ty="76"/>
+                      </matrix>
+                      <GradientEntry color="#3C3622" ratio="0"/>
+                      <GradientEntry color="#2D1800" ratio="1"/>
+                    </LinearGradient>
+                  </fill>
+                  <stroke>
+                    <SolidStroke scaleMode="normal" weight="3.45">
+                      <fill>
+                        <SolidColor/>
+                      </fill>
+                    </SolidStroke>
+                  </stroke>
+                </DOMRectangleObject>
+                <DOMShape isDrawingObject="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="0" b="0.02911376953125" c="-0.0733795166015625" d="0" tx="637.45" ty="692.25"/>
+                        </matrix>
+                        <GradientEntry color="#3C3622" ratio="0"/>
+                        <GradientEntry color="#2D1800" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="3.45">
+                        <fill>
+                          <SolidColor/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!6450 13325|19030 13325!19030 13325|19030 14365!19030 14365|6450 14365!6450 14365|6450 13325"/>
+                    <Edge cubics="!19030 13325(19030,13325;19030,13325 19030,14365 19030,14365q19030 13325 19030 14365);"/>
+                    <Edge cubics="!6450 14365(6450,14365;6450,14365 6450,13325 6450,13325q6450 14365 6450 13325);"/>
+                    <Edge cubics="!6450 13325(;6450,13325 19030,13325 19030,13325q6450 13325 19030 13325);"/>
+                    <Edge cubics="!19030 14365(;19030,14365 6450,14365 6450,14365q19030 14365 6450 14365);"/>
+                  </edges>
+                </DOMShape>
+                <DOMRectangleObject objectWidth="272.45" objectHeight="52" x="324.05" y="50" lockFlag="true">
+                  <matrix>
+                    <Matrix a="0" b="-2.08538818359375" c="0.3140869140625" d="0" tx="307.35" ty="1341.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="460.15" y="75.95"/>
+                  </transformationPoint>
+                  <fill>
+                    <LinearGradient>
+                      <matrix>
+                        <Matrix a="0" b="0.02911376953125" c="-0.03173828125" d="0" tx="460.25" ty="76"/>
+                      </matrix>
+                      <GradientEntry color="#3C3622" ratio="0"/>
+                      <GradientEntry color="#2D1800" ratio="1"/>
+                    </LinearGradient>
+                  </fill>
+                  <stroke>
+                    <SolidStroke scaleMode="normal" weight="3.45">
+                      <fill>
+                        <SolidColor/>
+                      </fill>
+                    </SolidStroke>
+                  </stroke>
+                </DOMRectangleObject>
+                <DOMRectangleObject objectWidth="272.45" objectHeight="52" x="324.05" y="50" lockFlag="true">
+                  <matrix>
+                    <Matrix a="0" b="-2.08538818359375" c="0.3140869140625" d="0" tx="918.5" ty="1341.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="460.15" y="75.95"/>
+                  </transformationPoint>
+                  <fill>
+                    <LinearGradient>
+                      <matrix>
+                        <Matrix a="0" b="0.02911376953125" c="-0.03173828125" d="0" tx="460.25" ty="76"/>
+                      </matrix>
+                      <GradientEntry color="#3C3622" ratio="0"/>
+                      <GradientEntry color="#2D1800" ratio="1"/>
+                    </LinearGradient>
+                  </fill>
+                  <stroke>
+                    <SolidStroke scaleMode="normal" weight="3.45">
+                      <fill>
+                        <SolidColor/>
+                      </fill>
+                    </SolidStroke>
+                  </stroke>
+                </DOMRectangleObject>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="clotures" color="#4FFFFF" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsCloture" name="clotureO_mc" centerPoint3DX="327.85" centerPoint3DY="361.05">
+                  <matrix>
+                    <Matrix d="1.05741882324219" tx="321.5" ty="46"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="6.35" y="297.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsCloture" name="clotureO_mc" centerPoint3DX="945.1" centerPoint3DY="359.05">
+                  <matrix>
+                    <Matrix d="1.05741882324219" tx="938.75" ty="44"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="6.35" y="297.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsCloture" name="clotureO_mc" centerPoint3DX="636.45" centerPoint3DY="673.6">
+                  <matrix>
+                    <Matrix a="0" b="1" c="-1.05741882324219" d="0" tx="951.5" ty="667.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="6.35" y="297.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsCloture" name="clotureO_mc" centerPoint3DX="459.55" centerPoint3DY="51.65">
+                  <matrix>
+                    <Matrix a="0" b="-1" c="0.461578369140625" d="0" tx="321.5" ty="58.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="6.35" y="297.9"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsCloture" name="clotureO_mc" centerPoint3DX="814.05" centerPoint3DY="51.65">
+                  <matrix>
+                    <Matrix a="0" b="-1" c="0.461578369140625" d="0" tx="676" ty="58.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="6.35" y="297.9"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="masquePlancher" color="#9933CC" locked="true" autoNamed="false" layerType="mask">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isDrawingObject="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#00FF00"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!18764 13843|6681 13843!6681 13843|6681 920!6681 920|18764 920!18764 920|18764 13843"/>
+                    <Edge cubics="!18764 920(18764,920;18764,920 18764,13843 18764,13843q18764 920 18764 13843);"/>
+                    <Edge cubics="!6681 13843(6681,13843;6681,13843 6681,920 6681,920q6681 13843 6681 920);"/>
+                    <Edge cubics="!6681 920(6681,920;6681,920 18764,920 18764,920q6681 920 18764 920);"/>
+                    <Edge cubics="!18764 13843(18764,13843;18764,13843 6681,13843 6681,13843q18764 13843 6681 13843);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="lumiere" color="#FF800A" parentLayerIndex="5" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="ElementsANommerEtClasser/Symbole 96" centerPoint3DX="638" centerPoint3DY="390.15">
+                  <matrix>
+                    <Matrix a="1.8499755859375" d="1.8499755859375" tx="210.75" ty="-37.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="230.95" y="231.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="plancher" color="#9933CC" parentLayerIndex="5" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <RadialGradient>
+                        <matrix>
+                          <Matrix a="0.989791870117188" d="0.7454833984375" tx="638.15" ty="356"/>
+                        </matrix>
+                        <GradientEntry color="#FFC400" ratio="0"/>
+                        <GradientEntry color="#2D1800" ratio="1"/>
+                      </RadialGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!19005 920|6481 920!6481 920|6481 13483!6481 13483|19004 13483!19004 13483|19005 920"/>
+                  </edges>
+                </DOMShape>
+                <DOMGroup>
+                  <members>
+                    <DOMSymbolInstance libraryItemName="ElementsANommerEtClasser/Symbole 101" centerPoint3DX="635.2" centerPoint3DY="372.95">
+                      <matrix>
+                        <Matrix a="0.707107543945313" b="-0.707107543945313" c="0.707107543945313" d="0.707107543945313" tx="191.75" ty="372.2"/>
+                      </matrix>
+                      <transformationPoint>
+                        <Point x="313.05" y="314.1"/>
+                      </transformationPoint>
+                    </DOMSymbolInstance>
+                    <DOMSymbolInstance libraryItemName="ElementsANommerEtClasser/Symbole 101" centerPoint3DX="634.25" centerPoint3DY="373.9">
+                      <matrix>
+                        <Matrix a="0.707107543945313" b="0.707107543945313" c="-0.707107543945313" d="0.707107543945313" tx="634.9" ty="-69.55"/>
+                      </matrix>
+                      <transformationPoint>
+                        <Point x="313.1" y="314.05"/>
+                      </transformationPoint>
+                    </DOMSymbolInstance>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="fond" color="#9933CC" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!25600 14400|0 14400!0 14400|0 0!0 0|25600 0!25600 0|25600 14400"/>
+                    <Edge fillStyle0="1" fillStyle1="1" strokeStyle="1" edges="!11117 3898|11117 9416.5!11117 9416.5|7874 9416.5"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

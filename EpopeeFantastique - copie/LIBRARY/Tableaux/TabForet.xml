@@ -1,0 +1,569 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tableaux/TabForet" itemID="57f1206e-000000be" linkageExportForAS="true" linkageBaseClass="Tableau" linkageClassName="TabForet" lastModified="1478890642" lastUniqueIdentifier="145">
+  <timeline>
+    <DOMTimeline name="TabForet">
+      <layers>
+        <DOMLayer name="teleports" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Interfaces/teleport" name="teleport_Village_mc" centerPoint3DX="402.5" centerPoint3DY="718.25">
+                  <matrix>
+                    <Matrix tx="390" ty="693.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="12.5" y="25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="perso" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="clotures" color="#4FFFFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="portes" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/Interactifs/Porte" name="porte_Village_mc" centerPoint3DX="639.6" centerPoint3DY="730">
+                  <matrix>
+                    <Matrix a="15.6191864013672" d="1.02694702148438" ty="710"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="40.95" y="19.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/Interactifs/Porte" name="porte_Foret4_mc" centerPoint3DX="1299.15" centerPoint3DY="358.6">
+                  <matrix>
+                    <Matrix a="-0.488067626953125" d="18.4854736328125" tx="1320"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="40.9" y="19.4"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Interfaces/teleport" name="teleport_Foret4_mc" centerPoint3DX="1240.7" centerPoint3DY="447.1">
+                  <matrix>
+                    <Matrix tx="1228.2" ty="422.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="12.5" y="25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsBosquet" centerPoint3DX="955.85" centerPoint3DY="257.75">
+                  <matrix>
+                    <Matrix a="0.899993896484375" d="0.899993896484375" tx="944.3" ty="274.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16.65" y="-19.3"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.2"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsBosquet">
+                  <matrix>
+                    <Matrix a="-1" tx="943.4" ty="288.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16.65" y="-19.35"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.1"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsBosquet">
+                  <matrix>
+                    <Matrix tx="963.1" ty="294.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16.65" y="-19.35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsBosquet" centerPoint3DX="218.3" centerPoint3DY="550.65">
+                  <matrix>
+                    <Matrix a="1.09996032714844" d="1.09996032714844" tx="202.55" ty="562.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16.75" y="-19.35"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.2"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="arbres_roches" color="#4FFF4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsConifere">
+                  <matrix>
+                    <Matrix tx="885.95" ty="73.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="18.2" y="50.7"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsConifere">
+                  <matrix>
+                    <Matrix tx="957.9" ty="59"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="18.2" y="50.7"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsConifere">
+                  <matrix>
+                    <Matrix tx="755.85" ty="525.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="18.2" y="50.7"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsConifere">
+                  <matrix>
+                    <Matrix tx="1099.45" ty="42.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="18.2" y="50.7"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsConifere">
+                  <matrix>
+                    <Matrix tx="757.85" ty="139.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="18.2" y="50.7"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsConifere">
+                  <matrix>
+                    <Matrix tx="759.85" ty="19.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="18.2" y="50.7"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsConifere">
+                  <matrix>
+                    <Matrix tx="1027.55" ty="34.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="18.2" y="50.7"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsConifere" centerPoint3DX="727.05" centerPoint3DY="136.2">
+                  <matrix>
+                    <Matrix a="-1" tx="740.3" ty="185.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="18.2" y="50.7"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsConifere">
+                  <matrix>
+                    <Matrix tx="709.9" ty="71.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="18.2" y="50.7"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsConifere">
+                  <matrix>
+                    <Matrix tx="26" ty="466"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="18.2" y="50.7"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsConifere" centerPoint3DX="80.15" centerPoint3DY="450.75">
+                  <matrix>
+                    <Matrix tx="61.95" ty="400.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="18.2" y="50.7"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsConifere">
+                  <matrix>
+                    <Matrix a="-1" tx="100.35" ty="540"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="18.2" y="50.7"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsConifere">
+                  <matrix>
+                    <Matrix a="-1" tx="100.35" ty="274.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="18.2" y="50.7"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsConifere">
+                  <matrix>
+                    <Matrix tx="65.95" ty="154.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="18.2" y="50.7"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsConifere">
+                  <matrix>
+                    <Matrix tx="67.95" ty="34.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="18.2" y="50.7"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsConifere">
+                  <matrix>
+                    <Matrix tx="14" ty="332.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="18.2" y="50.7"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsConifere">
+                  <matrix>
+                    <Matrix tx="18" ty="200.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="18.2" y="50.7"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsConifere">
+                  <matrix>
+                    <Matrix tx="18" ty="86.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="18.2" y="50.7"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche" centerPoint3DX="616.1" centerPoint3DY="566.15">
+                  <matrix>
+                    <Matrix tx="578.8" ty="532.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche2" centerPoint3DX="268.9" centerPoint3DY="580.15">
+                  <matrix>
+                    <Matrix tx="231.6" ty="546.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche2" centerPoint3DX="580.9" centerPoint3DY="359.65">
+                  <matrix>
+                    <Matrix tx="543.6" ty="326.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche" centerPoint3DX="324.9" centerPoint3DY="261.35">
+                  <matrix>
+                    <Matrix tx="287.6" ty="227.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche" centerPoint3DX="535.7" centerPoint3DY="281.35">
+                  <matrix>
+                    <Matrix a="-1" tx="573" ty="247.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche" centerPoint3DX="400.85" centerPoint3DY="487.8">
+                  <matrix>
+                    <Matrix a="-1" tx="438.15" ty="454.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche" centerPoint3DX="580.9" centerPoint3DY="161.4">
+                  <matrix>
+                    <Matrix a="-1" tx="618.2" ty="127.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche" centerPoint3DX="160.95" centerPoint3DY="432.15">
+                  <matrix>
+                    <Matrix tx="123.65" ty="398.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche" centerPoint3DX="243.7" centerPoint3DY="151.4">
+                  <matrix>
+                    <Matrix a="-1" tx="281" ty="117.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche2" centerPoint3DX="474.8" centerPoint3DY="169.75">
+                  <matrix>
+                    <Matrix tx="437.5" ty="136.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsConifere">
+                  <matrix>
+                    <Matrix tx="507.95" ty="523.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="18.2" y="50.7"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsConifere">
+                  <matrix>
+                    <Matrix tx="296.5" ty="88.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="18.2" y="50.7"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsArbre" centerPoint3DX="250.4" centerPoint3DY="308.45">
+                  <matrix>
+                    <Matrix a="1.39997863769531" d="1.39997863769531" tx="225.45" ty="385.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="18.2" y="50.7"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsArbre" centerPoint3DX="651.5" centerPoint3DY="105.6">
+                  <matrix>
+                    <Matrix a="1.24998474121094" d="1.24998474121094" tx="629.15" ty="174.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="18.2" y="50.7"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsConifere">
+                  <matrix>
+                    <Matrix tx="140.15" ty="183"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="18.2" y="50.7"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsConifere">
+                  <matrix>
+                    <Matrix tx="382.65" ty="169.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="18.2" y="50.7"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsConifere">
+                  <matrix>
+                    <Matrix tx="471.7" ty="375.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="18.2" y="50.7"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsArbre" centerPoint3DX="337.4" centerPoint3DY="356.15">
+                  <matrix>
+                    <Matrix a="1.50001525878906" d="1.50001525878906" tx="310.5" ty="438.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="18.25" y="50.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsConifere">
+                  <matrix>
+                    <Matrix tx="141.35" ty="511.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="18.2" y="50.7"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsConifere" centerPoint3DX="661.9" centerPoint3DY="462.75">
+                  <matrix>
+                    <Matrix tx="643.7" ty="412.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="18.2" y="50.7"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsConifere">
+                  <matrix>
+                    <Matrix tx="1196.7" ty="304.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="18.2" y="50.7"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsConifere">
+                  <matrix>
+                    <Matrix tx="1200.7" ty="64.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="18.2" y="50.7"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsConifere">
+                  <matrix>
+                    <Matrix tx="1150.75" ty="111.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="18.2" y="50.7"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsArbre" centerPoint3DX="1230.6" centerPoint3DY="136.5">
+                  <matrix>
+                    <Matrix a="1.20001220703125" d="1.20001220703125" tx="1209.05" ty="202.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="18.2" y="50.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsConifere">
+                  <matrix>
+                    <Matrix tx="1150.75" ty="362.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="18.2" y="50.7"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsArbre" centerPoint3DX="1175.55" centerPoint3DY="183.1">
+                  <matrix>
+                    <Matrix a="-1.29997253417969" d="1.29997253417969" tx="1198.85" ty="254.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="18.25" y="50.7"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsConifere" centerPoint3DX="58.85" centerPoint3DY="573.35">
+                  <matrix>
+                    <Matrix a="1.09999084472656" d="1.09999084472656" tx="44.25" ty="627.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="18.25" y="50.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsConifere" centerPoint3DX="1149.25" centerPoint3DY="610.3">
+                  <matrix>
+                    <Matrix a="1.14999389648438" d="1.14999389648438" tx="1134.05" ty="667.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="18.2" y="50.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsConifere">
+                  <matrix>
+                    <Matrix a="1.09999084472656" d="1.09999084472656" tx="1211.85" ty="581.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="18.2" y="50.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche2" centerPoint3DX="983.8" centerPoint3DY="538.5">
+                  <matrix>
+                    <Matrix tx="946.5" ty="505"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche" centerPoint3DX="980.8" centerPoint3DY="564.5">
+                  <matrix>
+                    <Matrix a="-1" tx="1018.1" ty="531"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche" centerPoint3DX="1023.8" centerPoint3DY="578.5">
+                  <matrix>
+                    <Matrix tx="986.5" ty="545"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="objets" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/Interactifs/ObjetsUtiles/ObjPatate" name="patate1_mc" centerPoint3DX="217.35" centerPoint3DY="107.15">
+                  <matrix>
+                    <Matrix a="0.199996948242188" d="0.199996948242188" tx="209.3" ty="95.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="40.25" y="56.5"/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter angle="224.999989754717" color="#400000" distance="2" inner="true" quality="2"/>
+                    <DropShadowFilter blurX="2" blurY="2" distance="2" strength="0.5"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/Interactifs/ObjetsUtiles/ObjPatate" name="patate2_mc" centerPoint3DX="57.2" centerPoint3DY="340.8">
+                  <matrix>
+                    <Matrix a="1.52587890625e-05" b="0.199996948242188" c="-0.199996948242188" d="1.52587890625e-05" tx="68.7" ty="332.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="40.75" y="56.5"/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter angle="224.999989754717" color="#400000" distance="2" inner="true" quality="2"/>
+                    <DropShadowFilter blurX="2" blurY="2" distance="2" strength="0.5"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="fond" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#608301"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!25613 14413|13 14413!13 14413|13 13!13 13|25613 13!25613 13|25613 14413"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

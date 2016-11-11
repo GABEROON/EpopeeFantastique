@@ -1,0 +1,88 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Interpoler 2" itemID="582348b1-000002ce" symbolType="graphic" lastModified="1478707377">
+  <timeline>
+    <DOMTimeline name="Interpoler 2">
+      <layers>
+        <DOMLayer name="Calque 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isFloating="true">
+                  <matrix>
+                    <Matrix tx="-2.05" ty="65.2"/>
+                  </matrix>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="0.3">
+                        <fill>
+                          <SolidColor/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!14 -1537S4[47 -1524 71 -1507!71 -1507[99 -1487 104 -1452!104 -1452[104 -1444 99 -1432!99 -1432[91 -1424 84 -1424!84 -1424[58 -1414 31 -1414!31 -1414[21 -1414 16 -1417!16 -1417[9 -1424 14 -1432"/>
+                    <Edge cubics="!14 -1537(;34,-1529 54,-1519 71,-1507q14 -1537Q47 -1524q71 -1507)71,-1507;"/>
+                    <Edge cubics="!71 -1507(;89,-1494 101,-1474 104,-1452q71 -1507Q99 -1487q104 -1452);"/>
+                    <Edge cubics="!104 -1452(104,-1452;104,-1444 101,-1437 99,-1432q104 -1452Q104 -1444q99 -1432)99,-1432;"/>
+                    <Edge cubics="!99 -1432(;94,-1427 89,-1424 84,-1424q99 -1432Q91 -1424q84 -1424)84,-1424;"/>
+                    <Edge cubics="!84 -1424(84,-1424;66,-1417 49,-1414 31,-1414q84 -1424Q58 -1414q31 -1414);"/>
+                    <Edge cubics="!31 -1414(31,-1414;26,-1414 21,-1414 16,-1417q31 -1414Q21 -1414q16 -1417)16,-1417;"/>
+                    <Edge cubics="!16 -1417(;11,-1422 11,-1427 14,-1432q16 -1417Q9 -1424q14 -1432)14,-1432;"/>
+                  </edges>
+                </DOMShape>
+                <DOMSymbolInstance libraryItemName="PersosEtMonstres/Composantes/horas/side/teteCoteHoras" selected="true" centerPoint3DX="2.1" centerPoint3DY="2.05">
+                  <matrix>
+                    <Matrix a="1.0830078125" b="-0.273895263671875" c="0.290252685546875" d="1.14768981933594" tx="-6.65" ty="-6.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="3.35" y="8.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="PersosEtMonstres/Composantes/horas/side/cheveuxCoteHoras" selected="true" centerPoint3DX="1.3" centerPoint3DY="-18.85">
+                  <matrix>
+                    <Matrix a="-0.999984741210938" d="0.764724731445312" tx="31.15" ty="-35.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="29.6" y="20.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="PersosEtMonstres/Composantes/horas/haut_bas/copie teteHoras/oeilDroiteHoras" selected="true" centerPoint3DX="19.7" centerPoint3DY="-2.2">
+                  <matrix>
+                    <Matrix a="-0.999984741210938" tx="25.95" ty="-9.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="6.2" y="7.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="PersosEtMonstres/Composantes/horas/haut_bas/couetteHoras" selected="true" centerPoint3DX="-14.4" centerPoint3DY="-9.35">
+                  <matrix>
+                    <Matrix a="0.93646240234375" b="0.429367065429688" c="-0.745147705078125" d="1.62538146972656" tx="-11.95" ty="-25.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="5" y="1.55"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="PersosEtMonstres/Composantes/horas/side/paupiereHoras" selected="true" centerPoint3DX="21.3" centerPoint3DY="-7.45">
+                  <matrix>
+                    <Matrix tx="19.25" ty="-13.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.75" y="7.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="PersosEtMonstres/Composantes/horas/side/boucheHorsaCombat" selected="true" centerPoint3DX="16.35" centerPoint3DY="15.8">
+                  <matrix>
+                    <Matrix tx="13.45" ty="15.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.9" y="0.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

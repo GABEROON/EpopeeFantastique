@@ -22,7 +22,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMStaticText fontRenderingMode="standard" width="63.6" height="26.3" autoExpand="true" includeOutlines="true" isSelectable="false">
+                <DOMStaticText fontRenderingMode="standard" width="125.85" height="22" autoExpand="true" includeOutlines="true" isSelectable="false">
                   <matrix>
                     <Matrix d="0.999984741210938" tx="106" ty="72"/>
                   </matrix>
@@ -33,7 +33,7 @@
                     <DOMTextRun>
                       <characters>Points de vie</characters>
                       <textAttrs>
-                        <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="26.3" size="22" bitmapSize="440" face="PoliceGillSansMtExtCondensedBold*"/>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="22" size="22" bitmapSize="440" face="PoliceGillSansMtExtCondensedBold*"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>
@@ -49,12 +49,12 @@
                     <DOMTextRun>
                       <characters>0</characters>
                       <textAttrs>
-                        <DOMTextAttrs alignment="right" aliasText="false" autoKern="false" lineHeight="41.95" size="26" bitmapSize="520" face="VinerHandITC*"/>
+                        <DOMTextAttrs alignment="right" aliasText="false" autoKern="false" lineHeight="26" size="26" bitmapSize="520" face="VinerHandITC*"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>
                 </DOMDynamicText>
-                <DOMStaticText fontRenderingMode="standard" width="30.8" height="26.3" autoExpand="true" includeOutlines="true" isSelectable="false">
+                <DOMStaticText fontRenderingMode="standard" width="59.95" height="22" autoExpand="true" includeOutlines="true" isSelectable="false">
                   <matrix>
                     <Matrix d="0.999984741210938" tx="106" ty="112"/>
                   </matrix>
@@ -65,7 +65,7 @@
                     <DOMTextRun>
                       <characters>Magie</characters>
                       <textAttrs>
-                        <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="26.3" size="22" bitmapSize="440" face="PoliceGillSansMtExtCondensedBold*"/>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="22" size="22" bitmapSize="440" face="PoliceGillSansMtExtCondensedBold*"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>
@@ -81,12 +81,12 @@
                     <DOMTextRun>
                       <characters>0</characters>
                       <textAttrs>
-                        <DOMTextAttrs alignment="right" aliasText="false" autoKern="false" lineHeight="41.95" size="26" bitmapSize="520" face="VinerHandITC*"/>
+                        <DOMTextAttrs alignment="right" aliasText="false" autoKern="false" lineHeight="26" size="26" bitmapSize="520" face="VinerHandITC*"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>
                 </DOMDynamicText>
-                <DOMStaticText fontRenderingMode="standard" width="51.55" height="26.3" autoExpand="true" includeOutlines="true" isSelectable="false">
+                <DOMStaticText fontRenderingMode="standard" width="110" height="22" autoExpand="true" includeOutlines="true" isSelectable="false">
                   <matrix>
                     <Matrix d="0.999984741210938" tx="106" ty="152"/>
                   </matrix>
@@ -97,7 +97,7 @@
                     <DOMTextRun>
                       <characters>Expérience</characters>
                       <textAttrs>
-                        <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="26.3" size="22" bitmapSize="440" face="PoliceGillSansMtExtCondensedBold*"/>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="22" size="22" bitmapSize="440" face="PoliceGillSansMtExtCondensedBold*"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>
@@ -113,12 +113,12 @@
                     <DOMTextRun>
                       <characters>0</characters>
                       <textAttrs>
-                        <DOMTextAttrs alignment="right" aliasText="false" autoKern="false" lineHeight="41.95" size="26" bitmapSize="520" face="VinerHandITC*"/>
+                        <DOMTextAttrs alignment="right" aliasText="false" autoKern="false" lineHeight="26" size="26" bitmapSize="520" face="VinerHandITC*"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>
                 </DOMDynamicText>
-                <DOMStaticText fontRenderingMode="standard" width="36.8" height="28.7" autoExpand="true" includeOutlines="true" isSelectable="false">
+                <DOMStaticText fontRenderingMode="standard" width="74.7" height="24" autoExpand="true" includeOutlines="true" isSelectable="false">
                   <matrix>
                     <Matrix d="0.999984741210938" tx="216.15" ty="13.1"/>
                   </matrix>
@@ -129,7 +129,7 @@
                     <DOMTextRun>
                       <characters>Niveau</characters>
                       <textAttrs>
-                        <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="28.7" size="24" face="PoliceGillSansMtExtCondensedBold*"/>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="24" size="24" face="PoliceGillSansMtExtCondensedBold*"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>
@@ -145,14 +145,14 @@
                     <DOMTextRun>
                       <characters>0</characters>
                       <textAttrs>
-                        <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="41.95" size="26" bitmapSize="520" face="VinerHandITC*"/>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="26" size="26" bitmapSize="520" face="VinerHandITC*"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>
                 </DOMDynamicText>
                 <DOMGroup>
                   <members>
-                    <DOMStaticText fontRenderingMode="standard" width="40.1" height="26.3" autoExpand="true" includeOutlines="true" isSelectable="false">
+                    <DOMStaticText fontRenderingMode="standard" width="75.85" height="22" autoExpand="true" includeOutlines="true" isSelectable="false">
                       <matrix>
                         <Matrix d="0.999984741210938" tx="9" ty="205.05"/>
                       </matrix>
@@ -163,12 +163,12 @@
                         <DOMTextRun>
                           <characters>Attaque</characters>
                           <textAttrs>
-                            <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="26.3" size="22" bitmapSize="440" face="PoliceGillSansMtExtCondensedBold*"/>
+                            <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="22" size="22" bitmapSize="440" face="PoliceGillSansMtExtCondensedBold*"/>
                           </textAttrs>
                         </DOMTextRun>
                       </textRuns>
                     </DOMStaticText>
-                    <DOMStaticText fontRenderingMode="standard" width="39" height="26.3" autoExpand="true" includeOutlines="true" isSelectable="false">
+                    <DOMStaticText fontRenderingMode="standard" width="81.95" height="22" autoExpand="true" includeOutlines="true" isSelectable="false">
                       <matrix>
                         <Matrix d="0.999984741210938" tx="9" ty="255.65"/>
                       </matrix>
@@ -179,12 +179,12 @@
                         <DOMTextRun>
                           <characters>Défense</characters>
                           <textAttrs>
-                            <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="26.3" size="22" bitmapSize="440" face="PoliceGillSansMtExtCondensedBold*"/>
+                            <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="22" size="22" bitmapSize="440" face="PoliceGillSansMtExtCondensedBold*"/>
                           </textAttrs>
                         </DOMTextRun>
                       </textRuns>
                     </DOMStaticText>
-                    <DOMStaticText fontRenderingMode="standard" width="85.65" height="26.3" autoExpand="true" includeOutlines="true" isSelectable="false">
+                    <DOMStaticText fontRenderingMode="standard" width="166.1" height="22" autoExpand="true" includeOutlines="true" isSelectable="false">
                       <matrix>
                         <Matrix d="0.999984741210938" tx="114" ty="205.05"/>
                       </matrix>
@@ -195,12 +195,12 @@
                         <DOMTextRun>
                           <characters>Attaque magique</characters>
                           <textAttrs>
-                            <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="26.3" size="22" bitmapSize="440" face="PoliceGillSansMtExtCondensedBold*"/>
+                            <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="22" size="22" bitmapSize="440" face="PoliceGillSansMtExtCondensedBold*"/>
                           </textAttrs>
                         </DOMTextRun>
                       </textRuns>
                     </DOMStaticText>
-                    <DOMStaticText fontRenderingMode="standard" width="84.55" height="26.3" autoExpand="true" includeOutlines="true" isSelectable="false">
+                    <DOMStaticText fontRenderingMode="standard" width="172.2" height="22" autoExpand="true" includeOutlines="true" isSelectable="false">
                       <matrix>
                         <Matrix d="0.999984741210938" tx="115" ty="255.65"/>
                       </matrix>
@@ -211,12 +211,12 @@
                         <DOMTextRun>
                           <characters>Défense magique</characters>
                           <textAttrs>
-                            <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="26.3" size="22" bitmapSize="440" face="PoliceGillSansMtExtCondensedBold*"/>
+                            <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="22" size="22" bitmapSize="440" face="PoliceGillSansMtExtCondensedBold*"/>
                           </textAttrs>
                         </DOMTextRun>
                       </textRuns>
                     </DOMStaticText>
-                    <DOMStaticText fontRenderingMode="standard" width="33.9" height="26.3" autoExpand="true" includeOutlines="true" isSelectable="false">
+                    <DOMStaticText fontRenderingMode="standard" width="72.2" height="22" autoExpand="true" includeOutlines="true" isSelectable="false">
                       <matrix>
                         <Matrix d="0.999984741210938" tx="10.25" ty="303.05"/>
                       </matrix>
@@ -227,12 +227,12 @@
                         <DOMTextRun>
                           <characters>Vitesse</characters>
                           <textAttrs>
-                            <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="26.3" size="22" bitmapSize="440" face="PoliceGillSansMtExtCondensedBold*"/>
+                            <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="22" size="22" bitmapSize="440" face="PoliceGillSansMtExtCondensedBold*"/>
                           </textAttrs>
                         </DOMTextRun>
                       </textRuns>
                     </DOMStaticText>
-                    <DOMStaticText fontRenderingMode="standard" width="97.2" height="26.3" autoExpand="true" includeOutlines="true" isSelectable="false">
+                    <DOMStaticText fontRenderingMode="standard" width="182.45" height="22" autoExpand="true" includeOutlines="true" isSelectable="false">
                       <matrix>
                         <Matrix d="0.999984741210938" tx="116.5" ty="303.05"/>
                       </matrix>
@@ -243,7 +243,7 @@
                         <DOMTextRun>
                           <characters>pts d'améliorations</characters>
                           <textAttrs>
-                            <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="26.3" size="22" bitmapSize="440" face="PoliceGillSansMtExtCondensedBold*"/>
+                            <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="22" size="22" bitmapSize="440" face="PoliceGillSansMtExtCondensedBold*"/>
                           </textAttrs>
                         </DOMTextRun>
                       </textRuns>
@@ -259,7 +259,7 @@
                         <DOMTextRun>
                           <characters>222</characters>
                           <textAttrs>
-                            <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="41.95" size="26" bitmapSize="520" face="VinerHandITC*"/>
+                            <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="26" size="26" bitmapSize="520" face="VinerHandITC*"/>
                           </textAttrs>
                         </DOMTextRun>
                       </textRuns>
@@ -275,7 +275,7 @@
                         <DOMTextRun>
                           <characters>222</characters>
                           <textAttrs>
-                            <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="41.95" size="26" bitmapSize="520" face="VinerHandITC*"/>
+                            <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="26" size="26" bitmapSize="520" face="VinerHandITC*"/>
                           </textAttrs>
                         </DOMTextRun>
                       </textRuns>
@@ -291,7 +291,7 @@
                         <DOMTextRun>
                           <characters>222</characters>
                           <textAttrs>
-                            <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="41.95" size="26" bitmapSize="520" face="VinerHandITC*"/>
+                            <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="26" size="26" bitmapSize="520" face="VinerHandITC*"/>
                           </textAttrs>
                         </DOMTextRun>
                       </textRuns>
@@ -307,7 +307,7 @@
                         <DOMTextRun>
                           <characters>222</characters>
                           <textAttrs>
-                            <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="41.95" size="26" bitmapSize="520" face="VinerHandITC*"/>
+                            <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="26" size="26" bitmapSize="520" face="VinerHandITC*"/>
                           </textAttrs>
                         </DOMTextRun>
                       </textRuns>
@@ -323,7 +323,7 @@
                         <DOMTextRun>
                           <characters>222</characters>
                           <textAttrs>
-                            <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="41.95" size="26" bitmapSize="520" face="VinerHandITC*"/>
+                            <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="26" size="26" bitmapSize="520" face="VinerHandITC*"/>
                           </textAttrs>
                         </DOMTextRun>
                       </textRuns>
@@ -339,7 +339,7 @@
                         <DOMTextRun>
                           <characters>222</characters>
                           <textAttrs>
-                            <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="41.95" size="26" bitmapSize="520" face="VinerHandITC*"/>
+                            <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="26" size="26" bitmapSize="520" face="VinerHandITC*"/>
                           </textAttrs>
                         </DOMTextRun>
                       </textRuns>

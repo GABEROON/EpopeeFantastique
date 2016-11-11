@@ -1,0 +1,62 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="PersosEtMonstres/Composantes/Spero/soulier4Spero" itemID="57ead8ba-00000757" lastModified="1475008698">
+  <timeline>
+    <DOMTimeline name="soulier4Spero">
+      <layers>
+        <DOMLayer name="Calque 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="14" ty="-2.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-1.45" y="7.8"/>
+                  </transformationPoint>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#993300"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="0.5">
+                        <fill>
+                          <SolidColor/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle0="1" strokeStyle="1" edges="!19 82[#FFFFB7.6B #4D.0D -115 76!-115 76[-150.1875 #4F.8E -175 90!-175 90[#FFFF3C.E9 #62.9C -227 120!-227 120[#FFFF16.D1 #7D.98 -238.5 130.5!-238.5 130.5[#FFFEFD.2C #9E.5D -280 196!-280 196[#FFFEE7.1D #D3.0B -234 231.5!-234 231.5[#FFFF4F.CB
+ #F8.79 -122 248!-122 248[-84 250 -45 247!-45 247[-20 240 4 235!4 235|23 232!23 232[65 246 118 238!118 238[172 232 210 206!210 206[#CC.0B #B5.EE 202 139.5!202 139.5[#C7.DD #61.34 203.5 82!203.5 82[#CF.22 #42.CB 148.5 61!148.5 61[#59.F4
+ #37.11 68 47!68 47[61 45 50 56!50 56[30 76 21 85!21 85[20 84 19 82"/>
+                    <Edge cubics="!21 85(21,85;26,79 36,69 50,56q21 85Q30 76q50 56);"/>
+                    <Edge cubics="!19 82(19,82;19,83 20,84 21,85q19 82Q20 84q21 85);"/>
+                    <Edge cubics="!23 232(;51,241 83,244 118,238q23 232Q65 246q118 238);"/>
+                    <Edge cubics="!118 238(118,238;154,234 184,223 210,206q118 238Q172 232q210 206)210,206;"/>
+                    <Edge cubics="!-115 76(-115,76;-138,79 -158,83 -175,90q-115 76Q-150 80q-175 90);"/>
+                    <Edge cubics="!-280 196(;-281,206 -265,218 -234,232q-280 196Q-281 211q-234 232);"/>
+                    <Edge cubics="!-238 131(-238,131;-252,149 -266,171 -280,196q-238 131Q-259 158q-280 196)-280,196;"/>
+                    <Edge cubics="!-227 120(;-231,124 -235,128 -238,131q-227 120Q-233 126q-238 131);"/>
+                    <Edge cubics="!-175 90(;-188,96 -206,106 -227,120q-175 90Q-195 99q-227 120);"/>
+                    <Edge cubics="!-122 248(;-97,249 -71,249 -45,247q-122 248Q-84 250q-45 247);"/>
+                    <Edge cubics="!-234 232(-234,232;-195,243 -158,248 -122,248q-234 232Q-176 248q-122 248)-122,248;"/>
+                    <Edge cubics="!4 235(4,235;4,235 23,232 23,232q4 235 23 232);"/>
+                    <Edge cubics="!19 82(19,82;-42,79 -87,77 -115,76q19 82Q-73 77q-115 76);"/>
+                    <Edge cubics="!-45 247(;-28,242 -12,238 4,235q-45 247Q-20 240q4 235);"/>
+                    <Edge cubics="!68 47(;63,46 57,49 50,56q68 47Q61 45q50 56);"/>
+                    <Edge cubics="!149 61(;110,57 83,52 68,47q149 61Q90 55q68 47);"/>
+                    <Edge cubics="!204 82(;206,72 188,65 149,61q204 82Q207 67q149 61);"/>
+                    <Edge cubics="!202 140(;201,111 201,92 204,82q202 140Q200 97q204 82);"/>
+                    <Edge cubics="!210 206(210,206;206,190 203,168 202,140q210 206Q204 182q202 140)202,140;"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

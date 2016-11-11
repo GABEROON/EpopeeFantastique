@@ -1,0 +1,63 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="PersosEtMonstres/Composantes/horas/haut_bas/brasArHoras" itemID="58165be4-00000185" lastModified="1477860913">
+  <timeline>
+    <DOMTimeline name="brasArHoras">
+      <layers>
+        <DOMLayer name="Calque 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#F7D4BC"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="0.75">
+                        <fill>
+                          <SolidColor color="#F6D4BC"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle0="1" strokeStyle="1" edges="!-4 90|27 154!27 154[73 133 124 130!124 130|77 34!77 34|-4 90"/>
+                    <Edge cubics="!-4 90(;-4,90 27,154 27,154q-4 90 27 154);"/>
+                    <Edge cubics="!77 34(;77,34 124,130 124,130q77 34 124 130);"/>
+                    <Edge cubics="!27 154(;58,140 90,131 124,130q27 154Q73 133q124 130);"/>
+                    <Edge cubics="!-4 90(;-4,90 77,34 77,34q-4 90 77 34);"/>
+                  </edges>
+                </DOMShape>
+                <DOMSymbolInstance libraryItemName="PersosEtMonstres/Composantes/horas/haut_bas/epauleDroiteHoras">
+                  <matrix>
+                    <Matrix a="1.4163818359375" d="1.4163818359375" tx="-10" ty="-12.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="5.3" y="6.55"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="PersosEtMonstres/Composantes/horas/side/pouceHoras">
+                  <matrix>
+                    <Matrix a="1.142822265625" d="1.142822265625" tx="-0.65" ty="14.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="1.7" y="1.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="PersosEtMonstres/Composantes/horas/haut_bas/mainHoras">
+                  <matrix>
+                    <Matrix a="1.36810302734375" b="-0.366546630859375" c="0.366546630859375" d="1.36810302734375" tx="-0.95" ty="6.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="4.45" y="4.4"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>
