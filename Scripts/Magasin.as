@@ -44,7 +44,7 @@
 
 			btRetour.addEventListener(MouseEvent.CLICK, quitter);
 			btConfirmer.addEventListener(MouseEvent.CLICK, confirmer);
-			addEventListener(MouseEvent.MOUSE_MOVE, voirInfoObjet);
+			addEventListener(MouseEvent.MOUSE_MOVE, mouseOver);
 			addEventListener(MouseEvent.CLICK, cliquer);
 
 		}
@@ -52,7 +52,7 @@
 		public function fermeture(e: Event): void {
 			addEventListener(Event.ADDED_TO_STAGE, ouverture);
 			removeEventListener(Event.REMOVED_FROM_STAGE, fermeture);
-			removeEventListener(MouseEvent.MOUSE_MOVE, voirInfoObjet);
+			removeEventListener(MouseEvent.MOUSE_MOVE, mouseOver);
 			removeEventListener(MouseEvent.CLICK, cliquer);
 			btConfirmer.removeEventListener(MouseEvent.CLICK, confirmer);
 			
@@ -79,19 +79,15 @@
 			}else {
 				var inventaire:MovieClip = MovieClip(_elementHighlight.parent);
 				var index:int = inventaire.getChildIndex(_elementHighlight);
-				
 				switch(e.keyCode){
 					case Keyboard.LEFT:
-						
 						if((index-1)%6==0 && inventaire==invMarchand && invJoueur.numChildren>1){ //Si on sort de l'inventaire marchand
 							inventaire=invJoueur;
 							index=index+=5;//on atterit ici
-
 						}else index--;
 						if(index<=0)index=1;
 						break;
 					case Keyboard.RIGHT:
-						
 						if((index)%6==0 && inventaire==invJoueur || index==inventaire.numChildren-1){ //Si on sort de l'inventaire joueur
 							inventaire=invMarchand;
 							index-=5;//on atterit ici
@@ -99,11 +95,9 @@
 								index++; 
 								if(index>numChildren-1)break;
 							}//while index != multiple de 7
-
 						}else index++;
 						if(index>inventaire.numChildren-1)index=inventaire.numChildren-1
 						break;
-						
 					case Keyboard.UP:
 						if(index-6>=1)index-=6;
 						break;
@@ -120,7 +114,6 @@
 						cliquer();
 						break;
 				}//switch
-				
 				//Sécurité contre l'erreur 2006
 				while(index>inventaire.numChildren-1){
 					index--;
@@ -128,6 +121,7 @@
 				}
 				//on change l'element
 				_elementHighlight=inventaire.getChildAt(index);
+				voirInfoObjet(MovieClip(inventaire.getChildAt(index)).constructor);
 			}//if else
 			changerHighlight();
 		}//function frappeClavierMagasin
@@ -182,8 +176,6 @@
 						_marquePourVente.splice(i, 1); //On annule le marquage
 						_balance -= _tPrix[_tPrix.indexOf(objetCible.constructor) + 1]*(_tauxRachat/100);
 						chBalance.text = "" + _balance;
-						trace("Marqué pour vente : " + _marquePourVente);
-						trace("Marqué pour Achat : " + _marquePourAchat);
 						return void;
 					} else i++;
 				}
@@ -193,8 +185,6 @@
 						_marquePourAchat.splice(k, 1);
 						_balance += _tPrix[_tPrix.indexOf(objetCible.constructor) + 1];
 						chBalance.text = "" + _balance;
-						trace("Marqué pour vente : " + _marquePourVente);
-						trace("Marqué pour Achat : " + _marquePourAchat);
 						return void;
 					} else k++;
 				}
@@ -211,8 +201,6 @@
 					objetCible.alpha = 0.2;
 					_balance -= _tPrix[_tPrix.indexOf(objetCible.constructor) + 1];
 				}
-				trace("Marqué pour vente : " + _marquePourVente);
-				trace("Marqué pour Achat : " + _marquePourAchat);
 			
 			if(_balance>0)chBalance.text = "+" + _balance;
 			else chBalance.text = "" + _balance;
@@ -302,7 +290,6 @@
 				o.x -= Math.floor(k / 6) * (o.width * 6 + 6 * 10); //Si on dépasse 6 patates, on les décale pour chaque nouveau paquet de 6
 				o.y = (Math.floor(k / 6) * (o.height) + Math.floor(k / 6) * 10) + 20; // k/6 parce qu'on veut 6 éléments dans une rangée
 
-
 				k++;
 			} //while has item
 			chOrMarchand.text = _change + "";
@@ -316,20 +303,30 @@
 			}//if no highlight
 
 		} //fonction Actualiser info
-
-		private function voirInfoObjet(e: MouseEvent): void { //PASSAGE AU DESSUS DUN OBJET AVEC LA SOURIS
+		
+		private function mouseOver(e:MouseEvent):void{
 			var o: Class = e.target.constructor;
-			if (_tPrix[_tPrix.indexOf(o) + 1] is int) {
-				chObjet.text = getQualifiedClassName(o);
-				chPrix.text = "" + _tPrix[_tPrix.indexOf(o) + 1]; //Prix
-				chFeedback.text = _tPrix[_tPrix.indexOf(o) + 2]; //Description 
+			if(e.target is MovieClip && (e.target.parent==invJoueur || e.target.parent==invMarchand)){
+				voirInfoObjet(o);
+				_elementHighlight = MovieClip(e.target);
+				changerHighlight();
+			}//if dans ivnentaire
+		}//fonction voirInfoObjet
+			
+
+		private function voirInfoObjet(classe:Class): void { //Appelé quand on veut voir les infos reliés à un objet
+
+			if (_tPrix[_tPrix.indexOf(classe) + 1] is int) { //Si on trouve la classe dans le tableau des prix
+				chObjet.text = getQualifiedClassName(classe);
+				chPrix.text = "" + _tPrix[_tPrix.indexOf(classe) + 1]; //Prix
+				chFeedback.text = _tPrix[_tPrix.indexOf(classe) + 2]; //Description 
 			} else {
 				chObjet.text = "-";
 				chPrix.text = "-";
 				chFeedback.text = "Cliquez sur les objets\npour vendre ou acheter";
-			}
-
-		}
+			}//if trouvé dans t prix else
+			
+		}//fonction voirInfoObjet
 
 		private function quitter(e: Event): void {
 			stage.focus = Jeu(parent);
