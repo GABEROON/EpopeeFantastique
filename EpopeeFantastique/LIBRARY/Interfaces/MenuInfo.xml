@@ -1,7 +1,23 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Interfaces/MenuInfo" itemID="54236442-000003ee" linkageExportForAS="true" linkageClassName="MenuInfo" lastModified="1478825440" lastUniqueIdentifier="20">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Interfaces/MenuInfo" itemID="54236442-000003ee" linkageExportForAS="true" linkageClassName="MenuInfo" lastModified="1478894677" lastUniqueIdentifier="20">
   <timeline>
     <DOMTimeline name="MenuInfo">
       <layers>
+        <DOMLayer name="boutons" color="#FFFF4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Interfaces/Boutons/btRetourMenuInfo" name="btRetourMenuInfo" symbolType="button">
+                  <matrix>
+                    <Matrix tx="1220" ty="660"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
         <DOMLayer name="inventaire" color="#9933CC" current="true" isSelected="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
@@ -21,21 +37,51 @@
                 </DOMStaticText>
                 <DOMSymbolInstance libraryItemName="Interfaces/symbolesMagasin/inventaire" name="invMenuInfo">
                   <matrix>
-                    <Matrix a="2.41531372070313" d="0.289474487304688" tx="143.55" ty="528.9"/>
+                    <Matrix a="2.8023681640625" d="0.289474487304688" tx="143.55" ty="528.9"/>
                   </matrix>
                   <transformationPoint>
-                    <Point x="200" y="280"/>
+                    <Point x="200.05" y="280"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMDynamicText name="inventaire_txt" fontRenderingMode="standard" top="78" width="958.4" height="58.1" isSelectable="false">
+                <DOMDynamicText name="description_txt" selected="true" fontRenderingMode="standard" top="36.1" left="668.4" width="349.35" height="84.05" isSelectable="false" lineType="multiline">
                   <matrix>
-                    <Matrix tx="145.55" ty="499.85"/>
+                    <Matrix tx="239.15" ty="499.8"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Une vulgaire patate. Elle vous redonnera bien un peu de vigueur</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="-2" lineHeight="40.7" size="34" bitmapSize="680" face="GillSansMT-ExtraCondensedBold"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMDynamicText name="effet_txt" fontRenderingMode="standard" top="36.1" left="689.4" width="269" height="45.35" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="218.15" ty="607.55"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Santé +25</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="-2" lineHeight="40.7" size="34" bitmapSize="680" face="GillSansMT-ExtraCondensedBold"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMDynamicText name="inventaire_txt" fontRenderingMode="standard" top="36.1" left="790.4" width="578" height="159.4" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="-448.4" ty="536.85"/>
                   </matrix>
                   <textRuns>
                     <DOMTextRun>
                       <characters>Aucun objet</characters>
                       <textAttrs>
+<<<<<<< Updated upstream
                         <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineSpacing="-2" lineHeight="36" size="36" bitmapSize="720" face="VinerHandITC*"/>
+=======
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineSpacing="-2" lineHeight="80.7" size="50" bitmapSize="1000" face="VinerHandITC*"/>
+>>>>>>> Stashed changes
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>
@@ -103,7 +149,7 @@
               <elements>
                 <DOMStaticText fontRenderingMode="standard" width="57.05" height="82" isSelectable="false">
                   <matrix>
-                    <Matrix tx="1124.95" ty="525.95"/>
+                    <Matrix tx="1321.95" ty="525.95"/>
                   </matrix>
                   <textRuns>
                     <DOMTextRun>
@@ -116,7 +162,7 @@
                 </DOMStaticText>
                 <DOMDynamicText name="or_txt" fontRenderingMode="standard" width="72" height="58.1" isSelectable="false">
                   <matrix>
-                    <Matrix tx="1186" ty="530.9"/>
+                    <Matrix tx="1383" ty="530.9"/>
                   </matrix>
                   <textRuns>
                     <DOMTextRun>
@@ -127,22 +173,6 @@
                     </DOMTextRun>
                   </textRuns>
                 </DOMDynamicText>
-              </elements>
-            </DOMFrame>
-          </frames>
-        </DOMLayer>
-        <DOMLayer name="boutons" color="#FFFF4F" autoNamed="false">
-          <frames>
-            <DOMFrame index="0" keyMode="9728">
-              <elements>
-                <DOMSymbolInstance libraryItemName="Interfaces/Boutons/btRetourMenuInfo" name="btRetourMenuInfo" symbolType="button">
-                  <matrix>
-                    <Matrix tx="1220" ty="660"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point/>
-                  </transformationPoint>
-                </DOMSymbolInstance>
               </elements>
             </DOMFrame>
           </frames>

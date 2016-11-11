@@ -225,7 +225,7 @@
           <Include href="Interfaces/Interfaces/fondBt.xml" loadImmediate="false" itemID="581cc4c1-0000095d" lastModified="1411603330"/>
           <Include href="Interfaces/Interfaces/photo.xml" loadImmediate="false" itemID="581cc4c1-0000072a" lastModified="1478204440"/>
           <Include href="Interfaces/Magasin.xml" itemID="5817d8eb-000000de" lastModified="1478576323"/>
-          <Include href="Interfaces/MenuInfo.xml" itemID="54236442-000003ee" lastModified="1478825440"/>
+          <Include href="Interfaces/MenuInfo.xml" itemID="54236442-000003ee" lastModified="1478894677"/>
           <Include href="Interfaces/PersosEtMonstres/Composantes/horas/haut_bas/brasHoras.xml" loadImmediate="false" itemID="581cc4c1-0000093b" lastModified="1477860957"/>
           <Include href="Interfaces/PersosEtMonstres/Composantes/horas/haut_bas/ceintureCoteHoras.xml" loadImmediate="false" itemID="581cc4c1-0000078f" lastModified="1478045194"/>
           <Include href="Interfaces/PersosEtMonstres/Composantes/horas/haut_bas/ceintureHoras.xml" loadImmediate="false" itemID="581cc4c1-00000936" lastModified="1477773490"/>
@@ -1129,6 +1129,7 @@ function enleveBtRetour(e:Event):void{
      </persistentData>
      <PrinterSettings/>
      <publishHistory>
+<<<<<<< Updated upstream
           <PublishItem publishSize="17309617" publishTime="1478894520"/>
           <PublishItem publishSize="17309617" publishTime="1478894350"/>
           <PublishItem publishSize="17306031" publishTime="1478890008"/>
@@ -1149,5 +1150,27 @@ function enleveBtRetour(e:Event):void{
           <PublishItem publishSize="17501057" publishTime="1478798651"/>
           <PublishItem publishSize="17501028" publishTime="1478798492"/>
           <PublishItem publishSize="17459257" publishTime="1478798479"/>
+=======
+          <PublishItem publishSize="17373837" publishTime="1478894529"/>
+          <PublishItem publishSize="17373835" publishTime="1478894496"/>
+          <PublishItem publishSize="17373835" publishTime="1478894481"/>
+          <PublishItem publishSize="17328080" publishTime="1478894463"/>
+          <PublishItem publishSize="17328080" publishTime="1478894441"/>
+          <PublishItem publishSize="17328080" publishTime="1478894380"/>
+          <PublishItem publishSize="17328080" publishTime="1478894360"/>
+          <PublishItem publishSize="17328080" publishTime="1478894323"/>
+          <PublishItem publishSize="17328080" publishTime="1478894230"/>
+          <PublishItem publishSize="17328080" publishTime="1478894206"/>
+          <PublishItem publishSize="17373434" publishTime="1478892766"/>
+          <PublishItem publishSize="17373434" publishTime="1478892337"/>
+          <PublishItem publishSize="17373435" publishTime="1478891917"/>
+          <PublishItem publishSize="17373434" publishTime="1478891910" publishDebug="true"/>
+          <PublishItem publishSize="17373548" publishTime="1478891768"/>
+          <PublishItem publishSize="17372985" publishTime="1478890565"/>
+          <PublishItem publishSize="17372992" publishTime="1478890221"/>
+          <PublishItem publishSize="17372992" publishTime="1478890208"/>
+          <PublishItem publishSize="17372983" publishTime="1478890123"/>
+          <PublishItem publishSize="17372983" publishTime="1478889590"/>
+>>>>>>> Stashed changes
      </publishHistory>
 </DOMDocument>

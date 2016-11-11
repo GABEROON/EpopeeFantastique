@@ -18,9 +18,9 @@
 		private var _inventaire: Array = [new Patate(),new Patate(),new Potion(),new Potion(),new Potion(),new Potion(),new Potion(),new Potion(),new Patate(),new Potion(),new Potion(),new Potion(),new Potion(),new Potion(),]; //Array contenant la définition des objets du magasin
 		private var _change: uint = 30; //Entier positif représentant le nombre d'or du marchand
 		private var _tauxRachat: uint = 80; //Entier positif représentant le pourcentage du prix donné lorsque le joueur vend au marchand
-		protected static var _tPrix: Array = [	Patate, 5, "Une vulgaire patate. Elle vous redonnera surement un peu de vigueur.", //Tableau contenant le prix de tous les items du jeu !!!DEFINIR LOBJET AVEC UNE CLASSE!!!
-												Potion, 10, "Une étrange liqueur. Elle semble dégager une énergie étrange"
-												];
+		public static var tPrix: Array = [	Patate, 5, "Une vulgaire patate. Elle vous redonnera surement un peu de vigueur.", "+50 points de vie",  //Tableau contenant le prix de tous les items du jeu !!!DEFINIR LOBJET AVEC UNE CLASSE!!!
+											Potion, 10, "Une étrange liqueur. Elle semble dégager une énergie étrange", "+ 50 points de mana"
+										 ];
 		private var _marquePourVente: Array = [];
 		private var _marquePourAchat: Array = [];
 		private var _balance: int; //balance de la transaction actuelle
@@ -122,14 +122,15 @@
 				//on change l'element
 				_elementHighlight=inventaire.getChildAt(index);
 				voirInfoObjet(MovieClip(inventaire.getChildAt(index)).constructor);
+				
 			}//if else
 			changerHighlight();
 		}//function frappeClavierMagasin
 
 		public function achat(objet: String): Boolean {
-			var index: uint = _tPrix.indexOf(objet);
+			var index: uint = tPrix.indexOf(objet);
 			if (index == -1) return false; //L'élément n'a pas été trouvé
-			var prix: uint = _tPrix[index + 1];
+			var prix: uint = tPrix[index + 1];
 			if (_inventaire[index] is String) {
 				_inventaire.splice(index, 1);
 				_change += prix;
@@ -174,7 +175,7 @@
 				while (i < _marquePourVente.length) { //Parcourir les éléments du tableau pour savoir si l'objet est marqué pour vente
 					if (_marquePourVente[i] == objetCible) { //Si l'élément était marqué pour vente
 						_marquePourVente.splice(i, 1); //On annule le marquage
-						_balance -= _tPrix[_tPrix.indexOf(objetCible.constructor) + 1]*(_tauxRachat/100);
+						_balance -= tPrix[tPrix.indexOf(objetCible.constructor) + 1]*(_tauxRachat/100);
 						chBalance.text = "" + _balance;
 						return void;
 					} else i++;
@@ -183,7 +184,7 @@
 				while (k < _marquePourAchat.length) { //Parcourir pour savoir si l'élément est marqué pour achat
 					if (_marquePourAchat[k] == objetCible) {
 						_marquePourAchat.splice(k, 1);
-						_balance += _tPrix[_tPrix.indexOf(objetCible.constructor) + 1];
+						_balance += tPrix[tPrix.indexOf(objetCible.constructor) + 1];
 						chBalance.text = "" + _balance;
 						return void;
 					} else k++;
@@ -194,12 +195,12 @@
 				if (inventaireSource == "invJoueur") { //Si l'objet venait de l'inventaire du joueur, on procede a une vente.
 					_marquePourVente.push(objetCible);
 					objetCible.alpha = 0.2;
-					_balance += _tPrix[_tPrix.indexOf(objetCible.constructor) + 1]*(_tauxRachat/100);
+					_balance += tPrix[tPrix.indexOf(objetCible.constructor) + 1]*(_tauxRachat/100);
 					
 				} else { //Si l'objet venait de l'inventaire du marchand, on procede a un achat.
 					_marquePourAchat.push(objetCible);
 					objetCible.alpha = 0.2;
-					_balance -= _tPrix[_tPrix.indexOf(objetCible.constructor) + 1];
+					_balance -= tPrix[tPrix.indexOf(objetCible.constructor) + 1];
 				}
 			
 			if(_balance>0)chBalance.text = "+" + _balance;
@@ -316,10 +317,10 @@
 
 		private function voirInfoObjet(classe:Class): void { //Appelé quand on veut voir les infos reliés à un objet
 
-			if (_tPrix[_tPrix.indexOf(classe) + 1] is int) { //Si on trouve la classe dans le tableau des prix
+			if (tPrix[tPrix.indexOf(classe) + 1] is int) { //Si on trouve la classe dans le tableau des prix
 				chObjet.text = getQualifiedClassName(classe);
-				chPrix.text = "" + _tPrix[_tPrix.indexOf(classe) + 1]; //Prix
-				chFeedback.text = _tPrix[_tPrix.indexOf(classe) + 2]; //Description 
+				chPrix.text = "" + tPrix[tPrix.indexOf(classe) + 1]; //Prix
+				chFeedback.text = tPrix[tPrix.indexOf(classe) + 2]; //Description 
 			} else {
 				chObjet.text = "-";
 				chPrix.text = "-";

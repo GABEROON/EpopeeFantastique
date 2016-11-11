@@ -9,7 +9,8 @@
 	public class MenuInfo extends MovieClip {
 		private var _tPersos:Array;
 		private var _jeu:MovieClip;
-		private var _scaleObjet:Number = 0.55;
+		private var _scaleObjet:Number = 0.55; // Grosseur d'affichage des objets
+		private var _elementHighlight:MovieClip;
 		
 		public function MenuInfo(tPersos) {
 			// CONSTRUCTEUR
@@ -28,6 +29,9 @@
 			afficherLesFichesPersos();
 			afficherLesObjets();
 			btRetourMenuInfo.addEventListener(MouseEvent.CLICK, quitterMenuInfo);
+			addEventListener(MouseEvent.MOUSE_MOVE, mouseOver);
+			addEventListener(MouseEvent.CLICK, cliquer);
+			
 		} //init
 		
 		/******************************************************************************
@@ -44,6 +48,8 @@
 		******************************************************************************/		
 		private function quitterMenuInfo(e:Event=null):void {
 			btRetourMenuInfo.removeEventListener(MouseEvent.CLICK, quitterMenuInfo);
+			removeEventListener(MouseEvent.MOUSE_MOVE, mouseOver);
+			removeEventListener(MouseEvent.CLICK, cliquer);
 			_jeu.fermerMenuInfo();	
 		} //quitterMenuInfo
 	
@@ -78,7 +84,6 @@
 						fiche_mc.bt_upBaseAttMag.visible = false;
 						fiche_mc.bt_upBaseDefMag.visible = false;
 					}
-					addEventListener(MouseEvent.CLICK, cliquer);
 					
 					
 				} else {
@@ -131,15 +136,51 @@
 				
 			} else {
 				inventaire_txt.text = "(Aucun objet)";
+				description_txt.text = "";
+				effet_txt.text = "";
 			} //if+else
 			or_txt.text = _jeu.getFortune();
 		} //afficherLesObjets
+		
+		
+		private function changerHighlight(e:MouseEvent = null):void{
+			//select_mc.x=_elementHighlight.x+_elementHighlight.parent.x-6;
+			//select_mc.y=_elementHighlight.y+_elementHighlight.parent.y-6;
+			//select_mc.width = _elementHighlight.width+12;
+			//select_mc.height = _elementHighlight.height+12;
+		}
 		
 		private function enleverLesObjets():void{
 			while(invMenuInfo.numChildren>1){
 				removeChildAt(numChildren-1);
 			}
+			
 		}
+		
+		private function mouseOver(e:MouseEvent):void{
+			var o: Class = e.target.constructor;
+			if(e.target is MovieClip && (e.target.parent==invMenuInfo)){ //Si on adresse un objet dans l'inventaire
+				voirInfoObjet(o);
+				_elementHighlight = MovieClip(e.target);
+				changerHighlight();
+			}//if dans ivnentaire
+		}//fonction voirInfoObjet
+			
+
+		private function voirInfoObjet(classe:Class): void { //Appelé quand on veut voir les infos reliés à un objet
+
+			if (Magasin.tPrix[Magasin.tPrix.indexOf(classe) + 1] is int) { //Si on trouve la classe dans le tableau des prix
+				description_txt.text = Magasin.tPrix[Magasin.tPrix.indexOf(classe) + 2]; //Description 
+				effet_txt.text = Magasin.tPrix[Magasin.tPrix.indexOf(classe) + 3]; //Effet
+				trace(Magasin.tPrix[Magasin.tPrix.indexOf(classe) + 3].search("+"));
+				if(effet_txt.text.search("+")>0)effet_txt.textColor = 0x00ff00;
+				else effet_txt.textColor = 0x000000;
+			} else {
+				description_txt.text = ""; //Description
+				effet_txt.text = ""; //Description
+			}//if trouvé dans t prix else
+			
+		}//fonction voirInfoObjet
 		
 		/******************************************************************************
 		Fonction frappeClavierMenuInfo
