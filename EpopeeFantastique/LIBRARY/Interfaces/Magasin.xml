@@ -22,7 +22,7 @@
                     <Point x="240" y="320"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMStaticText width="231.25" height="64" autoExpand="true">
+                <DOMStaticText width="114.15" height="76.6" autoExpand="true">
                   <matrix>
                     <Matrix tx="474.95" ty="516.4"/>
                   </matrix>
@@ -30,12 +30,12 @@
                     <DOMTextRun>
                       <characters>Balance</characters>
                       <textAttrs>
-                        <DOMTextAttrs aliasText="false" alpha="0.498039215686275" lineHeight="64" size="64" bitmapSize="1280" face="GillSansMT-ExtraCondensedBold" fillColor="#666666"/>
+                        <DOMTextAttrs aliasText="false" alpha="0.498039215686275" lineHeight="76.6" size="64" bitmapSize="1280" face="GillSansMT-ExtraCondensedBold" fillColor="#666666"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>
                 </DOMStaticText>
-                <DOMDynamicText name="chBalance" width="320.15" height="76.6" autoExpand="true" lineType="multiline">
+                <DOMDynamicText name="chBalance" width="180.2" height="76.6" autoExpand="true" lineType="multiline">
                   <matrix>
                     <Matrix tx="620.95" ty="516.4"/>
                   </matrix>
@@ -43,7 +43,7 @@
                     <DOMTextRun>
                       <characters>999999999</characters>
                       <textAttrs>
-                        <DOMTextAttrs aliasText="false" alpha="0.498039215686275" lineHeight="64" size="64" bitmapSize="1280" face="GillSansMT-ExtraCondensedBold" fillColor="#666666"/>
+                        <DOMTextAttrs aliasText="false" alpha="0.498039215686275" lineHeight="76.6" size="64" bitmapSize="1280" face="GillSansMT-ExtraCondensedBold" fillColor="#666666"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>
@@ -56,7 +56,7 @@
                     <Point/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMStaticText width="170.8" height="64" autoExpand="true">
+                <DOMStaticText width="78.4" height="76.6" autoExpand="true">
                   <matrix>
                     <Matrix tx="42.05" ty="42.4"/>
                   </matrix>
@@ -64,12 +64,12 @@
                     <DOMTextRun>
                       <characters>Horas</characters>
                       <textAttrs>
-                        <DOMTextAttrs aliasText="false" alpha="0.498039215686275" lineHeight="64" size="64" bitmapSize="1280" face="GillSansMT-ExtraCondensedBold" fillColor="#666666"/>
+                        <DOMTextAttrs aliasText="false" alpha="0.498039215686275" lineHeight="76.6" size="64" bitmapSize="1280" face="GillSansMT-ExtraCondensedBold" fillColor="#666666"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>
                 </DOMStaticText>
-                <DOMStaticText width="284.55" height="64" autoExpand="true">
+                <DOMStaticText width="143.25" height="76.6" autoExpand="true">
                   <matrix>
                     <Matrix tx="840" ty="42.4"/>
                   </matrix>
@@ -77,7 +77,7 @@
                     <DOMTextRun>
                       <characters>Marchand</characters>
                       <textAttrs>
-                        <DOMTextAttrs aliasText="false" alpha="0.498039215686275" lineHeight="64" size="64" bitmapSize="1280" face="GillSansMT-ExtraCondensedBold" fillColor="#666666"/>
+                        <DOMTextAttrs aliasText="false" alpha="0.498039215686275" lineHeight="76.6" size="64" bitmapSize="1280" face="GillSansMT-ExtraCondensedBold" fillColor="#666666"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>
@@ -90,7 +90,7 @@
                     <DOMTextRun>
                       <characters>Cliquez sur les objets &#xD;pour vendre ou acheter</characters>
                       <textAttrs>
-                        <DOMTextAttrs alignment="center" aliasText="false" alpha="0.498039215686275" lineHeight="40" size="40" bitmapSize="800" face="GillSansMT-ExtraCondensedBold" fillColor="#666666"/>
+                        <DOMTextAttrs alignment="center" aliasText="false" alpha="0.498039215686275" lineHeight="47.9" size="40" bitmapSize="800" face="GillSansMT-ExtraCondensedBold" fillColor="#666666"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>
@@ -103,7 +103,7 @@
                     <Point/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMStaticText left="36.4" width="71.2" height="64" autoExpand="true">
+                <DOMStaticText left="54.95" width="34.1" height="76.6" autoExpand="true">
                   <matrix>
                     <Matrix tx="801.3" ty="597"/>
                   </matrix>
@@ -111,12 +111,12 @@
                     <DOMTextRun>
                       <characters>Or</characters>
                       <textAttrs>
-                        <DOMTextAttrs alignment="center" aliasText="false" alpha="0.498039215686275" lineHeight="64" size="64" bitmapSize="1280" face="GillSansMT-ExtraCondensedBold" fillColor="#666666"/>
+                        <DOMTextAttrs alignment="center" aliasText="false" alpha="0.498039215686275" lineHeight="76.6" size="64" bitmapSize="1280" face="GillSansMT-ExtraCondensedBold" fillColor="#666666"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>
                 </DOMStaticText>
-                <DOMStaticText left="36.4" width="71.2" height="64" autoExpand="true">
+                <DOMStaticText left="54.95" width="34.1" height="76.6" autoExpand="true">
                   <matrix>
                     <Matrix tx="-1.95" ty="597"/>
                   </matrix>
@@ -124,12 +124,12 @@
                     <DOMTextRun>
                       <characters>Or</characters>
                       <textAttrs>
-                        <DOMTextAttrs alignment="center" aliasText="false" alpha="0.498039215686275" lineHeight="64" size="64" bitmapSize="1280" face="GillSansMT-ExtraCondensedBold" fillColor="#666666"/>
+                        <DOMTextAttrs alignment="center" aliasText="false" alpha="0.498039215686275" lineHeight="76.6" size="64" bitmapSize="1280" face="GillSansMT-ExtraCondensedBold" fillColor="#666666"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>
                 </DOMStaticText>
-                <DOMDynamicText name="chOrJoueur" width="320.15" height="76.6" autoExpand="true" lineType="multiline">
+                <DOMDynamicText name="chOrJoueur" width="180.2" height="76.6" autoExpand="true" lineType="multiline">
                   <matrix>
                     <Matrix tx="143.45" ty="597"/>
                   </matrix>
@@ -137,12 +137,12 @@
                     <DOMTextRun>
                       <characters>999999999</characters>
                       <textAttrs>
-                        <DOMTextAttrs aliasText="false" alpha="0.498039215686275" lineHeight="64" size="64" bitmapSize="1280" face="GillSansMT-ExtraCondensedBold" fillColor="#666666"/>
+                        <DOMTextAttrs aliasText="false" alpha="0.498039215686275" lineHeight="76.6" size="64" bitmapSize="1280" face="GillSansMT-ExtraCondensedBold" fillColor="#666666"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>
                 </DOMDynamicText>
-                <DOMDynamicText name="chOrMarchand" width="320.15" height="76.6" autoExpand="true" lineType="multiline">
+                <DOMDynamicText name="chOrMarchand" width="180.2" height="76.6" autoExpand="true" lineType="multiline">
                   <matrix>
                     <Matrix tx="953.6" ty="597"/>
                   </matrix>
@@ -150,7 +150,7 @@
                     <DOMTextRun>
                       <characters>999999999</characters>
                       <textAttrs>
-                        <DOMTextAttrs aliasText="false" alpha="0.498039215686275" lineHeight="64" size="64" bitmapSize="1280" face="GillSansMT-ExtraCondensedBold" fillColor="#666666"/>
+                        <DOMTextAttrs aliasText="false" alpha="0.498039215686275" lineHeight="76.6" size="64" bitmapSize="1280" face="GillSansMT-ExtraCondensedBold" fillColor="#666666"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>
@@ -163,7 +163,7 @@
                     <DOMTextRun>
                       <characters>Super mega Patate</characters>
                       <textAttrs>
-                        <DOMTextAttrs aliasText="false" alpha="0.498039215686275" lineHeight="64" size="64" bitmapSize="1280" face="GillSansMT-ExtraCondensedBold" fillColor="#666666"/>
+                        <DOMTextAttrs aliasText="false" alpha="0.498039215686275" lineHeight="76.6" size="64" bitmapSize="1280" face="GillSansMT-ExtraCondensedBold" fillColor="#666666"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>
@@ -176,12 +176,12 @@
                     <DOMTextRun>
                       <characters>9999999999999</characters>
                       <textAttrs>
-                        <DOMTextAttrs aliasText="false" alpha="0.498039215686275" lineHeight="64" size="64" bitmapSize="1280" face="GillSansMT-ExtraCondensedBold" fillColor="#666666"/>
+                        <DOMTextAttrs aliasText="false" alpha="0.498039215686275" lineHeight="76.6" size="64" bitmapSize="1280" face="GillSansMT-ExtraCondensedBold" fillColor="#666666"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>
                 </DOMDynamicText>
-                <DOMStaticText width="114.75" height="48" autoExpand="true">
+                <DOMStaticText width="57.4" height="57.5" autoExpand="true">
                   <matrix>
                     <Matrix tx="469.1" ty="142.1"/>
                   </matrix>
@@ -189,12 +189,12 @@
                     <DOMTextRun>
                       <characters>Objet</characters>
                       <textAttrs>
-                        <DOMTextAttrs aliasText="false" alpha="0.498039215686275" lineHeight="48" size="48" bitmapSize="960" face="GillSansMT-ExtraCondensedBold" fillColor="#666666"/>
+                        <DOMTextAttrs aliasText="false" alpha="0.498039215686275" lineHeight="57.5" size="48" bitmapSize="960" face="GillSansMT-ExtraCondensedBold" fillColor="#666666"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>
                 </DOMStaticText>
-                <DOMStaticText width="82.8" height="48" autoExpand="true">
+                <DOMStaticText width="43.65" height="57.5" autoExpand="true">
                   <matrix>
                     <Matrix tx="469.1" ty="228.65"/>
                   </matrix>
@@ -202,7 +202,7 @@
                     <DOMTextRun>
                       <characters>Prix</characters>
                       <textAttrs>
-                        <DOMTextAttrs aliasText="false" alpha="0.498039215686275" lineHeight="48" size="48" bitmapSize="960" face="GillSansMT-ExtraCondensedBold" fillColor="#666666"/>
+                        <DOMTextAttrs aliasText="false" alpha="0.498039215686275" lineHeight="57.5" size="48" bitmapSize="960" face="GillSansMT-ExtraCondensedBold" fillColor="#666666"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>

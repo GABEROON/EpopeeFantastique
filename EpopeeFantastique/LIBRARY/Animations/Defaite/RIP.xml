@@ -6,7 +6,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMStaticText left="-51.2" width="177.9" height="75" autoExpand="true" isSelectable="false">
+                <DOMStaticText left="-63.65" width="202.8" height="121.1" autoExpand="true" isSelectable="false">
                   <matrix>
                     <Matrix a="0.9986572265625" b="-0.0484619140625" c="0.0484619140625" d="0.9986572265625" tx="45.65" ty="-176.2"/>
                   </matrix>
@@ -14,7 +14,7 @@
                     <DOMTextRun>
                       <characters>R.I.P.</characters>
                       <textAttrs>
-                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="75" size="75" bitmapSize="1500" face="VinerHandITC" fillColor="#333333"/>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="121.1" size="75" bitmapSize="1500" face="VinerHandITC" fillColor="#333333"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>

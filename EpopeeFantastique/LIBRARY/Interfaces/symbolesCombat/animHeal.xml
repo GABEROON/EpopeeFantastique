@@ -35,7 +35,7 @@ x=-200;]]></script>
  84!83 84[167 0 285 0"/>
                   </edges>
                 </DOMShape>
-                <DOMDynamicText fontRenderingMode="standard" width="100" height="49" isSelectable="false" lineType="multiline">
+                <DOMDynamicText fontRenderingMode="standard" width="100" height="31.3" isSelectable="false" lineType="multiline">
                   <matrix>
                     <Matrix tx="8.85" ty="9.1"/>
                   </matrix>
@@ -43,7 +43,7 @@ x=-200;]]></script>
                     <DOMTextRun>
                       <characters>Anim Heal</characters>
                       <textAttrs>
-                        <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="-3" lineHeight="26" size="26" bitmapSize="520" face="Gill Sans MT Condensed*"/>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="-3" lineHeight="31.3" size="26" bitmapSize="520" face="Gill Sans MT Condensed*"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>

@@ -6,7 +6,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMStaticText fontRenderingMode="standard" left="-123.15" width="390.3" height="58" autoExpand="true" isSelectable="false">
+                <DOMStaticText fontRenderingMode="standard" left="-28.1" width="200.2" height="69" autoExpand="true" isSelectable="false">
                   <matrix>
                     <Matrix tx="30.25" ty="2"/>
                   </matrix>
@@ -14,13 +14,13 @@
                     <DOMTextRun>
                       <characters>"Devastation and Revenge"&#xD;</characters>
                       <textAttrs>
-                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="32" size="32" bitmapSize="640" face="PoliceGillSansMtExtCondensedBold*" fillColor="#FFFFFF"/>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="38.3" size="32" bitmapSize="640" face="PoliceGillSansMtExtCondensedBold*" fillColor="#FFFFFF"/>
                       </textAttrs>
                     </DOMTextRun>
                     <DOMTextRun>
                       <characters>(intro)</characters>
                       <textAttrs>
-                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="24" size="24" bitmapSize="480" face="PoliceGillSansMtExtCondensedBold*" fillColor="#FFFFFF"/>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="28.7" size="24" bitmapSize="480" face="PoliceGillSansMtExtCondensedBold*" fillColor="#FFFFFF"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>

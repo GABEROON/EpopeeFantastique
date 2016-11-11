@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tableaux/TabForet" itemID="57f1206e-000000be" linkageExportForAS="true" linkageBaseClass="Tableau" linkageClassName="TabForet" lastModified="1477770379" lastUniqueIdentifier="145">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tableaux/TabForet" itemID="57f1206e-000000be" linkageExportForAS="true" linkageBaseClass="Tableau" linkageClassName="TabForet" lastModified="1478890642" lastUniqueIdentifier="145">
   <timeline>
     <DOMTimeline name="TabForet">
       <layers>
@@ -9,14 +9,6 @@
                 <DOMSymbolInstance libraryItemName="Interfaces/teleport" name="teleport_Village_mc" centerPoint3DX="402.5" centerPoint3DY="718.25">
                   <matrix>
                     <Matrix tx="390" ty="693.25"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point x="12.5" y="25"/>
-                  </transformationPoint>
-                </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Interfaces/teleport" name="teleport_Ravin_mc" centerPoint3DX="402.5" centerPoint3DY="64">
-                  <matrix>
-                    <Matrix tx="390" ty="39"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="12.5" y="25"/>
@@ -40,7 +32,7 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="portes" color="#9933CC" autoNamed="false">
+        <DOMLayer name="portes" color="#9933CC" current="true" isSelected="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
@@ -52,15 +44,7 @@
                     <Point x="40.95" y="19.5"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/Interactifs/Porte" name="porte_Ravin_mc" centerPoint3DX="639.6" centerPoint3DY="-20">
-                  <matrix>
-                    <Matrix a="15.6191864013672" d="1.02694702148438" ty="-40"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point x="40.95" y="19.5"/>
-                  </transformationPoint>
-                </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/Interactifs/Porte" name="porte_Foret2_mc" centerPoint3DX="1299.15" centerPoint3DY="358.6">
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/Interactifs/Porte" name="porte_Foret4_mc" centerPoint3DX="1299.15" centerPoint3DY="358.6">
                   <matrix>
                     <Matrix a="-0.488067626953125" d="18.4854736328125" tx="1320"/>
                   </matrix>
@@ -68,7 +52,7 @@
                     <Point x="40.9" y="19.4"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Interfaces/teleport" name="teleport_Foret2_mc" centerPoint3DX="1240.7" centerPoint3DY="447.1">
+                <DOMSymbolInstance libraryItemName="Interfaces/teleport" name="teleport_Foret4_mc" centerPoint3DX="1240.7" centerPoint3DY="447.1">
                   <matrix>
                     <Matrix tx="1228.2" ty="422.1"/>
                   </matrix>
@@ -529,11 +513,11 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="objets" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+        <DOMLayer name="objets" color="#9933CC" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/Interactifs/ObjetsUtiles/ObjPatate" name="patate1_mc" selected="true" centerPoint3DX="217.35" centerPoint3DY="107.15">
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/Interactifs/ObjetsUtiles/ObjPatate" name="patate1_mc" centerPoint3DX="217.35" centerPoint3DY="107.15">
                   <matrix>
                     <Matrix a="0.199996948242188" d="0.199996948242188" tx="209.3" ty="95.85"/>
                   </matrix>

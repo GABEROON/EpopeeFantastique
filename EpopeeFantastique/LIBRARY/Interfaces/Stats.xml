@@ -14,7 +14,7 @@
                     <DOMTextRun>
                       <characters>Nom de l'etre</characters>
                       <textAttrs>
-                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineSpacing="-3" lineHeight="28" size="28" bitmapSize="560" face="Gill Sans MT Condensed*"/>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineSpacing="-3" lineHeight="33.7" size="28" bitmapSize="560" face="Gill Sans MT Condensed*"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>
@@ -72,7 +72,7 @@
                     </StrokeStyle>
                   </strokes>
                   <edges>
-                    <Edge strokeStyle="1" edges="!43 -570|2619 -570!2619 -570|2619 -215!2619 -215|43 -215!43 -215|43 -570!43 -972|2619 -972!2619 -972|2619 -617!2619 -617|43 -617!43 -617|43 -972"/>
+                    <Edge strokeStyle="1" edges="!43 -972|2619 -972!2619 -972|2619 -617!2619 -617|43 -617!43 -617|43 -972!43 -570|2619 -570!2619 -570|2619 -215!2619 -215|43 -215!43 -215|43 -570"/>
                   </edges>
                 </DOMShape>
                 <DOMSymbolInstance libraryItemName="Interfaces/symbolesCombat/inBarreMana" name="mana_mc">

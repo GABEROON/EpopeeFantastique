@@ -17,7 +17,7 @@
                     <DOMTextRun>
                       <characters>3</characters>
                       <textAttrs>
-                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineSpacing="1" lineHeight="93" size="93" bitmapSize="1860" face="PoliceGillSansMtExtCondensedBold*" fillColor="#CCCCCC"/>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineSpacing="1" lineHeight="111.35" size="93" bitmapSize="1860" face="PoliceGillSansMtExtCondensedBold*" fillColor="#CCCCCC"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>
@@ -33,7 +33,7 @@
                     <DOMTextRun>
                       <characters>Fuite</characters>
                       <textAttrs>
-                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineSpacing="1" lineHeight="48" size="48" bitmapSize="960" face="PoliceGillSansMtExtCondensedBold*" fillColor="#CCCCCC"/>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineSpacing="1" lineHeight="57.5" size="48" bitmapSize="960" face="PoliceGillSansMtExtCondensedBold*" fillColor="#CCCCCC"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>
