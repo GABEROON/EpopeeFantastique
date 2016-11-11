@@ -1,0 +1,206 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tableaux/TabMaisonChamane" itemID="57f12044-000000b7" linkageExportForAS="true" linkageBaseClass="Tableau" linkageClassName="TabMaisonChamane" lastModified="1478890642" lastUniqueIdentifier="33">
+  <timeline>
+    <DOMTimeline name="TabMaisonChamane">
+      <layers>
+        <DOMLayer name="teleports" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Interfaces/teleport" name="teleport_Foret2_mc" centerPoint3DX="656.55" centerPoint3DY="495.5">
+                  <matrix>
+                    <Matrix tx="644.05" ty="470.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="12.5" y="25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="perso" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="PersosEtMonstres/PNJ/PNJLucem" name="pnjLucem_mc" centerPoint3DX="638.75" centerPoint3DY="311.7">
+                  <matrix>
+                    <Matrix a="0.5" d="0.5" tx="621.5" ty="287.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="34.5" y="47.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="portes" color="#FF800A" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/Interactifs/Porte" name="porte_Foret2_mc" centerPoint3DX="646.85" centerPoint3DY="525.8">
+                  <matrix>
+                    <Matrix tx="605.9" ty="506.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="40.95" y="19.45"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Interfaces/deco/triskel" blendMode="layer">
+                  <matrix>
+                    <Matrix a="3.76060485839844" d="3.76060485839844" tx="638.05" ty="340.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="1.05" y="0.3"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.1015625"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="clotures" color="#4FFFFF" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsCloture" centerPoint3DX="788.35" centerPoint3DY="343.5">
+                  <matrix>
+                    <Matrix a="0.842514038085938" d="0.584060668945313" tx="783" ty="169.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="6.35" y="298"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="0.33" tintColor="#330099"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsCloture" centerPoint3DX="489.3" centerPoint3DY="343.5">
+                  <matrix>
+                    <Matrix a="0.842514038085938" d="0.584060668945313" tx="483.95" ty="169.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="6.35" y="298"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="0.33" tintColor="#330099"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsCloture" centerPoint3DX="638.05" centerPoint3DY="193.75">
+                  <matrix>
+                    <Matrix a="0" b="0.842514038085938" c="-0.570632934570313" d="0" tx="808.05" ty="188.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="6.35" y="298"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="0.33" tintColor="#330099"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsCloture" centerPoint3DX="740.05" centerPoint3DY="493.35">
+                  <matrix>
+                    <Matrix a="0" b="0.842514038085938" c="-0.241714477539063" d="0" tx="812.05" ty="488"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="6.35" y="298.1"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="0.33" tintColor="#330099"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsCloture" centerPoint3DX="542.35" centerPoint3DY="493.75">
+                  <matrix>
+                    <Matrix a="0" b="0.842514038085938" c="-0.258438110351563" d="0" tx="619.4" ty="488.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="6.35" y="298.15"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="0.33" tintColor="#330099"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="lumiere" color="#FF800A" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isDrawingObject="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <RadialGradient spreadMethod="repeat">
+                        <matrix>
+                          <Matrix a="0.265762329101563" d="0.265762329101563" tx="638.05" ty="344.5"/>
+                        </matrix>
+                        <GradientEntry color="#1B08A9" alpha="0.596078431372549" ratio="0.0705882352941176"/>
+                        <GradientEntry color="#2401BF" alpha="0.258823529411765" ratio="0.254901960784314"/>
+                        <GradientEntry color="#1A09A6" alpha="0.63921568627451" ratio="0.549019607843137"/>
+                        <GradientEntry alpha="0.72156862745098" ratio="0.835294117647059"/>
+                      </RadialGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!15739 9991S2[#38A2.62 11189 12761 11189!12761 11189[10980 11189 9721 9930!9721 9930[9720 9929 9719 9928!9719 9928|9719 3852!9719 3852[9720 3851 9721 3850!9721 3850[#2612.39 #EF0.C2 9771.5 3800!9771.5 3800|15739 3800!15739 3800|15739
+ 9991"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="plancher" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="ElementsANommerEtClasser/Symbole 92">
+                  <matrix>
+                    <Matrix tx="483.95" ty="189.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="154.95" y="154.95"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.25"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="fond" color="#9933CC" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" edges="
+!25600 14400|0 14400!0 14400|0 0!0 0|25600 0!25600 0|25600 14400"/>
+                    <Edge fillStyle0="1" fillStyle1="1" strokeStyle="1" edges="
+!11117 3898|11117 9416.5!11117 9416.5|7874 9416.5"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,32 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="ElementsANommerEtClasser/Symbole 92" itemID="542831a3-0000028b" lastModified="1411920291">
+  <timeline>
+    <DOMTimeline name="Symbole 92">
+      <layers>
+        <DOMLayer name="Calque 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient spreadMethod="repeat">
+                        <matrix>
+                          <Matrix a="0.00872802734375" d="0.189178466796875" tx="154.95" ty="155.05"/>
+                        </matrix>
+                        <GradientEntry color="#956E00" ratio="0"/>
+                        <GradientEntry color="#513100" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!6199 0S2|6199 6199!6199 6199|0 6199!0 6199|0 0!0 0|6199 0"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

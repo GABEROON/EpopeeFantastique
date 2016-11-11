@@ -34,7 +34,7 @@
           <frames>
             <DOMFrame index="0" duration="3" keyMode="9728">
               <elements>
-                <DOMStaticText width="111" height="50.3">
+                <DOMStaticText width="111" height="42">
                   <matrix>
                     <Matrix tx="2" ty="2"/>
                   </matrix>
@@ -42,7 +42,7 @@
                     <DOMTextRun>
                       <characters>Jouer</characters>
                       <textAttrs>
-                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" lineSpacing="1.65" lineHeight="50.3" size="42" bitmapSize="840" face="GillSansMT-ExtraCondensedBold" fillColor="#FFFFFF"/>
+                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" lineSpacing="1.65" lineHeight="42" size="42" bitmapSize="840" face="GillSansMT-ExtraCondensedBold" fillColor="#FFFFFF"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>
@@ -51,7 +51,7 @@
             </DOMFrame>
             <DOMFrame index="3" keyMode="9728">
               <elements>
-                <DOMStaticText width="111" height="50.3">
+                <DOMStaticText width="111" height="42">
                   <matrix>
                     <Matrix tx="2" ty="2"/>
                   </matrix>
@@ -59,7 +59,7 @@
                     <DOMTextRun>
                       <characters>Jouer</characters>
                       <textAttrs>
-                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" lineSpacing="1.65" lineHeight="50.3" size="42" bitmapSize="840" face="GillSansMT-ExtraCondensedBold" fillColor="#FFFFFF"/>
+                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" lineSpacing="1.65" lineHeight="42" size="42" bitmapSize="840" face="GillSansMT-ExtraCondensedBold" fillColor="#FFFFFF"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>
@@ -88,9 +88,9 @@
                     </StrokeStyle>
                   </strokes>
                   <edges>
+                    <Edge fillStyle1="1" edges="!2300 0|2300 800!2300 800|0 800!0 800|0 0"/>
                     <Edge strokeStyle="1" edges="!0 800|0 811!0 811|2319 811!2319 811|2319 0!2319 0|2300 0"/>
                     <Edge fillStyle0="1" strokeStyle="1" edges="!2300 0|0 0"/>
-                    <Edge fillStyle1="1" edges="!2300 0|2300 800!2300 800|0 800!0 800|0 0"/>
                   </edges>
                 </DOMShape>
               </elements>

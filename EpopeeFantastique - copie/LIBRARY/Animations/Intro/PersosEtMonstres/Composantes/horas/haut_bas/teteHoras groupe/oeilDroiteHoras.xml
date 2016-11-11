@@ -1,0 +1,44 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Animations/Intro/PersosEtMonstres/Composantes/horas/haut_bas/teteHoras groupe/oeilDroiteHoras" itemID="581bee5b-0000054a" lastModified="1477767923">
+  <timeline>
+    <DOMTimeline name="oeilDroiteHoras">
+      <layers>
+        <DOMLayer name="Calque 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="0.1">
+                        <fill>
+                          <SolidColor/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!206 312[159 341 105 314!105 314[78 303 55 282!55 282[46 273 37 261!37 261[23 244 14 225!14 225[-20 161 -11 94!-11 94[-10 86 -9 80!-9 80[-7 74 -5 69!-5 69[7 23 43 0!43 0[88 -30 146 -5!146 -5[170 5 191 24!191 24[200 33 209 45!209 45[223
+ 62 234 84!234 84[268 149 260 215!260 215[260 220 259 226!259 226[259 230 257 235!257 235[244 288 206 312"/>
+                  </edges>
+                </DOMShape>
+                <DOMSymbolInstance libraryItemName="Animations/Intro/PersosEtMonstres/Composantes/horas/haut_bas/teteHoras groupe/pupilleHoras">
+                  <matrix>
+                    <Matrix a="0.6591796875" d="0.6591796875" tx="1.2" ty="6.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.05" y="2.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

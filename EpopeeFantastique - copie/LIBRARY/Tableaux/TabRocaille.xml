@@ -1,0 +1,1661 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tableaux/TabRocaille" itemID="57f12058-000000ba" linkageExportForAS="true" linkageBaseClass="Tableau" linkageClassName="TabRocaille" lastModified="1478890642" lastUniqueIdentifier="230">
+  <timeline>
+    <DOMTimeline name="TabRocaille">
+      <layers>
+        <DOMLayer name="teleports" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Interfaces/teleport" name="teleport_Ravin_mc" centerPoint3DX="640.5" centerPoint3DY="735">
+                  <matrix>
+                    <Matrix tx="628" ty="710"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="12.5" y="25"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.15"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Interfaces/teleport" name="teleport_Caverne_mc" centerPoint3DX="635.45" centerPoint3DY="289.25">
+                  <matrix>
+                    <Matrix tx="622.95" ty="264.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="12.5" y="25"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.15"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="perso" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="arbres_roches" color="#4FFF4F" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsConifere">
+                  <matrix>
+                    <Matrix tx="1109" ty="596.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="18.2" y="50.7"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsConifere">
+                  <matrix>
+                    <Matrix tx="1061.9" ty="538.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="18.2" y="50.7"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.25"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsConifere">
+                  <matrix>
+                    <Matrix tx="1173.95" ty="582.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="18.2" y="50.7"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsConifere">
+                  <matrix>
+                    <Matrix tx="28.9" ty="529"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="18.2" y="50.7"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.15"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsConifere">
+                  <matrix>
+                    <Matrix tx="34.95" ty="429.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="18.2" y="50.7"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.25"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsConifere">
+                  <matrix>
+                    <Matrix tx="63.95" ty="602"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="18.2" y="50.7"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsConifere">
+                  <matrix>
+                    <Matrix tx="1180.05" ty="483.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="18.2" y="50.7"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.25"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche" centerPoint3DX="924.9" centerPoint3DY="345.7">
+                  <matrix>
+                    <Matrix a="-1" tx="962.2" ty="312.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.43"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche2" selected="true" centerPoint3DX="158" centerPoint3DY="477.7">
+                  <matrix>
+                    <Matrix tx="120.7" ty="444.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.15"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche" centerPoint3DX="1129.55" centerPoint3DY="433.7">
+                  <matrix>
+                    <Matrix tx="1092.25" ty="400.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.16"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche" centerPoint3DX="1011.4" centerPoint3DY="421.75">
+                  <matrix>
+                    <Matrix tx="974.1" ty="388.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.27"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche" centerPoint3DX="115.85" centerPoint3DY="389.7">
+                  <matrix>
+                    <Matrix a="-1" tx="153.15" ty="356.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.15"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche2" centerPoint3DX="1034.5" centerPoint3DY="332.2">
+                  <matrix>
+                    <Matrix tx="997.2" ty="298.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.43"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche" centerPoint3DX="126.75" centerPoint3DY="281.2">
+                  <matrix>
+                    <Matrix tx="89.45" ty="247.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.4"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche" centerPoint3DX="270" centerPoint3DY="325.2">
+                  <matrix>
+                    <Matrix tx="232.7" ty="291.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.37"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsConifere">
+                  <matrix>
+                    <Matrix a="0.722793579101563" d="0.722793579101563" tx="1172.15" ty="46.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="18.2" y="50.7"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.5"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsConifere" centerPoint3DX="131.45" centerPoint3DY="591.75">
+                  <matrix>
+                    <Matrix tx="113.25" ty="541.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="18.2" y="50.7"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.15"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche" centerPoint3DX="563.1" centerPoint3DY="36.2">
+                  <matrix>
+                    <Matrix tx="525.8" ty="2.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.49"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche" centerPoint3DX="728.05" centerPoint3DY="36.7">
+                  <matrix>
+                    <Matrix tx="690.75" ty="3.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.61"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche" centerPoint3DX="475.9" centerPoint3DY="53.2">
+                  <matrix>
+                    <Matrix tx="438.6" ty="19.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.61"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche" centerPoint3DX="765" centerPoint3DY="74.7">
+                  <matrix>
+                    <Matrix tx="727.7" ty="41.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.56"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche" centerPoint3DX="515" centerPoint3DY="47.5">
+                  <matrix>
+                    <Matrix tx="477.7" ty="14"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.61"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche" centerPoint3DX="692.85" centerPoint3DY="36.2">
+                  <matrix>
+                    <Matrix tx="655.55" ty="2.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.51"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche" centerPoint3DX="546.9" centerPoint3DY="69.8">
+                  <matrix>
+                    <Matrix tx="509.6" ty="36.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.61"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche" centerPoint3DX="737.4" centerPoint3DY="64.2">
+                  <matrix>
+                    <Matrix tx="700.1" ty="30.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.61"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche" centerPoint3DX="807.6" centerPoint3DY="108.2">
+                  <matrix>
+                    <Matrix tx="770.3" ty="74.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.61"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche" centerPoint3DX="700.55" centerPoint3DY="69.8">
+                  <matrix>
+                    <Matrix tx="663.25" ty="36.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.51"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche" centerPoint3DX="919.25" centerPoint3DY="236.2">
+                  <matrix>
+                    <Matrix tx="881.95" ty="202.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.51"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche2" centerPoint3DX="948.3" centerPoint3DY="236.2">
+                  <matrix>
+                    <Matrix tx="911" ty="202.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.61"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche" centerPoint3DX="445.45" centerPoint3DY="74.7">
+                  <matrix>
+                    <Matrix a="-1" tx="482.75" ty="41.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.61"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche2" centerPoint3DX="498.55" centerPoint3DY="76.2">
+                  <matrix>
+                    <Matrix tx="461.25" ty="42.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.61"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche" centerPoint3DX="338.75" centerPoint3DY="192.2">
+                  <matrix>
+                    <Matrix tx="301.45" ty="158.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.64"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche" centerPoint3DX="401.7" centerPoint3DY="108.2">
+                  <matrix>
+                    <Matrix a="-1" tx="439" ty="74.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.61"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche" centerPoint3DX="568.1" centerPoint3DY="69.2">
+                  <matrix>
+                    <Matrix tx="530.8" ty="35.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.49"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche" centerPoint3DX="655.45" centerPoint3DY="15.75">
+                  <matrix>
+                    <Matrix tx="618.15" ty="-17.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.61"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche" centerPoint3DX="581.7" centerPoint3DY="39.75">
+                  <matrix>
+                    <Matrix tx="544.4" ty="6.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.61"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche" centerPoint3DX="689.3" centerPoint3DY="39.75">
+                  <matrix>
+                    <Matrix tx="652" ty="6.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.56"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche" centerPoint3DX="608.35" centerPoint3DY="20.2">
+                  <matrix>
+                    <Matrix tx="571.05" ty="-13.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.61"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche" centerPoint3DX="697.85" centerPoint3DY="69.2">
+                  <matrix>
+                    <Matrix tx="660.55" ty="35.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.51"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche" centerPoint3DX="551.9" centerPoint3DY="102.8">
+                  <matrix>
+                    <Matrix tx="514.6" ty="69.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.49"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche" centerPoint3DX="743.4" centerPoint3DY="97.2">
+                  <matrix>
+                    <Matrix a="-1" tx="780.7" ty="63.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.61"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche2" centerPoint3DX="786.15" centerPoint3DY="109.2">
+                  <matrix>
+                    <Matrix tx="748.85" ty="75.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.61"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche" centerPoint3DX="705.55" centerPoint3DY="102.8">
+                  <matrix>
+                    <Matrix tx="668.25" ty="69.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.51"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche" centerPoint3DX="831.25" centerPoint3DY="225.2">
+                  <matrix>
+                    <Matrix tx="793.95" ty="191.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.51"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche" centerPoint3DX="910.8" centerPoint3DY="195.2">
+                  <matrix>
+                    <Matrix a="-1" tx="948.1" ty="161.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.61"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche" centerPoint3DX="463.8" centerPoint3DY="109.2">
+                  <matrix>
+                    <Matrix tx="426.5" ty="75.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.61"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche" centerPoint3DX="503.55" centerPoint3DY="109.2">
+                  <matrix>
+                    <Matrix tx="466.25" ty="75.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.61"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche" centerPoint3DX="338.75" centerPoint3DY="229.2">
+                  <matrix>
+                    <Matrix tx="301.45" ty="195.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.51"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche" centerPoint3DX="422.8" centerPoint3DY="114.8">
+                  <matrix>
+                    <Matrix a="-1" tx="460.1" ty="81.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.61"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche" centerPoint3DX="565.1" centerPoint3DY="100.2">
+                  <matrix>
+                    <Matrix tx="527.8" ty="66.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.61"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche" centerPoint3DX="652.45" centerPoint3DY="43.75">
+                  <matrix>
+                    <Matrix tx="615.15" ty="10.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.61"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche" centerPoint3DX="581.7" centerPoint3DY="70.75">
+                  <matrix>
+                    <Matrix tx="544.4" ty="37.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.61"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche2" centerPoint3DX="689.3" centerPoint3DY="70.75">
+                  <matrix>
+                    <Matrix tx="652" ty="37.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.56"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche" centerPoint3DX="613.35" centerPoint3DY="43.75">
+                  <matrix>
+                    <Matrix tx="576.05" ty="10.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.61"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche" centerPoint3DX="697.85" centerPoint3DY="100.2">
+                  <matrix>
+                    <Matrix tx="660.55" ty="66.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.51"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche" centerPoint3DX="544.9" centerPoint3DY="133.8">
+                  <matrix>
+                    <Matrix tx="507.6" ty="100.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.49"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche" centerPoint3DX="742.4" centerPoint3DY="128.2">
+                  <matrix>
+                    <Matrix tx="705.1" ty="94.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.61"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche" centerPoint3DX="786.15" centerPoint3DY="140.2">
+                  <matrix>
+                    <Matrix tx="748.85" ty="106.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.61"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche" centerPoint3DX="705.55" centerPoint3DY="133.8">
+                  <matrix>
+                    <Matrix tx="668.25" ty="100.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.51"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche" centerPoint3DX="836.25" centerPoint3DY="140.2">
+                  <matrix>
+                    <Matrix a="-1" tx="873.55" ty="106.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.51"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche" centerPoint3DX="875.8" centerPoint3DY="158.2">
+                  <matrix>
+                    <Matrix tx="838.5" ty="124.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.61"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche" centerPoint3DX="459.8" centerPoint3DY="140.2">
+                  <matrix>
+                    <Matrix tx="422.5" ty="106.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.61"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche" centerPoint3DX="500.55" centerPoint3DY="140.2">
+                  <matrix>
+                    <Matrix tx="463.25" ty="106.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.61"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche2" centerPoint3DX="375.25" centerPoint3DY="140.2">
+                  <matrix>
+                    <Matrix a="-1" tx="412.55" ty="106.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.54"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche" centerPoint3DX="422.8" centerPoint3DY="145.8">
+                  <matrix>
+                    <Matrix tx="385.5" ty="112.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.61"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche" centerPoint3DX="560.1" centerPoint3DY="138.15">
+                  <matrix>
+                    <Matrix tx="522.8" ty="104.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.49"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche" centerPoint3DX="650.45" centerPoint3DY="74.7">
+                  <matrix>
+                    <Matrix a="-1" tx="687.75" ty="41.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.61"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche" centerPoint3DX="576.7" centerPoint3DY="101.7">
+                  <matrix>
+                    <Matrix tx="539.4" ty="68.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.61"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche" centerPoint3DX="679.3" centerPoint3DY="101.7">
+                  <matrix>
+                    <Matrix tx="642" ty="68.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.56"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche" centerPoint3DX="608.35" centerPoint3DY="74.7">
+                  <matrix>
+                    <Matrix tx="571.05" ty="41.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.61"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche" centerPoint3DX="692.85" centerPoint3DY="131.15">
+                  <matrix>
+                    <Matrix tx="655.55" ty="97.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.51"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche" centerPoint3DX="546.9" centerPoint3DY="164.75">
+                  <matrix>
+                    <Matrix tx="509.6" ty="131.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.61"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche" centerPoint3DX="737.4" centerPoint3DY="159.15">
+                  <matrix>
+                    <Matrix tx="700.1" ty="125.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.61"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche" centerPoint3DX="779.15" centerPoint3DY="171.15">
+                  <matrix>
+                    <Matrix a="-1" tx="816.45" ty="137.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.61"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche" centerPoint3DX="700.55" centerPoint3DY="164.75">
+                  <matrix>
+                    <Matrix tx="663.25" ty="131.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.51"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche" centerPoint3DX="825.25" centerPoint3DY="167.15">
+                  <matrix>
+                    <Matrix tx="787.95" ty="133.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.51"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche" centerPoint3DX="871.8" centerPoint3DY="181.15">
+                  <matrix>
+                    <Matrix tx="834.5" ty="147.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.61"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche" centerPoint3DX="450.8" centerPoint3DY="171.15">
+                  <matrix>
+                    <Matrix a="-1" tx="488.1" ty="137.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.61"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche" centerPoint3DX="498.55" centerPoint3DY="171.15">
+                  <matrix>
+                    <Matrix tx="461.25" ty="137.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.61"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche" centerPoint3DX="370.25" centerPoint3DY="171.15">
+                  <matrix>
+                    <Matrix tx="332.95" ty="137.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.64"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche" centerPoint3DX="417.8" centerPoint3DY="176.75">
+                  <matrix>
+                    <Matrix tx="380.5" ty="143.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.61"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche" centerPoint3DX="563.1" centerPoint3DY="155.2">
+                  <matrix>
+                    <Matrix tx="525.8" ty="121.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.49"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche" centerPoint3DX="647.45" centerPoint3DY="98.75">
+                  <matrix>
+                    <Matrix tx="610.15" ty="65.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.61"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche" centerPoint3DX="576.7" centerPoint3DY="125.75">
+                  <matrix>
+                    <Matrix tx="539.4" ty="92.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.61"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche" centerPoint3DX="684.3" centerPoint3DY="125.75">
+                  <matrix>
+                    <Matrix tx="647" ty="92.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.56"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche" centerPoint3DX="605.35" centerPoint3DY="98.75">
+                  <matrix>
+                    <Matrix a="-1" tx="642.65" ty="65.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.61"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche" centerPoint3DX="692.85" centerPoint3DY="155.2">
+                  <matrix>
+                    <Matrix tx="655.55" ty="121.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.51"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche" centerPoint3DX="546.9" centerPoint3DY="188.8">
+                  <matrix>
+                    <Matrix tx="509.6" ty="155.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.57"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche2" centerPoint3DX="737.4" centerPoint3DY="183.2">
+                  <matrix>
+                    <Matrix tx="700.1" ty="149.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.61"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche" centerPoint3DX="781.15" centerPoint3DY="197.2">
+                  <matrix>
+                    <Matrix tx="743.85" ty="163.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.61"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche" centerPoint3DX="700.55" centerPoint3DY="188.8">
+                  <matrix>
+                    <Matrix tx="663.25" ty="155.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.51"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche" centerPoint3DX="831.25" centerPoint3DY="191.2">
+                  <matrix>
+                    <Matrix tx="793.95" ty="157.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.66"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche" centerPoint3DX="878.8" centerPoint3DY="203.2">
+                  <matrix>
+                    <Matrix tx="841.5" ty="169.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.61"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche" centerPoint3DX="454.8" centerPoint3DY="195.2">
+                  <matrix>
+                    <Matrix tx="417.5" ty="161.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.61"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche2" centerPoint3DX="498.55" centerPoint3DY="195.2">
+                  <matrix>
+                    <Matrix tx="461.25" ty="161.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.61"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche" centerPoint3DX="370.25" centerPoint3DY="195.2">
+                  <matrix>
+                    <Matrix a="-1" tx="407.55" ty="161.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.51"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche" centerPoint3DX="417.8" centerPoint3DY="200.8">
+                  <matrix>
+                    <Matrix a="-1" tx="455.1" ty="167.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.61"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche" centerPoint3DX="566.1" centerPoint3DY="189.2">
+                  <matrix>
+                    <Matrix tx="528.8" ty="155.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.57"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche" centerPoint3DX="647.45" centerPoint3DY="132.75">
+                  <matrix>
+                    <Matrix tx="610.15" ty="99.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.61"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche" centerPoint3DX="576.7" centerPoint3DY="159.75">
+                  <matrix>
+                    <Matrix tx="539.4" ty="126.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.61"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche" centerPoint3DX="684.3" centerPoint3DY="159.75">
+                  <matrix>
+                    <Matrix a="-1" tx="721.6" ty="126.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.56"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche2" centerPoint3DX="608.35" centerPoint3DY="135.75">
+                  <matrix>
+                    <Matrix tx="571.05" ty="102.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.61"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche" centerPoint3DX="692.85" centerPoint3DY="189.2">
+                  <matrix>
+                    <Matrix tx="655.55" ty="155.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.55"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche" centerPoint3DX="545" centerPoint3DY="222.8">
+                  <matrix>
+                    <Matrix a="-1" tx="582.3" ty="189.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.49"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche" centerPoint3DX="737.4" centerPoint3DY="217.2">
+                  <matrix>
+                    <Matrix tx="700.1" ty="183.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.61"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche" centerPoint3DX="781.15" centerPoint3DY="229.2">
+                  <matrix>
+                    <Matrix tx="743.85" ty="195.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.61"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche2" centerPoint3DX="684.05" centerPoint3DY="222.8">
+                  <matrix>
+                    <Matrix a="-1" tx="721.35" ty="189.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.51"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche" centerPoint3DX="831.25" centerPoint3DY="225.2">
+                  <matrix>
+                    <Matrix tx="793.95" ty="191.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.51"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche" centerPoint3DX="878.8" centerPoint3DY="237.2">
+                  <matrix>
+                    <Matrix tx="841.5" ty="203.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.61"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche" centerPoint3DX="457" centerPoint3DY="227.2">
+                  <matrix>
+                    <Matrix tx="419.7" ty="193.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.61"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche" centerPoint3DX="498.55" centerPoint3DY="226.2">
+                  <matrix>
+                    <Matrix a="-1" tx="535.85" ty="192.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.61"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche2" centerPoint3DX="370.25" centerPoint3DY="229.2">
+                  <matrix>
+                    <Matrix tx="332.95" ty="195.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.51"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche" centerPoint3DX="415.8" centerPoint3DY="231.8">
+                  <matrix>
+                    <Matrix tx="378.5" ty="198.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.61"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche" centerPoint3DX="32.55" centerPoint3DY="220.2">
+                  <matrix>
+                    <Matrix tx="-4.75" ty="186.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.51"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche" centerPoint3DX="301.95" centerPoint3DY="232.8">
+                  <matrix>
+                    <Matrix a="-1" tx="339.25" ty="199.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.49"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche" centerPoint3DX="148.6" centerPoint3DY="218.2">
+                  <matrix>
+                    <Matrix tx="111.3" ty="184.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.61"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche" centerPoint3DX="192.35" centerPoint3DY="217.2">
+                  <matrix>
+                    <Matrix tx="155.05" ty="183.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.61"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche2" centerPoint3DX="64.05" centerPoint3DY="220.2">
+                  <matrix>
+                    <Matrix a="-1" tx="101.35" ty="186.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.51"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche" centerPoint3DX="109.6" centerPoint3DY="222.8">
+                  <matrix>
+                    <Matrix tx="72.3" ty="189.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.61"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche" centerPoint3DX="995.7" centerPoint3DY="239.2">
+                  <matrix>
+                    <Matrix tx="958.4" ty="205.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.51"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche" centerPoint3DX="1200.85" centerPoint3DY="243.2">
+                  <matrix>
+                    <Matrix a="-1" tx="1238.15" ty="209.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.49"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche" centerPoint3DX="1111.75" centerPoint3DY="237.2">
+                  <matrix>
+                    <Matrix tx="1074.45" ty="203.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.61"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche" centerPoint3DX="1155.5" centerPoint3DY="236.2">
+                  <matrix>
+                    <Matrix tx="1118.2" ty="202.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.61"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche" centerPoint3DX="1027.2" centerPoint3DY="239.2">
+                  <matrix>
+                    <Matrix tx="989.9" ty="205.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.51"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche" centerPoint3DX="1072.75" centerPoint3DY="241.8">
+                  <matrix>
+                    <Matrix tx="1035.45" ty="208.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.61"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche" centerPoint3DX="1064.5" centerPoint3DY="261.2">
+                  <matrix>
+                    <Matrix tx="1027.2" ty="227.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.51"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche2" centerPoint3DX="1019.65" centerPoint3DY="261.2">
+                  <matrix>
+                    <Matrix a="-1" tx="1056.95" ty="227.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.49"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche2" centerPoint3DX="1188" centerPoint3DY="269.2">
+                  <matrix>
+                    <Matrix tx="1150.7" ty="235.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.61"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche" centerPoint3DX="1233.35" centerPoint3DY="266.8">
+                  <matrix>
+                    <Matrix tx="1196.05" ty="233.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.61"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche" centerPoint3DX="1106.65" centerPoint3DY="275.8">
+                  <matrix>
+                    <Matrix a="-1" tx="1143.95" ty="242.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.51"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche" centerPoint3DX="1147.75" centerPoint3DY="270.2">
+                  <matrix>
+                    <Matrix tx="1110.45" ty="236.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.61"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche" centerPoint3DX="972.35" centerPoint3DY="261.2">
+                  <matrix>
+                    <Matrix tx="935.05" ty="227.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.61"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche" centerPoint3DX="1264.95" centerPoint3DY="276.8">
+                  <matrix>
+                    <Matrix a="-1" tx="1302.25" ty="243.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.61"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche" centerPoint3DX="958.55" centerPoint3DY="212.75">
+                  <matrix>
+                    <Matrix tx="921.25" ty="179.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.61"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche" centerPoint3DX="270" centerPoint3DY="231.8">
+                  <matrix>
+                    <Matrix tx="232.7" ty="198.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.51"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche" centerPoint3DX="226.7" centerPoint3DY="229.2">
+                  <matrix>
+                    <Matrix a="-1" tx="264" ty="195.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.61"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche2" centerPoint3DX="297.3" centerPoint3DY="192.2">
+                  <matrix>
+                    <Matrix tx="260" ty="158.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.61"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche2" centerPoint3DX="128.05" centerPoint3DY="230.2">
+                  <matrix>
+                    <Matrix tx="90.75" ty="196.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.51"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsRoche" centerPoint3DX="187.4" centerPoint3DY="239.2">
+                  <matrix>
+                    <Matrix tx="150.1" ty="205.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.3" y="33.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.61"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsCloture" name="clotureO_mc" centerPoint3DX="-2" centerPoint3DY="360">
+                  <matrix>
+                    <Matrix a="0.313720703125" d="1.20846557617188" tx="-4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="6.4" y="297.9"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/ObsCloture" name="clotureO_mc" centerPoint3DX="1283" centerPoint3DY="360">
+                  <matrix>
+                    <Matrix a="0.313720703125" d="1.20846557617188" tx="1281"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="6.4" y="297.9"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="clotures" color="#4FFFFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="portes" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/Interactifs/Porte" name="porte_Ravin_mc" centerPoint3DX="639.6" centerPoint3DY="740">
+                  <matrix>
+                    <Matrix a="15.6191864013672" d="1.00128173828125" ty="720.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="40.95" y="19.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.15"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ObstaclesEtObjets/Interactifs/Porte" name="porte_Caverne_mc" centerPoint3DX="622.05" centerPoint3DY="158.25">
+                  <matrix>
+                    <Matrix a="1.22024536132813" d="2.5673828125" tx="572.05" ty="108.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="41" y="19.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.05078125"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="fond" color="#9933CC" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <RadialGradient>
+                        <matrix>
+                          <Matrix a="0" b="0.810623168945313" c="-2.2811279296875" d="0" tx="635.95" ty="167"/>
+                        </matrix>
+                        <GradientEntry color="#151212" ratio="0"/>
+                        <GradientEntry color="#302826" ratio="0.0862745098039216"/>
+                        <GradientEntry color="#463A32" ratio="0.27843137254902"/>
+                        <GradientEntry color="#FCD68B" ratio="1"/>
+                      </RadialGradient>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!25621 14400|21 14400!21 14400|21 0!21 0|25621 0!25621 0|25621 14400"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,24 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="icones/icone32" itemID="581a24be-000000f2" lastModified="1478110382">
+  <timeline>
+    <DOMTimeline name="icone32">
+      <layers>
+        <DOMLayer name="Calque 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="PersosEtMonstres/Composantes/horas/haut_bas/teteHoras groupe/perleHoras">
+                  <matrix>
+                    <Matrix a="11.0344696044922" d="10.0313720703125" tx="-16.05" ty="-16.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="1.45" y="1.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

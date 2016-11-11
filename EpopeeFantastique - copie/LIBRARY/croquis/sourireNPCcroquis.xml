@@ -1,0 +1,36 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="croquis/sourireNPCcroquis" itemID="580d1f64-0000014a" lastModified="1477255012">
+  <timeline>
+    <DOMTimeline name="sourireNPCcroquis">
+      <layers>
+        <DOMLayer name="Calque 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!1048 0S2[1063 15 1073 11!1073 11[1077 14 1077 73!1077 73[1077 116 953 286!953 286[824 454 814 468!814 468|293 468!293 468[273 449 176 429!176 429[110 346 72 292!72 292[0 191 0 137!0 137|49 107!49 107[54 111 204 238!204 238[339 351 371
+ 371!371 371|741 361!741 361[790 311 889 140!889 140[956 25 1048 0"/>
+                    <Edge cubics="!1048 0(;1077,29 1077,-24 1077,73q1048 0Q1063 15q1073 11Q1077 14q1077 73);"/>
+                    <Edge cubics="!1077 73(;1077,142 834,439 814,468q1077 73Q1077 116q953 286Q824 454q814 468);"/>
+                    <Edge cubics="!814 468(;814,468 293,468 293,468q814 468 293 468);"/>
+                    <Edge cubics="!293 468(;293,468 273,449 176,429q293 468Q273 449q176 429);"/>
+                    <Edge cubics="!176 429(;132,366 0,224 0,137q176 429Q110 346q72 292Q0 191q0 137);"/>
+                    <Edge cubics="!0 137(;0,137 49,107 49,107q0 137 49 107);"/>
+                    <Edge cubics="!49 107(;88,137 317,337 371,371q49 107Q54 111q204 238Q339 351q371 371);"/>
+                    <Edge cubics="!371 371(;371,371 741,361 741,361q371 371 741 361);"/>
+                    <Edge cubics="!741 361(;887,210 887,44 1048,0q741 361Q790 311q889 140Q956 25q1048 0);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>
